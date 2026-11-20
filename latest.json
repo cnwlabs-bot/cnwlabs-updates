@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.3",
-  "file": "admin-2.5.3.cwx",
-  "notes": "Fixed: Laboratories table hidden after opening Admin settings",
-  "at": "2026-11-20T18:21:05.662Z"
+  "ver": "2.5.4",
+  "file": "admin-2.5.4.cwx",
+  "notes": "Report settings inside the Admin window; bottom QR off by default",
+  "at": "2026-11-20T18:23:36.693Z"
  },
  "lab": {
-  "ver": "2.5.2",
-  "file": "lab-2.5.2.cwx",
-  "notes": "All earlier test formats withdrawn; formats added one by one after checking",
-  "at": "2026-11-20T18:19:14.563Z"
+  "ver": "2.5.4",
+  "file": "lab-2.5.4.cwx",
+  "notes": "Bottom QR code and text off by default",
+  "at": "2026-11-20T18:23:36.610Z"
  }
 }

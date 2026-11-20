@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.5.4",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings open inside the Admin window (no separate window), with a bar showing the laboratory and a Close button; Admin asks before closing unsaved changes",
+   "Bottom QR code and text off by default on reports"
+  ]
+ },
+ {
+  "ver": "2.5.4",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "The QR code and text at the bottom of reports are now off by default (Report design \u2192 Show on reports can turn them on)"
+  ]
+ },
+ {
   "ver": "2.5.3",
   "target": "admin",
   "date": "20-Nov-2026",
