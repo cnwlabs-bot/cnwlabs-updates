@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.9",
-  "file": "admin-2.4.9.cwx",
-  "notes": "Test formats by rate schedule with standard codes; Changes from Claude page",
-  "at": "2026-11-20T16:56:43.336Z"
+  "ver": "2.5.0",
+  "file": "admin-2.5.0.cwx",
+  "notes": "Test settings page from the left list; Upload PDF format with spelling and specification check",
+  "at": "2026-11-20T18:07:43.519Z"
  }
 }

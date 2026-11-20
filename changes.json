@@ -1,8 +1,65 @@
 [
- {"ver":"2.4.9","target":"admin","date":"20-Nov-2026","notes":["Report settings: test formats listed by the C&W rate schedule (item No., name, rate), with ASTM / AASHTO / BS codes as tags; switch to All A–Z","Search by test name or code (e.g. T 27, C136)","New page: Admin settings → Changes from Claude — this list, and a box to send your next request"]},
- {"ver":"2.4.8","target":"admin","date":"20-Nov-2026","notes":["Admin settings arranged by category (Access, Laboratories, Data & cloud, System)","Sign-in history, including refused accounts and wrong codes","Activity log; Delete permissions page for all labs"]},
- {"ver":"2.4.7","target":"admin","date":"20-Nov-2026","notes":["Stays signed in after an automatic update"]},
- {"ver":"2.4.6","target":"admin","date":"20-Nov-2026","notes":["Report settings: list of all test formats A–Z with search"]},
- {"ver":"2.4.2","target":"admin","date":"20-Nov-2026","notes":["Google sign-in page comes to the front"]},
- {"ver":"2.4.1","target":"admin","date":"20-Nov-2026","notes":["Google sign-in for Admin (owner + added Gmail accounts) with Google Authenticator","Fixed sign-in, Google Drive copying and automatic updates on Windows"]}
+ {
+  "ver": "2.5.0",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings: clicking a test in the left list opens its complete settings page \u2014 codes, rate item, used/not used, format, procedure guide, specification limits, report title, subtitle and remarks \u2014 with its live report",
+   "New: Upload PDF format \u2014 reads your PDF, copies the rows and units, corrects spelling and units (e.g. COMPRESIVE \u2192 COMPRESSIVE, KN \u2192 kN, N/mm2 \u2192 MPa), checks the standard, works out formulas, then opens it for editing",
+   "Making a new developer key now needs typing NEW KEY, so it cannot happen by mistake"
+  ]
+ },
+ {
+  "ver": "2.4.9",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings: test formats listed by the C&W rate schedule (item No., name, rate), with ASTM / AASHTO / BS codes as tags; switch to All A\u2013Z",
+   "Search by test name or code (e.g. T 27, C136)",
+   "New page: Admin settings \u2192 Changes from Claude \u2014 this list, and a box to send your next request"
+  ]
+ },
+ {
+  "ver": "2.4.8",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Admin settings arranged by category (Access, Laboratories, Data & cloud, System)",
+   "Sign-in history, including refused accounts and wrong codes",
+   "Activity log; Delete permissions page for all labs"
+  ]
+ },
+ {
+  "ver": "2.4.7",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Stays signed in after an automatic update"
+  ]
+ },
+ {
+  "ver": "2.4.6",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings: list of all test formats A\u2013Z with search"
+  ]
+ },
+ {
+  "ver": "2.4.2",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Google sign-in page comes to the front"
+  ]
+ },
+ {
+  "ver": "2.4.1",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Google sign-in for Admin (owner + added Gmail accounts) with Google Authenticator",
+   "Fixed sign-in, Google Drive copying and automatic updates on Windows"
+  ]
+ }
 ]
