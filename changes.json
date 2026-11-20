@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.7.9",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: new Entry sheet at the top \u2014 one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
+   "Works like Excel: Enter = down, Tab / arrow keys = move, Ctrl+D = copy down, and Ctrl+V pastes many rows copied straight from Excel (stops at the number paid on the bill)",
+   "Age is worked out from each sample's casting date and the testing date, or typed"
+  ]
+ },
+ {
+  "ver": "2.7.9",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: new Entry sheet at the top \u2014 one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
+   "Works like Excel: Enter = down, Tab / arrow keys = move, Ctrl+D = copy down, and Ctrl+V pastes many rows copied straight from Excel (stops at the number paid on the bill)",
+   "Age is worked out from each sample's casting date and the testing date, or typed"
+  ]
+ },
+ {
   "ver": "2.7.8",
   "target": "admin",
   "date": "21-Nov-2026",

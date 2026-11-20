@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.8",
-  "file": "admin-2.7.8.cwx",
-  "notes": "Click the sample report to set cells: typed / copied / automatic / formula",
-  "at": "2026-11-20T21:43:44.658Z"
+  "ver": "2.7.9",
+  "file": "admin-2.7.9.cwx",
+  "notes": "Labs 2.7.9: entry sheet like Excel",
+  "at": "2026-11-20T22:10:59.404Z"
  },
  "lab": {
-  "ver": "2.7.8",
-  "file": "lab-2.7.8.cwx",
-  "notes": "Type readings straight into the report, like Excel",
-  "at": "2026-11-20T21:43:44.531Z"
+  "ver": "2.7.9",
+  "file": "lab-2.7.9.cwx",
+  "notes": "Entry sheet like Excel, paste from Excel",
+  "at": "2026-11-20T22:10:59.280Z"
  }
 }
