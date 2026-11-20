@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.4",
-  "file": "admin-2.5.4.cwx",
-  "notes": "Report settings inside the Admin window; bottom QR off by default",
-  "at": "2026-11-20T18:23:36.693Z"
+  "ver": "2.5.5",
+  "file": "admin-2.5.5.cwx",
+  "notes": "Reports fill A4; larger open signature and stamp space",
+  "at": "2026-11-20T18:25:29.033Z"
  },
  "lab": {
-  "ver": "2.5.4",
-  "file": "lab-2.5.4.cwx",
-  "notes": "Bottom QR code and text off by default",
-  "at": "2026-11-20T18:23:36.610Z"
+  "ver": "2.5.5",
+  "file": "lab-2.5.5.cwx",
+  "notes": "Reports fill A4; larger open signature and stamp space",
+  "at": "2026-11-20T18:25:28.940Z"
  }
 }

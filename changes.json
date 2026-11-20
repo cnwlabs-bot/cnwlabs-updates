@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.5.5",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Reports fill the A4 page: when a report is shorter than the page, the spare space goes to the signature & stamp boxes at the bottom",
+   "Signature & stamp boxes are larger and open (light dashed lines between them); signature and stamp pictures can be bigger"
+  ]
+ },
+ {
+  "ver": "2.5.5",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Reports fill the A4 page: when a report is shorter than the page, the spare space goes to the signature & stamp boxes at the bottom",
+   "Signature & stamp boxes are larger and open (light dashed lines between them); signature and stamp pictures can be bigger"
+  ]
+ },
+ {
   "ver": "2.5.4",
   "target": "admin",
   "date": "20-Nov-2026",
