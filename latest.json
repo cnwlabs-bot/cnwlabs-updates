@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.6",
-  "file": "admin-2.6.6.cwx",
-  "notes": "Saved settings now reach labs through Firebase; removing texts works",
-  "at": "2026-11-20T19:21:06.690Z"
+  "ver": "2.6.7",
+  "file": "admin-2.6.7.cwx",
+  "notes": "Per-column, per-row and per-part text controls",
+  "at": "2026-11-20T19:32:33.559Z"
  },
  "lab": {
-  "ver": "2.6.6",
-  "file": "lab-2.6.6.cwx",
-  "notes": "Removing remark / disclaimer / note now works",
-  "at": "2026-11-20T19:21:06.602Z"
+  "ver": "2.6.7",
+  "file": "lab-2.6.7.cwx",
+  "notes": "Per-column, per-row and per-part text controls",
+  "at": "2026-11-20T19:32:33.460Z"
  }
 }
