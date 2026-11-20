@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.5",
-  "file": "admin-2.6.5.cwx",
-  "notes": "Columns & rows editor; clear remark and disclaimer",
-  "at": "2026-11-20T19:13:10.277Z"
+  "ver": "2.6.6",
+  "file": "admin-2.6.6.cwx",
+  "notes": "Saved settings now reach labs through Firebase; removing texts works",
+  "at": "2026-11-20T19:21:06.690Z"
  },
  "lab": {
-  "ver": "2.6.5",
-  "file": "lab-2.6.5.cwx",
-  "notes": "Columns & rows layout per test; clear remark and disclaimer",
-  "at": "2026-11-20T19:13:10.185Z"
+  "ver": "2.6.6",
+  "file": "lab-2.6.6.cwx",
+  "notes": "Removing remark / disclaimer / note now works",
+  "at": "2026-11-20T19:21:06.602Z"
  }
 }

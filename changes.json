@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.6.6",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Fixed: Report settings saved in Admin were not sent to the labs (they only went through the old web-app service). Now every Save sends them at once through Firebase",
+   "Fixed: clearing the Disclaimer, the automatic Remark or the Red note now removes it from reports (before, the built-in text came back)"
+  ]
+ },
+ {
+  "ver": "2.6.6",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Fixed: clearing the Disclaimer, the automatic Remark or the Red note now removes it from reports (before, the built-in text came back)"
+  ]
+ },
+ {
   "ver": "2.6.5",
   "target": "admin",
   "date": "21-Nov-2026",
