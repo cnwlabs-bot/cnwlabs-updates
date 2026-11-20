@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.5.2",
-  "file": "admin-2.5.2.cwx",
-  "notes": "All earlier formats withdrawn; Upload PDF format button in the list",
-  "at": "2026-11-20T18:19:14.656Z"
+  "ver": "2.5.3",
+  "file": "admin-2.5.3.cwx",
+  "notes": "Fixed: Laboratories table hidden after opening Admin settings",
+  "at": "2026-11-20T18:21:05.662Z"
  },
  "lab": {
   "ver": "2.5.2",
