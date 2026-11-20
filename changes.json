@@ -1,5 +1,27 @@
 [
  {
+  "ver": "2.6.1",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Compressive strength: when no specified strength (f\u2032c) is given, an automatic remark is printed: \u201cNo specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.\u201d The lab can write its own remark in the report",
+   "When f\u2032c is given: a Specification block (f\u2032c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
+   "Graph shows the f\u2032c line and the lower-limit line when f\u2032c is given",
+   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading \u2192 Default texts on reports); each report can use its own text"
+  ]
+ },
+ {
+  "ver": "2.6.1",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Compressive strength: when no specified strength (f\u2032c) is given, an automatic remark is printed: \u201cNo specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.\u201d The lab can write its own remark in the report",
+   "When f\u2032c is given: a Specification block (f\u2032c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
+   "Graph shows the f\u2032c line and the lower-limit line when f\u2032c is given",
+   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading \u2192 Default texts on reports); each report can use its own text"
+  ]
+ },
+ {
   "ver": "2.6.0",
   "target": "admin",
   "date": "20-Nov-2026",
