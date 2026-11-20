@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.7",
-  "file": "admin-2.4.7.cwx",
-  "notes": "Test formats A-Z with search; stays signed in after updates; Google page comes to front",
-  "at": "2026-11-20T15:45:41.669Z"
+  "ver": "2.4.8",
+  "file": "admin-2.4.8.cwx",
+  "notes": "Admin settings arranged by category; sign-in history; activity log; delete permissions page",
+  "at": "2026-11-20T16:31:09.144Z"
  }
 }
