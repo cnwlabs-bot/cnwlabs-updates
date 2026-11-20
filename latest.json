@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.4",
-  "file": "admin-2.7.4.cwx",
-  "notes": "Labs get an update pop-up for every change",
-  "at": "2026-11-20T21:24:42.948Z"
+  "ver": "2.7.5",
+  "file": "admin-2.7.5.cwx",
+  "notes": "Labs 2.7.5",
+  "at": "2026-11-20T21:27:45.000Z"
  },
  "lab": {
-  "ver": "2.7.4",
-  "file": "lab-2.7.4.cwx",
-  "notes": "Update pop-up for every change; sets & sample codes; paid specimen limit",
-  "at": "2026-11-20T21:24:42.822Z"
+  "ver": "2.7.5",
+  "file": "lab-2.7.5.cwx",
+  "notes": "Challan box removed from billed reports; update pop-up; sets & sample codes; paid limit",
+  "at": "2026-11-20T21:27:44.862Z"
  }
 }

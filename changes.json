@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.7.5",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Test report: the \u201cChallan & client letter\u201d box is removed for reports made from a bill \u2014 the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
+  ]
+ },
+ {
+  "ver": "2.7.5",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Test report: the \u201cChallan & client letter\u201d box is removed for reports made from a bill \u2014 the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
+  ]
+ },
+ {
   "ver": "2.7.4",
   "target": "admin",
   "date": "21-Nov-2026",
