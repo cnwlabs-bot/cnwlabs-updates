@@ -1,5 +1,33 @@
 [
  {
+  "ver": "2.8.2",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or \u201cnot provided\u201d with the automatic remark) \u2192 2 Procedure (English / \u0627\u0631\u062f\u0648, full steps, specification & tolerance limits, what to do on pass / fail) \u2192 3 Sets \u2192 4 Loads \u2192 5 Finish",
+   "Sets: each set has its own number of samples, sub-head, sub-work, casting date and age; the total must be exactly the number on the receipt (Next is blocked otherwise)",
+   "Sample codes A-1, A-2 \u2026 B-1 \u2026; each sub-head in the report starts with its set letters, with sub-work and casting date",
+   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; \u201cDamaged / not tested\u201d counts for the receipt, prints as Not tested and is left out of the average",
+   "Finish: final check list, Lab In-charge confirmation when a set fails, full report preview, Save as draft / Save PDF / Finalize & print",
+   "\ud83e\udded Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
+   "Automatic remark: \u201cThe client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.\u201d"
+  ]
+ },
+ {
+  "ver": "2.8.2",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or \u201cnot provided\u201d with the automatic remark) \u2192 2 Procedure (English / \u0627\u0631\u062f\u0648, full steps, specification & tolerance limits, what to do on pass / fail) \u2192 3 Sets \u2192 4 Loads \u2192 5 Finish",
+   "Sets: each set has its own number of samples, sub-head, sub-work, casting date and age; the total must be exactly the number on the receipt (Next is blocked otherwise)",
+   "Sample codes A-1, A-2 \u2026 B-1 \u2026; each sub-head in the report starts with its set letters, with sub-work and casting date",
+   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; \u201cDamaged / not tested\u201d counts for the receipt, prints as Not tested and is left out of the average",
+   "Finish: final check list, Lab In-charge confirmation when a set fails, full report preview, Save as draft / Save PDF / Finalize & print",
+   "\ud83e\udded Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
+   "Automatic remark: \u201cThe client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.\u201d"
+  ]
+ },
+ {
   "ver": "2.8.1",
   "target": "admin",
   "date": "21-Nov-2026",

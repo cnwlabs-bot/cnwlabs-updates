@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.1",
-  "file": "admin-2.8.1.cwx",
-  "notes": "Labs 2.8.1",
-  "at": "2026-11-20T22:15:53.678Z"
+  "ver": "2.8.2",
+  "file": "admin-2.8.2.cwx",
+  "notes": "Labs 2.8.2: step-by-step new report",
+  "at": "2026-11-20T23:17:22.359Z"
  },
  "lab": {
-  "ver": "2.8.1",
-  "file": "lab-2.8.1.cwx",
-  "notes": "Earlier-entered data shows green and is not typed again",
-  "at": "2026-11-20T22:15:53.565Z"
+  "ver": "2.8.2",
+  "file": "lab-2.8.2.cwx",
+  "notes": "Step-by-step new report: Selection, Procedure (English/Urdu), Sets, Loads, Finish",
+  "at": "2026-11-20T23:17:22.248Z"
  }
 }
