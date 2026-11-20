@@ -1,5 +1,13 @@
 [
  {
+  "ver": "2.6.0",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings preview shows the compressive strength report with sample results, so the graph is visible while you design"
+  ]
+ },
+ {
   "ver": "2.5.9",
   "target": "admin",
   "date": "20-Nov-2026",
