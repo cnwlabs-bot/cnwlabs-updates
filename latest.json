@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.7",
-  "file": "admin-2.6.7.cwx",
-  "notes": "Per-column, per-row and per-part text controls",
-  "at": "2026-11-20T19:32:33.559Z"
+  "ver": "2.6.8",
+  "file": "admin-2.6.8.cwx",
+  "notes": "Specifications & tolerance; print / PDF sample",
+  "at": "2026-11-20T19:37:28.402Z"
  },
  "lab": {
-  "ver": "2.6.7",
-  "file": "lab-2.6.7.cwx",
-  "notes": "Per-column, per-row and per-part text controls",
-  "at": "2026-11-20T19:32:33.460Z"
+  "ver": "2.6.8",
+  "file": "lab-2.6.8.cwx",
+  "notes": "Specifications with tolerance per test",
+  "at": "2026-11-20T19:37:28.316Z"
  }
 }
