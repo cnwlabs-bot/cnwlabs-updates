@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.5",
-  "file": "admin-2.7.5.cwx",
-  "notes": "Labs 2.7.5",
-  "at": "2026-11-20T21:27:45.000Z"
+  "ver": "2.7.6",
+  "file": "admin-2.7.6.cwx",
+  "notes": "Labs 2.7.6",
+  "at": "2026-11-20T21:28:01.179Z"
  },
  "lab": {
-  "ver": "2.7.5",
-  "file": "lab-2.7.5.cwx",
-  "notes": "Challan box removed from billed reports; update pop-up; sets & sample codes; paid limit",
-  "at": "2026-11-20T21:27:44.862Z"
+  "ver": "2.7.6",
+  "file": "lab-2.7.6.cwx",
+  "notes": "Update pop-up shown while signed in and on the sign-in screen",
+  "at": "2026-11-20T21:28:01.088Z"
  }
 }

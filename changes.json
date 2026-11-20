@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.7.6",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "The \u201cNew version \u2014 Update now\u201d pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
+  ]
+ },
+ {
+  "ver": "2.7.6",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "The \u201cNew version \u2014 Update now\u201d pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
+  ]
+ },
+ {
   "ver": "2.7.5",
   "target": "admin",
   "date": "21-Nov-2026",
