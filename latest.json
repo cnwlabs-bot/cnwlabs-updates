@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.1",
-  "file": "admin-2.5.1.cwx",
-  "notes": "Preview uses the corrected compressive strength format",
-  "at": "2026-11-20T18:17:13.690Z"
+  "ver": "2.5.2",
+  "file": "admin-2.5.2.cwx",
+  "notes": "All earlier formats withdrawn; Upload PDF format button in the list",
+  "at": "2026-11-20T18:19:14.656Z"
  },
  "lab": {
-  "ver": "2.5.1",
-  "file": "lab-2.5.1.cwx",
-  "notes": "Compressive strength: ASTM C39 / AASHTO T 22 codes, nearest 10 PSI, type of fracture, age from dates",
-  "at": "2026-11-20T18:17:13.588Z"
+  "ver": "2.5.2",
+  "file": "lab-2.5.2.cwx",
+  "notes": "All earlier test formats withdrawn; formats added one by one after checking",
+  "at": "2026-11-20T18:19:14.563Z"
  }
 }

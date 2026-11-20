@@ -1,5 +1,24 @@
 [
  {
+  "ver": "2.5.2",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "All earlier test formats withdrawn: labs cannot start new reports with them. Old reports still open and print as before.",
+   "Formats are now added one by one after checking against their standard",
+   "Report settings: \u2b06 Upload PDF format button at the top of the Test formats list"
+  ]
+ },
+ {
+  "ver": "2.5.2",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "All earlier test formats withdrawn: labs cannot start new reports with them. Old reports still open and print as before.",
+   "Formats are now added one by one after checking against their standard"
+  ]
+ },
+ {
   "ver": "2.5.1",
   "target": "admin",
   "date": "20-Nov-2026",
