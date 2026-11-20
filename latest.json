@@ -2,7 +2,7 @@
  "admin": {
   "ver": "2.4.7",
   "file": "admin-2.4.7.cwx",
-  "notes": "Admin stays signed in after an automatic update",
-  "at": "2026-11-20T15:42:22.136Z"
+  "notes": "Test formats A-Z with search; stays signed in after updates; Google page comes to front",
+  "at": "2026-11-20T15:45:41.669Z"
  }
 }
