@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.8.1",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Data already entered earlier is not typed again: Report No. (from the bill), To / sent by, contractor and name of work (from the project), received on, letter ref, letter date and sample type (from the bill / sample register) show in GREEN and cannot be typed",
+   "Only what is still missing shows in YELLOW for the lab to type (e.g. testing date, casting date, concrete type, loads)",
+   "Admin can change each field: From the bill / project (default) \u00b7 Lab can always type \u00b7 Locked"
+  ]
+ },
+ {
+  "ver": "2.8.1",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Data already entered earlier is not typed again: Report No. (from the bill), To / sent by, contractor and name of work (from the project), received on, letter ref, letter date and sample type (from the bill / sample register) show in GREEN and cannot be typed",
+   "Only what is still missing shows in YELLOW for the lab to type (e.g. testing date, casting date, concrete type, loads)",
+   "Admin can change each field: From the bill / project (default) \u00b7 Lab can always type \u00b7 Locked"
+  ]
+ },
+ {
   "ver": "2.8.0",
   "target": "admin",
   "date": "21-Nov-2026",

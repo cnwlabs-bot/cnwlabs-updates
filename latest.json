@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.0",
-  "file": "admin-2.8.0.cwx",
-  "notes": "Labs 2.8.0: entry inside the report",
-  "at": "2026-11-20T22:13:13.339Z"
+  "ver": "2.8.1",
+  "file": "admin-2.8.1.cwx",
+  "notes": "Labs 2.8.1",
+  "at": "2026-11-20T22:15:53.678Z"
  },
  "lab": {
-  "ver": "2.8.0",
-  "file": "lab-2.8.0.cwx",
-  "notes": "All entry inside the report, full screen",
-  "at": "2026-11-20T22:13:13.231Z"
+  "ver": "2.8.1",
+  "file": "lab-2.8.1.cwx",
+  "notes": "Earlier-entered data shows green and is not typed again",
+  "at": "2026-11-20T22:15:53.565Z"
  }
 }
