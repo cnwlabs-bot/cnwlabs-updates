@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.6",
-  "file": "admin-2.4.6.cwx",
-  "notes": "Report settings: list of all test formats A to Z with search",
-  "at": "2026-11-20T15:40:58.628Z"
+  "ver": "2.4.7",
+  "file": "admin-2.4.7.cwx",
+  "notes": "Admin stays signed in after an automatic update",
+  "at": "2026-11-20T15:42:22.136Z"
  }
 }
