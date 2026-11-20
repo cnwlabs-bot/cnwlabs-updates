@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.6",
-  "file": "admin-2.5.6.cwx",
-  "notes": "Size & layout options; dates DD-Mon-YYYY; clear note",
-  "at": "2026-11-20T18:29:16.724Z"
+  "ver": "2.5.7",
+  "file": "admin-2.5.7.cwx",
+  "notes": "Only Compressive Strength format active",
+  "at": "2026-11-20T18:31:22.386Z"
  },
  "lab": {
-  "ver": "2.5.6",
-  "file": "lab-2.5.6.cwx",
-  "notes": "Original signature look; dates DD-Mon-YYYY; clear note; size & layout options",
-  "at": "2026-11-20T18:29:16.626Z"
+  "ver": "2.5.7",
+  "file": "lab-2.5.7.cwx",
+  "notes": "Only Compressive Strength format active; linked to rate items 49, 50, 51",
+  "at": "2026-11-20T18:31:22.292Z"
  }
 }

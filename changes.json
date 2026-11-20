@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.5.7",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Only one test format is active now: Compressive Strength \u2014 Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
+   "It is linked to rate items 49 (PCC cube), 50 (cylinder) and 51 (cylinder with capping), so bills use those rates",
+   "Standard codes shown: ASTM C39/C39M, AASHTO T 22, BS EN 12390-3, ASTM C140, BS EN 1338"
+  ]
+ },
+ {
+  "ver": "2.5.7",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Only one test format is active now: Compressive Strength \u2014 Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
+   "It is linked to rate items 49 (PCC cube), 50 (cylinder) and 51 (cylinder with capping), so bills use those rates",
+   "Standard codes shown: ASTM C39/C39M, AASHTO T 22, BS EN 12390-3, ASTM C140, BS EN 1338"
+  ]
+ },
+ {
   "ver": "2.5.6",
   "target": "admin",
   "date": "20-Nov-2026",
