@@ -1,5 +1,27 @@
 [
  {
+  "ver": "2.8.0",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: everything is typed inside the report itself \u2014 no separate boxes or entry sheet. The report fills the screen",
+   "Typed in the report: Report No. and date, To / sent by, contractor, name of work, the top box dates, sample codes, loads, sizes, age, fracture, sample-provided-by text, remarks and disclaimer",
+   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; \u2699 More details opens staff, equipment and other settings only when needed",
+   "Admin can lock any of these top-box fields (Report settings \u2192 click the field in the sample report)"
+  ]
+ },
+ {
+  "ver": "2.8.0",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: everything is typed inside the report itself \u2014 no separate boxes or entry sheet. The report fills the screen",
+   "Typed in the report: Report No. and date, To / sent by, contractor, name of work, the top box dates, sample codes, loads, sizes, age, fracture, sample-provided-by text, remarks and disclaimer",
+   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; \u2699 More details opens staff, equipment and other settings only when needed",
+   "Admin can lock any of these top-box fields (Report settings \u2192 click the field in the sample report)"
+  ]
+ },
+ {
   "ver": "2.7.9",
   "target": "admin",
   "date": "21-Nov-2026",
