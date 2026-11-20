@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.8",
-  "file": "admin-2.6.8.cwx",
-  "notes": "Specifications & tolerance; print / PDF sample",
-  "at": "2026-11-20T19:37:28.402Z"
+  "ver": "2.6.9",
+  "file": "admin-2.6.9.cwx",
+  "notes": "Labs 2.6.9: any listed lab signs in on any PC",
+  "at": "2026-11-20T19:47:30.344Z"
  },
  "lab": {
-  "ver": "2.6.8",
-  "file": "lab-2.6.8.cwx",
-  "notes": "Specifications with tolerance per test",
-  "at": "2026-11-20T19:37:28.316Z"
+  "ver": "2.6.9",
+  "file": "lab-2.6.9.cwx",
+  "notes": "Any listed lab can sign in on any PC; offline + Drive sync",
+  "at": "2026-11-20T19:47:30.237Z"
  }
 }

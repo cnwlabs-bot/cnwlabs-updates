@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.6.9",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sign-in screen: the 'Laboratory \u2026' box is removed",
+   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive \u2014 labs never see each other's data",
+   "Works fully offline; the moment internet comes back (and right after sign-in) the PC and Google Drive are made the same"
+  ]
+ },
+ {
+  "ver": "2.6.9",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sign-in screen: the 'Laboratory \u2026' box is removed",
+   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive \u2014 labs never see each other's data",
+   "Works fully offline; the moment internet comes back (and right after sign-in) the PC and Google Drive are made the same"
+  ]
+ },
+ {
   "ver": "2.6.8",
   "target": "admin",
   "date": "21-Nov-2026",
