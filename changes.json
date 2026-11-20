@@ -1,5 +1,31 @@
 [
  {
+  "ver": "2.7.0",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "New \u201cLab data\u201d page: every lab's Google Drive folder \u2014 connected / not connected, lab Gmail, Admin access, which PC it is open on, last save, files; View data (reports, bills, totals) and Open folder; refreshes every minute",
+   "Admin accounts (owner + added Gmails) are given full access to every lab folder automatically",
+   "Internet is required (a slow connection is fine). On opening, the latest data comes from the lab's Google Drive first; every save reaches Google Drive within seconds",
+   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. \u201cRR&MTL Swat \u2013 C&W Labs Data\u201d). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
+   "A laboratory is open on one PC at a time; another PC can take over and the first PC is signed out after saving",
+   "If internet drops while working, a red bar shows and the changes are sent as soon as it returns",
+   "Signing in on a new PC brings the lab's data from Google Drive with no duplicate records"
+  ]
+ },
+ {
+  "ver": "2.7.0",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Internet is required (a slow connection is fine). On opening, the latest data comes from the lab's Google Drive first; every save reaches Google Drive within seconds",
+   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. \u201cRR&MTL Swat \u2013 C&W Labs Data\u201d). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
+   "A laboratory is open on one PC at a time; another PC can take over and the first PC is signed out after saving",
+   "If internet drops while working, a red bar shows and the changes are sent as soon as it returns",
+   "Signing in on a new PC brings the lab's data from Google Drive with no duplicate records"
+  ]
+ },
+ {
   "ver": "2.6.9",
   "target": "admin",
   "date": "21-Nov-2026",

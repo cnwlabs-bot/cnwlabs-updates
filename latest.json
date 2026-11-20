@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.9",
-  "file": "admin-2.6.9.cwx",
-  "notes": "Labs 2.6.9: any listed lab signs in on any PC",
-  "at": "2026-11-20T19:47:30.344Z"
+  "ver": "2.7.0",
+  "file": "admin-2.7.0.cwx",
+  "notes": "Lab data page: every lab's Google Drive",
+  "at": "2026-11-20T20:04:28.173Z"
  },
  "lab": {
-  "ver": "2.6.9",
-  "file": "lab-2.6.9.cwx",
-  "notes": "Any listed lab can sign in on any PC; offline + Drive sync",
-  "at": "2026-11-20T19:47:30.237Z"
+  "ver": "2.7.0",
+  "file": "lab-2.7.0.cwx",
+  "notes": "Internet required; Google Drive first; full access for Admin; one PC at a time",
+  "at": "2026-11-20T20:04:28.071Z"
  }
 }
