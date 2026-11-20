@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.1",
-  "file": "admin-2.7.1.cwx",
-  "notes": "Labs 2.7.1: sets, sub-headings, sample codes",
-  "at": "2026-11-20T21:16:19.130Z"
+  "ver": "2.7.2",
+  "file": "admin-2.7.2.cwx",
+  "notes": "Labs 2.7.2: paid specimen limit",
+  "at": "2026-11-20T21:18:15.657Z"
  },
  "lab": {
-  "ver": "2.7.1",
-  "file": "lab-2.7.1.cwx",
-  "notes": "Sets, work sub-headings and sample codes in compressive strength",
-  "at": "2026-11-20T21:16:19.003Z"
+  "ver": "2.7.2",
+  "file": "lab-2.7.2.cwx",
+  "notes": "Specimens limited to the number paid on the bill",
+  "at": "2026-11-20T21:18:15.515Z"
  }
 }

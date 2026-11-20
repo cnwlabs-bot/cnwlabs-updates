@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.7.2",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more \u2014 a new bill is needed for extra specimens",
+   "The specimen counter shows e.g. \u201c2 of 2 paid on the bill (PAYMIR \u2026)\u201d; Test Qty is set by the bill and cannot be changed in the report",
+   "Older reports: empty specimen boxes above the paid number are removed when the report is opened"
+  ]
+ },
+ {
+  "ver": "2.7.2",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more \u2014 a new bill is needed for extra specimens",
+   "The specimen counter shows e.g. \u201c2 of 2 paid on the bill (PAYMIR \u2026)\u201d; Test Qty is set by the bill and cannot be changed in the report",
+   "Older reports: empty specimen boxes above the paid number are removed when the report is opened"
+  ]
+ },
+ {
   "ver": "2.7.1",
   "target": "admin",
   "date": "21-Nov-2026",
