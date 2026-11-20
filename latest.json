@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.8",
-  "file": "admin-2.4.8.cwx",
-  "notes": "Admin settings arranged by category; sign-in history; activity log; delete permissions page",
-  "at": "2026-11-20T16:31:09.144Z"
+  "ver": "2.4.9",
+  "file": "admin-2.4.9.cwx",
+  "notes": "Test formats by rate schedule with standard codes; Changes from Claude page",
+  "at": "2026-11-20T16:52:54.396Z"
  }
 }
