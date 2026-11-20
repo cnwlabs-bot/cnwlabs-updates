@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.7",
-  "file": "admin-2.7.7.cwx",
-  "notes": "Labs 2.7.7",
-  "at": "2026-11-20T21:30:26.819Z"
+  "ver": "2.7.8",
+  "file": "admin-2.7.8.cwx",
+  "notes": "Click the sample report to set cells: typed / copied / automatic / formula",
+  "at": "2026-11-20T21:43:44.658Z"
  },
  "lab": {
-  "ver": "2.7.7",
-  "file": "lab-2.7.7.cwx",
-  "notes": "Upload signatures & stamps from the PC (My Lab and Staff)",
-  "at": "2026-11-20T21:30:26.713Z"
+  "ver": "2.7.8",
+  "file": "lab-2.7.8.cwx",
+  "notes": "Type readings straight into the report, like Excel",
+  "at": "2026-11-20T21:43:44.531Z"
  }
 }
