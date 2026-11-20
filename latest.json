@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.5.8",
-  "file": "admin-2.5.8.cwx",
-  "notes": "Lab details fill in automatically from the lab name",
-  "at": "2026-11-20T18:32:44.497Z"
+  "ver": "2.5.9",
+  "file": "admin-2.5.9.cwx",
+  "notes": "Report settings: 5 simple tabs incl. new Tests & rates",
+  "at": "2026-11-20T18:36:21.649Z"
  },
  "lab": {
   "ver": "2.5.8",

@@ -1,5 +1,15 @@
 [
  {
+  "ver": "2.5.9",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings simplified to 5 tabs: Lab & heading (incl. colours, font, size & layout, signature boxes), Tests & rates (new), Numbering & bills, Progress reports & MPR, Security",
+   "New Tests & rates tab: which tests the lab uses, their linked rate items, and the full C&W rate schedule with Edit rates",
+   "Removed confusing tabs: Report design, Labels, Tests, Procedures & specs, Bills & screens"
+  ]
+ },
+ {
   "ver": "2.5.8",
   "target": "admin",
   "date": "20-Nov-2026",
