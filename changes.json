@@ -1,5 +1,29 @@
 [
  {
+  "ver": "2.7.1",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: every sample has a Work No., a Set No., its own sample code and (if different) its own casting date",
+   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set \u2014 each set gets its own age and its own average",
+   "When the Name of work has parts (1- \u2026, 2- \u2026), the report shows each part as its own sub-heading with its samples under it",
+   "Sample codes are made automatically (e.g. 1A-1 = work 1, set A, sample 1) unless the lab types its own",
+   "Below the specification, a set-by-set table shows each set's average, lowest result and Meets / Does not meet"
+  ]
+ },
+ {
+  "ver": "2.7.1",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Compressive strength: every sample has a Work No., a Set No., its own sample code and (if different) its own casting date",
+   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set \u2014 each set gets its own age and its own average",
+   "When the Name of work has parts (1- \u2026, 2- \u2026), the report shows each part as its own sub-heading with its samples under it",
+   "Sample codes are made automatically (e.g. 1A-1 = work 1, set A, sample 1) unless the lab types its own",
+   "Below the specification, a set-by-set table shows each set's average, lowest result and Meets / Does not meet"
+  ]
+ },
+ {
   "ver": "2.7.0",
   "target": "admin",
   "date": "21-Nov-2026",

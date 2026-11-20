@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.0",
-  "file": "admin-2.7.0.cwx",
-  "notes": "Lab data page: every lab's Google Drive",
-  "at": "2026-11-20T20:04:28.173Z"
+  "ver": "2.7.1",
+  "file": "admin-2.7.1.cwx",
+  "notes": "Labs 2.7.1: sets, sub-headings, sample codes",
+  "at": "2026-11-20T21:16:19.130Z"
  },
  "lab": {
-  "ver": "2.7.0",
-  "file": "lab-2.7.0.cwx",
-  "notes": "Internet required; Google Drive first; full access for Admin; one PC at a time",
-  "at": "2026-11-20T20:04:28.071Z"
+  "ver": "2.7.1",
+  "file": "lab-2.7.1.cwx",
+  "notes": "Sets, work sub-headings and sample codes in compressive strength",
+  "at": "2026-11-20T21:16:19.003Z"
  }
 }
