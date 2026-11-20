@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.3",
-  "file": "admin-2.6.3.cwx",
-  "notes": "Cores and bricks taken out of Compressive Strength",
-  "at": "2026-11-20T18:51:13.412Z"
+  "ver": "2.6.4",
+  "file": "admin-2.6.4.cwx",
+  "notes": "New formats: cores and bricks",
+  "at": "2026-11-20T18:54:12.141Z"
  },
  "lab": {
-  "ver": "2.6.3",
-  "file": "lab-2.6.3.cwx",
-  "notes": "Cores and bricks taken out of Compressive Strength (own formats later)",
-  "at": "2026-11-20T18:51:13.297Z"
+  "ver": "2.6.4",
+  "file": "lab-2.6.4.cwx",
+  "notes": "New formats: cores (ASTM C42) and bricks (ASTM C67)",
+  "at": "2026-11-20T18:54:12.019Z"
  }
 }
