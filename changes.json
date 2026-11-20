@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.7.3",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Lab program: while it is open it looks for a new version every 10 minutes and shows \u201cNew version ready \u2014 Install now\u201d (data is saved to Google Drive first). No need to close and reopen",
+   "Admin sends the lab update to the labs first, before restarting itself for its own update"
+  ]
+ },
+ {
+  "ver": "2.7.3",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Lab program: while it is open it looks for a new version every 10 minutes and shows \u201cNew version ready \u2014 Install now\u201d (data is saved to Google Drive first). No need to close and reopen",
+   "Admin sends the lab update to the labs first, before restarting itself for its own update"
+  ]
+ },
+ {
   "ver": "2.7.2",
   "target": "admin",
   "date": "21-Nov-2026",

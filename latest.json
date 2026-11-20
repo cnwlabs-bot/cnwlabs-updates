@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.7.2",
-  "file": "admin-2.7.2.cwx",
-  "notes": "Labs 2.7.2: paid specimen limit",
-  "at": "2026-11-20T21:18:15.657Z"
+  "ver": "2.7.3",
+  "file": "admin-2.7.3.cwx",
+  "notes": "Lab updates sent first",
+  "at": "2026-11-20T21:23:20.381Z"
  },
  "lab": {
-  "ver": "2.7.2",
-  "file": "lab-2.7.2.cwx",
-  "notes": "Specimens limited to the number paid on the bill",
-  "at": "2026-11-20T21:18:15.515Z"
+  "ver": "2.7.3",
+  "file": "lab-2.7.3.cwx",
+  "notes": "Sets & sample codes, paid specimen limit, Install-now bar",
+  "at": "2026-11-20T21:23:20.275Z"
  }
 }
