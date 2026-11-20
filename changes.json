@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.7.4",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Lab program: a pop-up \u201cUpdate now\u201d appears whenever something is updated \u2014 a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
+   "\u201cLater\u201d hides the pop-up for 15 minutes, then it shows again until the lab updates"
+  ]
+ },
+ {
+  "ver": "2.7.4",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Lab program: a pop-up \u201cUpdate now\u201d appears whenever something is updated \u2014 a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
+   "\u201cLater\u201d hides the pop-up for 15 minutes, then it shows again until the lab updates"
+  ]
+ },
+ {
   "ver": "2.7.3",
   "target": "admin",
   "date": "21-Nov-2026",
