@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.3",
-  "file": "admin-2.4.3.cwx",
-  "notes": "Test: Welcome Admin message after sign-in",
-  "at": "2026-11-20T15:18:03.270Z"
+  "ver": "2.4.4",
+  "file": "admin-2.4.4.cwx",
+  "notes": "Test: Welcome Admin popup shows straight away after the update",
+  "at": "2026-11-20T15:20:17.143Z"
  }
 }
