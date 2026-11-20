@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.6.5",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Report settings \u2192 click a test \u2192 Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size \u2014 the live report changes at once (works for Compressive Strength, Cores and Bricks)",
+   "Texts: one clear place for the Remark (when no specification is given) and the Disclaimer; the confusing 'Default remarks' and 'Result wording' boxes removed. A disclaimer typed earlier in 'Default remarks' is moved over automatically"
+  ]
+ },
+ {
+  "ver": "2.6.5",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Report settings \u2192 click a test \u2192 Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size \u2014 the live report changes at once (works for Compressive Strength, Cores and Bricks)",
+   "Texts: one clear place for the Remark (when no specification is given) and the Disclaimer; the confusing 'Default remarks' and 'Result wording' boxes removed. A disclaimer typed earlier in 'Default remarks' is moved over automatically"
+  ]
+ },
+ {
   "ver": "2.6.4",
   "target": "admin",
   "date": "20-Nov-2026",

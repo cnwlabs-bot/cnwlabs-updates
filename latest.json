@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.4",
-  "file": "admin-2.6.4.cwx",
-  "notes": "New formats: cores and bricks",
-  "at": "2026-11-20T18:54:12.141Z"
+  "ver": "2.6.5",
+  "file": "admin-2.6.5.cwx",
+  "notes": "Columns & rows editor; clear remark and disclaimer",
+  "at": "2026-11-20T19:13:10.277Z"
  },
  "lab": {
-  "ver": "2.6.4",
-  "file": "lab-2.6.4.cwx",
-  "notes": "New formats: cores (ASTM C42) and bricks (ASTM C67)",
-  "at": "2026-11-20T18:54:12.019Z"
+  "ver": "2.6.5",
+  "file": "lab-2.6.5.cwx",
+  "notes": "Columns & rows layout per test; clear remark and disclaimer",
+  "at": "2026-11-20T19:13:10.185Z"
  }
 }
