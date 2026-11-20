@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.2",
-  "file": "admin-2.6.2.cwx",
-  "notes": "Compressive strength format finalised",
-  "at": "2026-11-20T18:47:52.687Z"
+  "ver": "2.6.3",
+  "file": "admin-2.6.3.cwx",
+  "notes": "Cores and bricks taken out of Compressive Strength",
+  "at": "2026-11-20T18:51:13.412Z"
  },
  "lab": {
-  "ver": "2.6.2",
-  "file": "lab-2.6.2.cwx",
-  "notes": "Compressive strength format finalised per ASTM C39, BS EN 12390-3, ASTM C42, ASTM C67",
-  "at": "2026-11-20T18:47:52.580Z"
+  "ver": "2.6.3",
+  "file": "lab-2.6.3.cwx",
+  "notes": "Cores and bricks taken out of Compressive Strength (own formats later)",
+  "at": "2026-11-20T18:51:13.297Z"
  }
 }

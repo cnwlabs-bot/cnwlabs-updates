@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.6.3",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Cores and bricks removed from the Compressive Strength format \u2014 they will have their own formats",
+   "Compressive Strength now covers cylinder, cube, tuff tile and block, linked to rate items 49, 50 and 51"
+  ]
+ },
+ {
+  "ver": "2.6.3",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Cores and bricks removed from the Compressive Strength format \u2014 they will have their own formats",
+   "Compressive Strength now covers cylinder, cube, tuff tile and block, linked to rate items 49, 50 and 51"
+  ]
+ },
+ {
   "ver": "2.6.2",
   "target": "admin",
   "date": "20-Nov-2026",
