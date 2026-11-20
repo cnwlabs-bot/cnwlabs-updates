@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.7",
-  "file": "admin-2.5.7.cwx",
-  "notes": "Only Compressive Strength format active",
-  "at": "2026-11-20T18:31:22.386Z"
+  "ver": "2.5.8",
+  "file": "admin-2.5.8.cwx",
+  "notes": "Lab details fill in automatically from the lab name",
+  "at": "2026-11-20T18:32:44.497Z"
  },
  "lab": {
-  "ver": "2.5.7",
-  "file": "lab-2.5.7.cwx",
-  "notes": "Only Compressive Strength format active; linked to rate items 49, 50, 51",
-  "at": "2026-11-20T18:31:22.292Z"
+  "ver": "2.5.8",
+  "file": "lab-2.5.8.cwx",
+  "notes": "Preview shows the active format",
+  "at": "2026-11-20T18:32:44.418Z"
  }
 }
