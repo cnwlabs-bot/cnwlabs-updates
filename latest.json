@@ -1,8 +1,8 @@
 {
  "admin": {
-  "ver": "2.4.5",
-  "file": "admin-2.4.5.cwx",
-  "notes": "Test Welcome popup removed",
-  "at": "2026-11-20T15:32:33.664Z"
+  "ver": "2.4.6",
+  "file": "admin-2.4.6.cwx",
+  "notes": "Report settings: list of all test formats A to Z with search",
+  "at": "2026-11-20T15:40:58.628Z"
  }
 }
