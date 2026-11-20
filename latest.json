@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.6.1",
-  "file": "admin-2.6.1.cwx",
-  "notes": "Default remark and disclaimer for reports",
-  "at": "2026-11-20T18:44:02.530Z"
+  "ver": "2.6.2",
+  "file": "admin-2.6.2.cwx",
+  "notes": "Compressive strength format finalised",
+  "at": "2026-11-20T18:47:52.687Z"
  },
  "lab": {
-  "ver": "2.6.1",
-  "file": "lab-2.6.1.cwx",
-  "notes": "Compressive strength: specification, status, automatic remark, editable disclaimer",
-  "at": "2026-11-20T18:44:02.409Z"
+  "ver": "2.6.2",
+  "file": "lab-2.6.2.cwx",
+  "notes": "Compressive strength format finalised per ASTM C39, BS EN 12390-3, ASTM C42, ASTM C67",
+  "at": "2026-11-20T18:47:52.580Z"
  }
 }

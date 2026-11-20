@@ -1,5 +1,29 @@
 [
  {
+  "ver": "2.6.2",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Compressive strength format finalised for the C&W rate items 49 (PCC cube), 50 (cylinder), 51 (cylinder with capping), 52 (bricks) and 56 (core with capping)",
+   "Each specimen follows its own standard: cylinder ASTM C39/C39M / AASHTO T 22; cube BS EN 12390-3; core ASTM C42/C42M / AASHTO T 24 (with L/D correction factor); brick ASTM C67/C67M",
+   "Acceptance by the right rule: cylinders ACI 318 (avg \u2265 f\u2032c, each \u2265 f\u2032c \u2212 500 PSI); cubes BS EN 206 (mean \u2265 fck + 1 MPa, each \u2265 fck \u2212 4 MPa); cores ACI 318 (avg \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c); bricks specified minimum",
+   "New Size column (diameter or L \u00d7 W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
+   "Age is the actual age from casting and testing dates (typed age only when a date is missing)"
+  ]
+ },
+ {
+  "ver": "2.6.2",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Compressive strength format finalised for the C&W rate items 49 (PCC cube), 50 (cylinder), 51 (cylinder with capping), 52 (bricks) and 56 (core with capping)",
+   "Each specimen follows its own standard: cylinder ASTM C39/C39M / AASHTO T 22; cube BS EN 12390-3; core ASTM C42/C42M / AASHTO T 24 (with L/D correction factor); brick ASTM C67/C67M",
+   "Acceptance by the right rule: cylinders ACI 318 (avg \u2265 f\u2032c, each \u2265 f\u2032c \u2212 500 PSI); cubes BS EN 206 (mean \u2265 fck + 1 MPa, each \u2265 fck \u2212 4 MPa); cores ACI 318 (avg \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c); bricks specified minimum",
+   "New Size column (diameter or L \u00d7 W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
+   "Age is the actual age from casting and testing dates (typed age only when a date is missing)"
+  ]
+ },
+ {
   "ver": "2.6.1",
   "target": "admin",
   "date": "20-Nov-2026",
