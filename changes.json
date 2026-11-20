@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.7.7",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "My Lab \u2192 new \u201cSignatures & stamps on reports\u201d: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
+   "Staff page: each staff member can have their own stamp and signature (Upload stamp / Upload signature); these are used when that person is chosen in a report"
+  ]
+ },
+ {
+  "ver": "2.7.7",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "My Lab \u2192 new \u201cSignatures & stamps on reports\u201d: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
+   "Staff page: each staff member can have their own stamp and signature (Upload stamp / Upload signature); these are used when that person is chosen in a report"
+  ]
+ },
+ {
   "ver": "2.7.6",
   "target": "admin",
   "date": "21-Nov-2026",
