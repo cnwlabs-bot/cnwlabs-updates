@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.5.5",
-  "file": "admin-2.5.5.cwx",
-  "notes": "Reports fill A4; larger open signature and stamp space",
-  "at": "2026-11-20T18:25:29.033Z"
+  "ver": "2.5.6",
+  "file": "admin-2.5.6.cwx",
+  "notes": "Size & layout options; dates DD-Mon-YYYY; clear note",
+  "at": "2026-11-20T18:29:16.724Z"
  },
  "lab": {
-  "ver": "2.5.5",
-  "file": "lab-2.5.5.cwx",
-  "notes": "Reports fill A4; larger open signature and stamp space",
-  "at": "2026-11-20T18:25:28.940Z"
+  "ver": "2.5.6",
+  "file": "lab-2.5.6.cwx",
+  "notes": "Original signature look; dates DD-Mon-YYYY; clear note; size & layout options",
+  "at": "2026-11-20T18:29:16.626Z"
  }
 }
