@@ -1,5 +1,24 @@
 [
  {
+  "ver": "2.5.1",
+  "target": "admin",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Report settings preview uses the corrected compressive strength format (same changes as Labs 2.5.1)"
+  ]
+ },
+ {
+  "ver": "2.5.1",
+  "target": "lab",
+  "date": "20-Nov-2026",
+  "notes": [
+   "Compressive strength (Load lbs / PSI), cylinders: title now shows both codes \u2014 ASTM C39/C39M / AASHTO T 22",
+   "Strength rounded to the nearest 10 PSI as ASTM C39 requires (e.g. 4096 \u2192 4100, average 4176 \u2192 4180), on the table and the graph",
+   "New optional column: Type of fracture (1\u20136), required by ASTM C39 \u2014 printed only when filled",
+   "Age (days) is worked out from the casting and testing dates when the Age box is left empty"
+  ]
+ },
+ {
   "ver": "2.5.0",
   "target": "admin",
   "date": "20-Nov-2026",
