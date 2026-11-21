@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.9.9",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.9"
+  ]
+ },
+ {
+  "ver": "2.9.9",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Create bill step 1: the project's own sub heads and sub works are listed with codes — tick one or many (ticking a sub head ticks all its sub works); compulsory when the project has sub heads; only the project name when it has none",
+   "Removed the 'New sub head / New sub work' buttons from the bill — add them in the project (＋ Add / edit)"
+  ]
+ },
+ {
   "ver": "2.9.8",
   "target": "admin",
   "date": "22-Nov-2026",

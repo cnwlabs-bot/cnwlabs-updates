@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.8",
-  "file": "admin-2.9.8.cwx",
-  "notes": "Sends lab update 2.9.8",
-  "at": "2026-11-21T19:08:32.973Z"
+  "ver": "2.9.9",
+  "file": "admin-2.9.9.cwx",
+  "notes": "Sends lab update 2.9.9",
+  "at": "2026-11-21T19:23:16.798Z"
  },
  "lab": {
-  "ver": "2.9.8",
-  "file": "lab-2.9.8.cwx",
-  "notes": "Create bill: add a new sub head or sub work right there",
-  "at": "2026-11-21T19:08:32.885Z"
+  "ver": "2.9.9",
+  "file": "lab-2.9.9.cwx",
+  "notes": "Create bill: tick one or many of the project's sub heads / sub works",
+  "at": "2026-11-21T19:23:16.706Z"
  }
 }
