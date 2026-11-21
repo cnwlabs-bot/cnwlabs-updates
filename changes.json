@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.9.6",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.6"
+  ]
+ },
+ {
+  "ver": "2.9.6",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "New versions install inside the program with a progress bar — the program does not close and you stay signed in on the same screen (from the next update after this one)",
+   "Permission from C&W Labs Admin (delete, edit finalized reports, paid bills) shows a note with Accept — applied inside the program, nothing closes"
+  ]
+ },
+ {
   "ver": "2.9.5",
   "target": "admin",
   "date": "21-Nov-2026",
