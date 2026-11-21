@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.1",
-  "file": "admin-2.10.1.cwx",
-  "notes": "Sends lab update 2.10.1",
-  "at": "2026-11-21T19:55:14.119Z"
+  "ver": "2.10.2",
+  "file": "admin-2.10.2.cwx",
+  "notes": "Sends lab update 2.10.2",
+  "at": "2026-11-21T19:59:04.408Z"
  },
  "lab": {
-  "ver": "2.10.1",
-  "file": "lab-2.10.1.cwx",
-  "notes": "Fixed: loads typed in the results table are saved and strength is calculated",
-  "at": "2026-11-21T19:55:14.019Z"
+  "ver": "2.10.2",
+  "file": "lab-2.10.2.cwx",
+  "notes": "Graph labels: serial + sample code (1-A-1) and sub work code",
+  "at": "2026-11-21T19:59:04.320Z"
  }
 }

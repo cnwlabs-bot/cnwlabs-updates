@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.2",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.2"
+  ]
+ },
+ {
+  "ver": "2.10.2",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Compressive strength graph: each bar is labelled with serial and sample code (1-A-1, 2-A-2 …) and the sub work code under it"
+  ]
+ },
+ {
   "ver": "2.10.1",
   "target": "admin",
   "date": "22-Nov-2026",
