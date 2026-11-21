@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.10.5",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.5"
+  ]
+ },
+ {
+  "ver": "2.10.5",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "PAYMIR receipt scan: the photo is read twice (as is and sharpened), common misreads (O/0, l/1, S/5) are corrected, and the bill amount and PSID already known are looked for on the receipt",
+   "Payment step: Receipt No., issue date, payee name, contact and CNIC start empty; after the receipt is uploaded, every empty box is filled from the receipt by itself"
+  ]
+ },
+ {
   "ver": "2.10.4",
   "target": "admin",
   "date": "22-Nov-2026",
