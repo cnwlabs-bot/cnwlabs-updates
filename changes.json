@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.10.3",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.3"
+  ]
+ },
+ {
+  "ver": "2.10.3",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Create bill step 1: 'Letter sent by' — searchable list with ＋ Add new and × delete; last sender is selected by itself; goes to 'To the / Test sent by' on the reports",
+   "My Lab: new card 'Permissions from C&W Labs Admin' shows what is allowed now and until when, with 'Check for permission now'"
+  ]
+ },
+ {
   "ver": "2.10.2",
   "target": "admin",
   "date": "22-Nov-2026",
