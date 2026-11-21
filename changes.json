@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.8.8",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "C&W Labs Admin 2.8.8 — sends lab update 2.8.8"
+  ]
+ },
+ {
+  "ver": "2.8.8",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Casting date added to the report form (with calendar); it fills every sample that has no date of its own and prints on the report",
+   "The report on the right is now preview only — all entry is done on the left"
+  ]
+ },
+ {
   "ver": "2.8.7",
   "target": "admin",
   "date": "21-Nov-2026",

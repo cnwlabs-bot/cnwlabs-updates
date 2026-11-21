@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.7",
-  "file": "admin-2.8.7.cwx",
-  "notes": "Lab 2.8.7 included",
-  "at": "2026-11-21T13:28:09.146Z"
+  "ver": "2.8.8",
+  "file": "admin-2.8.8.cwx",
+  "notes": "Lab 2.8.8 included",
+  "at": "2026-11-21T13:44:35.063Z"
  },
  "lab": {
-  "ver": "2.8.7",
-  "file": "lab-2.8.7.cwx",
-  "notes": "Every contact number box now uses 03xx-xxx-xxxx (11 digits) with error",
-  "at": "2026-11-21T13:28:08.845Z"
+  "ver": "2.8.8",
+  "file": "lab-2.8.8.cwx",
+  "notes": "Casting date in the report form; report preview is view-only",
+  "at": "2026-11-21T13:44:34.926Z"
  }
 }
