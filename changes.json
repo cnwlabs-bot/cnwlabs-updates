@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.8.3",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Create bill \u2192 Sample provided by: new \u201cSample details for the report\u201d \u2014 Specimen, Specification (or \u201cNot provided \u2014 automatic remark\u201d, or another value), Testing date and Concrete type are entered once, when the sample is received",
+   "These go into the compressive strength report by themselves: specimen, specification and concrete type show green (already entered); the testing date can still be changed in the report"
+  ]
+ },
+ {
+  "ver": "2.8.3",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Create bill \u2192 Sample provided by: new \u201cSample details for the report\u201d \u2014 Specimen, Specification (or \u201cNot provided \u2014 automatic remark\u201d, or another value), Testing date and Concrete type are entered once, when the sample is received",
+   "These go into the compressive strength report by themselves: specimen, specification and concrete type show green (already entered); the testing date can still be changed in the report"
+  ]
+ },
+ {
   "ver": "2.8.2",
   "target": "admin",
   "date": "21-Nov-2026",

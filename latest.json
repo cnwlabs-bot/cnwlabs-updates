@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.2",
-  "file": "admin-2.8.2.cwx",
-  "notes": "Labs 2.8.2: step-by-step new report",
-  "at": "2026-11-20T23:17:22.359Z"
+  "ver": "2.8.3",
+  "file": "admin-2.8.3.cwx",
+  "notes": "Labs 2.8.3",
+  "at": "2026-11-21T08:20:17.195Z"
  },
  "lab": {
-  "ver": "2.8.2",
-  "file": "lab-2.8.2.cwx",
-  "notes": "Step-by-step new report: Selection, Procedure (English/Urdu), Sets, Loads, Finish",
-  "at": "2026-11-20T23:17:22.248Z"
+  "ver": "2.8.3",
+  "file": "lab-2.8.3.cwx",
+  "notes": "Specimen, specification, testing date, concrete type entered with the sample",
+  "at": "2026-11-21T08:20:16.234Z"
  }
 }
