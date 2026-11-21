@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.9.1",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Admin checks for updates every 2 minutes and sends the lab update to all labs at once"
+  ]
+ },
+ {
+  "ver": "2.9.1",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "The lab checks for updates every minute (and when the window is opened); the update installs automatically after 60 seconds — Later postpones it by 10 minutes"
+  ]
+ },
+ {
   "ver": "2.9.0",
   "target": "admin",
   "date": "21-Nov-2026",

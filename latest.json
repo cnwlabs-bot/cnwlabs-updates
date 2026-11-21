@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.0",
-  "file": "admin-2.9.0.cwx",
-  "notes": "Lab updates now go to all labs at once",
-  "at": "2026-11-21T15:35:14.917Z"
+  "ver": "2.9.1",
+  "file": "admin-2.9.1.cwx",
+  "notes": "Checks every 2 minutes and sends lab updates at once",
+  "at": "2026-11-21T15:43:29.377Z"
  },
  "lab": {
-  "ver": "2.9.0",
-  "file": "lab-2.9.0.cwx",
-  "notes": "Same as 2.8.9 — delivered through the fixed Admin",
-  "at": "2026-11-21T15:35:14.777Z"
+  "ver": "2.9.1",
+  "file": "lab-2.9.1.cwx",
+  "notes": "Updates arrive within a minute and install automatically",
+  "at": "2026-11-21T15:43:29.227Z"
  }
 }
