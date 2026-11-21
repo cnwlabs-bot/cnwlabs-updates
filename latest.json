@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.9",
-  "file": "admin-2.8.9.cwx",
-  "notes": "Lab 2.8.9 included",
-  "at": "2026-11-21T15:28:06.586Z"
+  "ver": "2.9.0",
+  "file": "admin-2.9.0.cwx",
+  "notes": "Lab updates now go to all labs at once",
+  "at": "2026-11-21T15:35:14.917Z"
  },
  "lab": {
-  "ver": "2.8.9",
-  "file": "lab-2.8.9.cwx",
-  "notes": "Diary No. & Diary tab, new report entry like the format, over-age correction (ACI 209R), required strength, sample provided row",
-  "at": "2026-11-21T15:28:06.273Z"
+  "ver": "2.9.0",
+  "file": "lab-2.9.0.cwx",
+  "notes": "Same as 2.8.9 — delivered through the fixed Admin",
+  "at": "2026-11-21T15:35:14.777Z"
  }
 }

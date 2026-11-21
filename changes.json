@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.9.0",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Fixed: when Admin was set to ask before installing, the lab update was not sent to the labs. Now the lab update is sent to all labs straight away, and Admin checks for updates every 10 minutes"
+  ]
+ },
+ {
+  "ver": "2.9.0",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "All 2.8.9 changes, delivered through the fixed Admin"
+  ]
+ },
+ {
   "ver": "2.8.9",
   "target": "admin",
   "date": "21-Nov-2026",
