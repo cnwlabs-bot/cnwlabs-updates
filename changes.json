@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.8.5",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "The testing date and sample type entered on the Sample page are not asked again: they show green in the report and in the step-by-step pop-up (Admin can still allow the lab to change them)"
+  ]
+ },
+ {
+  "ver": "2.8.5",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "The testing date and sample type entered on the Sample page are not asked again: they show green in the report and in the step-by-step pop-up (Admin can still allow the lab to change them)"
+  ]
+ },
+ {
   "ver": "2.8.4",
   "target": "admin",
   "date": "21-Nov-2026",

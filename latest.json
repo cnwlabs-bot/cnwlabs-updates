@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.4",
-  "file": "admin-2.8.4.cwx",
-  "notes": "Labs 2.8.4",
-  "at": "2026-11-21T08:35:58.143Z"
+  "ver": "2.8.5",
+  "file": "admin-2.8.5.cwx",
+  "notes": "Labs 2.8.5",
+  "at": "2026-11-21T08:42:23.037Z"
  },
  "lab": {
-  "ver": "2.8.4",
-  "file": "lab-2.8.4.cwx",
-  "notes": "Sample page in order: letter, provided by, received by, details, testing date",
-  "at": "2026-11-21T08:35:58.023Z"
+  "ver": "2.8.5",
+  "file": "lab-2.8.5.cwx",
+  "notes": "Testing date not asked again",
+  "at": "2026-11-21T08:42:22.917Z"
  }
 }
