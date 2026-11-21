@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.1",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.1"
+  ]
+ },
+ {
+  "ver": "2.10.1",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fixed: loads typed in the results table were not saved, so crushing strength and average stayed empty — now they are calculated as you type (Enter moves down)"
+  ]
+ },
+ {
   "ver": "2.10.0",
   "target": "admin",
   "date": "22-Nov-2026",

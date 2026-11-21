@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.0",
-  "file": "admin-2.10.0.cwx",
-  "notes": "Sends lab update 2.10.0",
-  "at": "2026-11-21T19:47:02.280Z"
+  "ver": "2.10.1",
+  "file": "admin-2.10.1.cwx",
+  "notes": "Sends lab update 2.10.1",
+  "at": "2026-11-21T19:55:14.119Z"
  },
  "lab": {
-  "ver": "2.10.0",
-  "file": "lab-2.10.0.cwx",
-  "notes": "Results start empty — add sets per sub work; age from dates; over-age columns by themselves; concrete type list",
-  "at": "2026-11-21T19:47:02.183Z"
+  "ver": "2.10.1",
+  "file": "lab-2.10.1.cwx",
+  "notes": "Fixed: loads typed in the results table are saved and strength is calculated",
+  "at": "2026-11-21T19:55:14.019Z"
  }
 }
