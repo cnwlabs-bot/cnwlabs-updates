@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.9.3",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.3"
+  ]
+ },
+ {
+  "ver": "2.9.3",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Finalize in 3 steps: report date (with calendar) → check final preview with tick → authentication code",
+   "Finalize step 1: choose signature boxes for this report (title + staff with saved sign/stamp, add up to 5, remove)",
+   "Finalize step 1: optionally change the Note, Remarks and Disclaimer for this report only (reset to lab default)",
+   "Progress reports count only finalized reports",
+   "Finalized reports cannot be edited or deleted unless Admin allows"
+  ]
+ },
+ {
   "ver": "2.9.2",
   "target": "admin",
   "date": "21-Nov-2026",
