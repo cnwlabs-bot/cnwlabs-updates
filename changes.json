@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.0",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.0"
+  ]
+ },
+ {
+  "ver": "2.10.0",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Compressive strength: results start empty — '＋ Add a set' for each sub head / sub work with the number of samples (within the paid quantity)",
+   "AGE is worked out from each set's casting and testing dates",
+   "When a set's age differs from its test-for age, Over age, Correction factor and Corrected strength columns appear by themselves; Required strength column only when given",
+   "Required strength: new 'Not mentioned' option; Concrete type is a list with 'Other — type it'",
+   "Removed the 'Strength specified at age' box (it is in each set's heading)"
+  ]
+ },
+ {
   "ver": "2.9.9",
   "target": "admin",
   "date": "22-Nov-2026",
