@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.9.7",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.7"
+  ]
+ },
+ {
+  "ver": "2.9.7",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fixed: unlocks made in Admin → Lock control (e.g. delete paid bills) were not reaching the lab; now the Delete / Mark as unpaid buttons show"
+  ]
+ },
+ {
   "ver": "2.9.6",
   "target": "admin",
   "date": "22-Nov-2026",
