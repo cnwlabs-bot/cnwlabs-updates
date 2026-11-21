@@ -1,5 +1,28 @@
 [
  {
+  "ver": "2.8.6",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "C&W Labs Admin 2.8.6 — sends lab update 2.8.6"
+  ]
+ },
+ {
+  "ver": "2.8.6",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Projects: add many sub heads and sub works, each with its own code (B-S1, B-S1-W1); contractor same for all, or separate for each sub head / sub work, with contact number 03xx-xxx-xxxx",
+   "Projects: warning when the same ADP No. or name of work already exists; delete asks first",
+   "Create bill in 3 steps: 1) name of work, sub head, sub work and department letter 2) select tests (add many at once, change quantity, remove) 3) PAYMIR payment",
+   "No file size limit on uploads",
+   "After payment each test has its own button: Create report / Resume report / View report",
+   "Department letter and contractor from the bill are filled in the sample form automatically",
+   "New report screen: report form + Excel-style entry sheet with age, age factor and 28-day strength, printed report beside it",
+   "A finalized report is locked: it cannot be edited or deleted"
+  ]
+ },
+ {
   "ver": "2.8.5",
   "target": "admin",
   "date": "21-Nov-2026",
@@ -20,9 +43,9 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Create bill \u2192 Sample page in a clear order: 1 Department letter (Ref No., date, upload) \u2192 2 Sample provided / collected \u2192 3 Sample received by \u2192 4 Sample details for the report \u2192 5 Testing date",
+   "Create bill → Sample page in a clear order: 1 Department letter (Ref No., date, upload) → 2 Sample provided / collected → 3 Sample received by → 4 Sample details for the report → 5 Testing date",
    "The testing date cannot be before the date the sample was received / collected, and the letter date cannot be after it",
-   "\u201cSpecification not provided\u201d no longer stops the page from going to the next step"
+   "“Specification not provided” no longer stops the page from going to the next step"
   ]
  },
  {
@@ -30,9 +53,9 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Create bill \u2192 Sample page in a clear order: 1 Department letter (Ref No., date, upload) \u2192 2 Sample provided / collected \u2192 3 Sample received by \u2192 4 Sample details for the report \u2192 5 Testing date",
+   "Create bill → Sample page in a clear order: 1 Department letter (Ref No., date, upload) → 2 Sample provided / collected → 3 Sample received by → 4 Sample details for the report → 5 Testing date",
    "The testing date cannot be before the date the sample was received / collected, and the letter date cannot be after it",
-   "\u201cSpecification not provided\u201d no longer stops the page from going to the next step"
+   "“Specification not provided” no longer stops the page from going to the next step"
   ]
  },
  {
@@ -40,7 +63,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Create bill \u2192 Sample provided by: new \u201cSample details for the report\u201d \u2014 Specimen, Specification (or \u201cNot provided \u2014 automatic remark\u201d, or another value), Testing date and Concrete type are entered once, when the sample is received",
+   "Create bill → Sample provided by: new “Sample details for the report” — Specimen, Specification (or “Not provided — automatic remark”, or another value), Testing date and Concrete type are entered once, when the sample is received",
    "These go into the compressive strength report by themselves: specimen, specification and concrete type show green (already entered); the testing date can still be changed in the report"
   ]
  },
@@ -49,7 +72,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Create bill \u2192 Sample provided by: new \u201cSample details for the report\u201d \u2014 Specimen, Specification (or \u201cNot provided \u2014 automatic remark\u201d, or another value), Testing date and Concrete type are entered once, when the sample is received",
+   "Create bill → Sample provided by: new “Sample details for the report” — Specimen, Specification (or “Not provided — automatic remark”, or another value), Testing date and Concrete type are entered once, when the sample is received",
    "These go into the compressive strength report by themselves: specimen, specification and concrete type show green (already entered); the testing date can still be changed in the report"
   ]
  },
@@ -58,13 +81,13 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or \u201cnot provided\u201d with the automatic remark) \u2192 2 Procedure (English / \u0627\u0631\u062f\u0648, full steps, specification & tolerance limits, what to do on pass / fail) \u2192 3 Sets \u2192 4 Loads \u2192 5 Finish",
+   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or “not provided” with the automatic remark) → 2 Procedure (English / اردو, full steps, specification & tolerance limits, what to do on pass / fail) → 3 Sets → 4 Loads → 5 Finish",
    "Sets: each set has its own number of samples, sub-head, sub-work, casting date and age; the total must be exactly the number on the receipt (Next is blocked otherwise)",
-   "Sample codes A-1, A-2 \u2026 B-1 \u2026; each sub-head in the report starts with its set letters, with sub-work and casting date",
-   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; \u201cDamaged / not tested\u201d counts for the receipt, prints as Not tested and is left out of the average",
+   "Sample codes A-1, A-2 … B-1 …; each sub-head in the report starts with its set letters, with sub-work and casting date",
+   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; “Damaged / not tested” counts for the receipt, prints as Not tested and is left out of the average",
    "Finish: final check list, Lab In-charge confirmation when a set fails, full report preview, Save as draft / Save PDF / Finalize & print",
-   "\ud83e\udded Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
-   "Automatic remark: \u201cThe client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.\u201d"
+   "🧭 Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
+   "Automatic remark: “The client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.”"
   ]
  },
  {
@@ -72,13 +95,13 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or \u201cnot provided\u201d with the automatic remark) \u2192 2 Procedure (English / \u0627\u0631\u062f\u0648, full steps, specification & tolerance limits, what to do on pass / fail) \u2192 3 Sets \u2192 4 Loads \u2192 5 Finish",
+   "New compressive strength report opens a step-by-step pop-up: 1 Selection (procedure + specification, or “not provided” with the automatic remark) → 2 Procedure (English / اردو, full steps, specification & tolerance limits, what to do on pass / fail) → 3 Sets → 4 Loads → 5 Finish",
    "Sets: each set has its own number of samples, sub-head, sub-work, casting date and age; the total must be exactly the number on the receipt (Next is blocked otherwise)",
-   "Sample codes A-1, A-2 \u2026 B-1 \u2026; each sub-head in the report starts with its set letters, with sub-work and casting date",
-   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; \u201cDamaged / not tested\u201d counts for the receipt, prints as Not tested and is left out of the average",
+   "Sample codes A-1, A-2 … B-1 …; each sub-head in the report starts with its set letters, with sub-work and casting date",
+   "Loads set by set with strength at once, warning for a reading far from the others and for a large spread; “Damaged / not tested” counts for the receipt, prints as Not tested and is left out of the average",
    "Finish: final check list, Lab In-charge confirmation when a set fails, full report preview, Save as draft / Save PDF / Finalize & print",
-   "\ud83e\udded Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
-   "Automatic remark: \u201cThe client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.\u201d"
+   "🧭 Step by step button in the report opens the pop-up again; Finalize is blocked if the samples differ from the receipt",
+   "Automatic remark: “The client has not provided the specification; therefore, the results shall be checked against the designed specification of the project. Thanks.”"
   ]
  },
  {
@@ -88,7 +111,7 @@
   "notes": [
    "Data already entered earlier is not typed again: Report No. (from the bill), To / sent by, contractor and name of work (from the project), received on, letter ref, letter date and sample type (from the bill / sample register) show in GREEN and cannot be typed",
    "Only what is still missing shows in YELLOW for the lab to type (e.g. testing date, casting date, concrete type, loads)",
-   "Admin can change each field: From the bill / project (default) \u00b7 Lab can always type \u00b7 Locked"
+   "Admin can change each field: From the bill / project (default) · Lab can always type · Locked"
   ]
  },
  {
@@ -98,7 +121,7 @@
   "notes": [
    "Data already entered earlier is not typed again: Report No. (from the bill), To / sent by, contractor and name of work (from the project), received on, letter ref, letter date and sample type (from the bill / sample register) show in GREEN and cannot be typed",
    "Only what is still missing shows in YELLOW for the lab to type (e.g. testing date, casting date, concrete type, loads)",
-   "Admin can change each field: From the bill / project (default) \u00b7 Lab can always type \u00b7 Locked"
+   "Admin can change each field: From the bill / project (default) · Lab can always type · Locked"
   ]
  },
  {
@@ -106,10 +129,10 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Compressive strength: everything is typed inside the report itself \u2014 no separate boxes or entry sheet. The report fills the screen",
+   "Compressive strength: everything is typed inside the report itself — no separate boxes or entry sheet. The report fills the screen",
    "Typed in the report: Report No. and date, To / sent by, contractor, name of work, the top box dates, sample codes, loads, sizes, age, fracture, sample-provided-by text, remarks and disclaimer",
-   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; \u2699 More details opens staff, equipment and other settings only when needed",
-   "Admin can lock any of these top-box fields (Report settings \u2192 click the field in the sample report)"
+   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; ⚙ More details opens staff, equipment and other settings only when needed",
+   "Admin can lock any of these top-box fields (Report settings → click the field in the sample report)"
   ]
  },
  {
@@ -117,10 +140,10 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Compressive strength: everything is typed inside the report itself \u2014 no separate boxes or entry sheet. The report fills the screen",
+   "Compressive strength: everything is typed inside the report itself — no separate boxes or entry sheet. The report fills the screen",
    "Typed in the report: Report No. and date, To / sent by, contractor, name of work, the top box dates, sample codes, loads, sizes, age, fracture, sample-provided-by text, remarks and disclaimer",
-   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; \u2699 More details opens staff, equipment and other settings only when needed",
-   "Admin can lock any of these top-box fields (Report settings \u2192 click the field in the sample report)"
+   "Specimen (Cylinder / Cube / Tuff tile / Block) and Specification are chosen in the bar above the report; ⚙ More details opens staff, equipment and other settings only when needed",
+   "Admin can lock any of these top-box fields (Report settings → click the field in the sample report)"
   ]
  },
  {
@@ -128,7 +151,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Compressive strength: new Entry sheet at the top \u2014 one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
+   "Compressive strength: new Entry sheet at the top — one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
    "Works like Excel: Enter = down, Tab / arrow keys = move, Ctrl+D = copy down, and Ctrl+V pastes many rows copied straight from Excel (stops at the number paid on the bill)",
    "Age is worked out from each sample's casting date and the testing date, or typed"
   ]
@@ -138,7 +161,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Compressive strength: new Entry sheet at the top \u2014 one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
+   "Compressive strength: new Entry sheet at the top — one row per sample (Work No., Set, Sample code, Casting date, Age, Load, Dia, Fracture) with strength calculated at once",
    "Works like Excel: Enter = down, Tab / arrow keys = move, Ctrl+D = copy down, and Ctrl+V pastes many rows copied straight from Excel (stops at the number paid on the bill)",
    "Age is worked out from each sample's casting date and the testing date, or typed"
   ]
@@ -148,12 +171,12 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Report settings \u2192 click any column heading or cell of the sample report: choose Lab types it / Copied from the sample above / Automatic (lab cannot type), heading, width, alignment, bold, show / hide",
+   "Report settings → click any column heading or cell of the sample report: choose Lab types it / Copied from the sample above / Automatic (lab cannot type), heading, width, alignment, bold, show / hide",
    "Formula columns: Admin adds a column with a locked formula (e.g. strength in MPa = S*0.006895, load in kN = P*0.004448), per sample or per set; the lab sees it calculated and cannot change it",
    "Top box fields: Admin sets each one as typed by the lab or automatic",
-   "Compressive strength: readings are typed straight into the report, like Excel \u2014 yellow cells can be typed; Enter = down, Tab = right, Ctrl+D = copy down, Undo",
+   "Compressive strength: readings are typed straight into the report, like Excel — yellow cells can be typed; Enter = down, Tab = right, Ctrl+D = copy down, Undo",
    "Age of each set: click the age cell and pick 3 / 7 / 14 / 28 / 56 / 90 days, type any number, or use the casting & testing dates",
-   "Bar above the report: \uff0b Sample, \uff0b Set of 3, \uff0b Work sub-heading, make sets (each alone / 2 / 3 / all), \u2212 last sample, Undo; the paid number on the bill is respected",
+   "Bar above the report: ＋ Sample, ＋ Set of 3, ＋ Work sub-heading, make sets (each alone / 2 / 3 / all), − last sample, Undo; the paid number on the bill is respected",
    "Top box (Ref No., dates, received on, testing date, sample type, concrete type, casting date) can be typed in the report too; dates become DD-Mon-YYYY",
    "The specimen boxes on the left are gone for compressive strength"
   ]
@@ -163,9 +186,9 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Compressive strength: readings are typed straight into the report, like Excel \u2014 yellow cells can be typed; Enter = down, Tab = right, Ctrl+D = copy down, Undo",
+   "Compressive strength: readings are typed straight into the report, like Excel — yellow cells can be typed; Enter = down, Tab = right, Ctrl+D = copy down, Undo",
    "Age of each set: click the age cell and pick 3 / 7 / 14 / 28 / 56 / 90 days, type any number, or use the casting & testing dates",
-   "Bar above the report: \uff0b Sample, \uff0b Set of 3, \uff0b Work sub-heading, make sets (each alone / 2 / 3 / all), \u2212 last sample, Undo; the paid number on the bill is respected",
+   "Bar above the report: ＋ Sample, ＋ Set of 3, ＋ Work sub-heading, make sets (each alone / 2 / 3 / all), − last sample, Undo; the paid number on the bill is respected",
    "Top box (Ref No., dates, received on, testing date, sample type, concrete type, casting date) can be typed in the report too; dates become DD-Mon-YYYY",
    "The specimen boxes on the left are gone for compressive strength"
   ]
@@ -175,7 +198,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "My Lab \u2192 new \u201cSignatures & stamps on reports\u201d: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
+   "My Lab → new “Signatures & stamps on reports”: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
    "Staff page: each staff member can have their own stamp and signature (Upload stamp / Upload signature); these are used when that person is chosen in a report"
   ]
  },
@@ -184,7 +207,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "My Lab \u2192 new \u201cSignatures & stamps on reports\u201d: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
+   "My Lab → new “Signatures & stamps on reports”: upload a signature and a stamp for each signature box from the PC (photo or scan, PNG / JPG); they print on every report; Change / Remove any time",
    "Staff page: each staff member can have their own stamp and signature (Upload stamp / Upload signature); these are used when that person is chosen in a report"
   ]
  },
@@ -193,7 +216,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "The \u201cNew version \u2014 Update now\u201d pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
+   "The “New version — Update now” pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
   ]
  },
  {
@@ -201,7 +224,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "The \u201cNew version \u2014 Update now\u201d pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
+   "The “New version — Update now” pop-up shows at all times: while the lab is signed in and working, and also on the sign-in screen"
   ]
  },
  {
@@ -209,7 +232,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Test report: the \u201cChallan & client letter\u201d box is removed for reports made from a bill \u2014 the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
+   "Test report: the “Challan & client letter” box is removed for reports made from a bill — the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
   ]
  },
  {
@@ -217,7 +240,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Test report: the \u201cChallan & client letter\u201d box is removed for reports made from a bill \u2014 the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
+   "Test report: the “Challan & client letter” box is removed for reports made from a bill — the PSID, challan date, amount, quantity, rate and attachments are taken from the bill, no re-entry"
   ]
  },
  {
@@ -225,8 +248,8 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Lab program: a pop-up \u201cUpdate now\u201d appears whenever something is updated \u2014 a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
-   "\u201cLater\u201d hides the pop-up for 15 minutes, then it shows again until the lab updates"
+   "Lab program: a pop-up “Update now” appears whenever something is updated — a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
+   "“Later” hides the pop-up for 15 minutes, then it shows again until the lab updates"
   ]
  },
  {
@@ -234,8 +257,8 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Lab program: a pop-up \u201cUpdate now\u201d appears whenever something is updated \u2014 a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
-   "\u201cLater\u201d hides the pop-up for 15 minutes, then it shows again until the lab updates"
+   "Lab program: a pop-up “Update now” appears whenever something is updated — a new program version (checked every 5 minutes) or any change Admin makes to formats, settings, rates or subscription (checked every 2 minutes)",
+   "“Later” hides the pop-up for 15 minutes, then it shows again until the lab updates"
   ]
  },
  {
@@ -243,7 +266,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Lab program: while it is open it looks for a new version every 10 minutes and shows \u201cNew version ready \u2014 Install now\u201d (data is saved to Google Drive first). No need to close and reopen",
+   "Lab program: while it is open it looks for a new version every 10 minutes and shows “New version ready — Install now” (data is saved to Google Drive first). No need to close and reopen",
    "Admin sends the lab update to the labs first, before restarting itself for its own update"
   ]
  },
@@ -252,7 +275,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Lab program: while it is open it looks for a new version every 10 minutes and shows \u201cNew version ready \u2014 Install now\u201d (data is saved to Google Drive first). No need to close and reopen",
+   "Lab program: while it is open it looks for a new version every 10 minutes and shows “New version ready — Install now” (data is saved to Google Drive first). No need to close and reopen",
    "Admin sends the lab update to the labs first, before restarting itself for its own update"
   ]
  },
@@ -261,8 +284,8 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more \u2014 a new bill is needed for extra specimens",
-   "The specimen counter shows e.g. \u201c2 of 2 paid on the bill (PAYMIR \u2026)\u201d; Test Qty is set by the bill and cannot be changed in the report",
+   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more — a new bill is needed for extra specimens",
+   "The specimen counter shows e.g. “2 of 2 paid on the bill (PAYMIR …)”; Test Qty is set by the bill and cannot be changed in the report",
    "Older reports: empty specimen boxes above the paid number are removed when the report is opened"
   ]
  },
@@ -271,8 +294,8 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more \u2014 a new bill is needed for extra specimens",
-   "The specimen counter shows e.g. \u201c2 of 2 paid on the bill (PAYMIR \u2026)\u201d; Test Qty is set by the bill and cannot be changed in the report",
+   "A report made from a bill has exactly as many specimens as were paid on the bill; the lab can test fewer, but cannot add more — a new bill is needed for extra specimens",
+   "The specimen counter shows e.g. “2 of 2 paid on the bill (PAYMIR …)”; Test Qty is set by the bill and cannot be changed in the report",
    "Older reports: empty specimen boxes above the paid number are removed when the report is opened"
   ]
  },
@@ -282,8 +305,8 @@
   "date": "21-Nov-2026",
   "notes": [
    "Compressive strength: every sample has a Work No., a Set No., its own sample code and (if different) its own casting date",
-   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set \u2014 each set gets its own age and its own average",
-   "When the Name of work has parts (1- \u2026, 2- \u2026), the report shows each part as its own sub-heading with its samples under it",
+   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set — each set gets its own age and its own average",
+   "When the Name of work has parts (1- …, 2- …), the report shows each part as its own sub-heading with its samples under it",
    "Sample codes are made automatically (e.g. 1A-1 = work 1, set A, sample 1) unless the lab types its own",
    "Below the specification, a set-by-set table shows each set's average, lowest result and Meets / Does not meet"
   ]
@@ -294,8 +317,8 @@
   "date": "21-Nov-2026",
   "notes": [
    "Compressive strength: every sample has a Work No., a Set No., its own sample code and (if different) its own casting date",
-   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set \u2014 each set gets its own age and its own average",
-   "When the Name of work has parts (1- \u2026, 2- \u2026), the report shows each part as its own sub-heading with its samples under it",
+   "Buttons to make sets: each sample alone, sets of 2, sets of 3, or all in one set — each set gets its own age and its own average",
+   "When the Name of work has parts (1- …, 2- …), the report shows each part as its own sub-heading with its samples under it",
    "Sample codes are made automatically (e.g. 1A-1 = work 1, set A, sample 1) unless the lab types its own",
    "Below the specification, a set-by-set table shows each set's average, lowest result and Meets / Does not meet"
   ]
@@ -305,10 +328,10 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "New \u201cLab data\u201d page: every lab's Google Drive folder \u2014 connected / not connected, lab Gmail, Admin access, which PC it is open on, last save, files; View data (reports, bills, totals) and Open folder; refreshes every minute",
+   "New “Lab data” page: every lab's Google Drive folder — connected / not connected, lab Gmail, Admin access, which PC it is open on, last save, files; View data (reports, bills, totals) and Open folder; refreshes every minute",
    "Admin accounts (owner + added Gmails) are given full access to every lab folder automatically",
    "Internet is required (a slow connection is fine). On opening, the latest data comes from the lab's Google Drive first; every save reaches Google Drive within seconds",
-   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. \u201cRR&MTL Swat \u2013 C&W Labs Data\u201d). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
+   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. “RR&MTL Swat – C&W Labs Data”). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
    "A laboratory is open on one PC at a time; another PC can take over and the first PC is signed out after saving",
    "If internet drops while working, a red bar shows and the changes are sent as soon as it returns",
    "Signing in on a new PC brings the lab's data from Google Drive with no duplicate records"
@@ -320,7 +343,7 @@
   "date": "21-Nov-2026",
   "notes": [
    "Internet is required (a slow connection is fine). On opening, the latest data comes from the lab's Google Drive first; every save reaches Google Drive within seconds",
-   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. \u201cRR&MTL Swat \u2013 C&W Labs Data\u201d). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
+   "One-time setup at the first sign-in: Step 1 connect the lab's Google Drive, Step 2 give C&W Labs Admin full access to the lab's folder only (e.g. “RR&MTL Swat – C&W Labs Data”). It cannot be removed from the lab; if removed on the Google Drive website it is given again automatically",
    "A laboratory is open on one PC at a time; another PC can take over and the first PC is signed out after saving",
    "If internet drops while working, a red bar shows and the changes are sent as soon as it returns",
    "Signing in on a new PC brings the lab's data from Google Drive with no duplicate records"
@@ -331,8 +354,8 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Sign-in screen: the 'Laboratory \u2026' box is removed",
-   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive \u2014 labs never see each other's data",
+   "Sign-in screen: the 'Laboratory …' box is removed",
+   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive — labs never see each other's data",
    "Works fully offline; the moment internet comes back (and right after sign-in) the PC and Google Drive are made the same"
   ]
  },
@@ -341,8 +364,8 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Sign-in screen: the 'Laboratory \u2026' box is removed",
-   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive \u2014 labs never see each other's data",
+   "Sign-in screen: the 'Laboratory …' box is removed",
+   "Any laboratory listed in C&W Labs Admin can sign in on any PC with its own user name, password and Google Authenticator code. Each lab opens in its own data folder with its own Google Drive — labs never see each other's data",
    "Works fully offline; the moment internet comes back (and right after sign-in) the PC and Google Drive are made the same"
   ]
  },
@@ -351,9 +374,9 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Specification & tolerance (Report settings \u2192 click a test): standard specifications built in \u2014 cylinders f\u2032c 2500\u20136000 PSI (ACI 318), cubes C16/20\u2013C40/50 (BS EN 206), tuff tiles 8000/7200 PSI (ASTM C936), blocks 2000/1800 PSI (ASTM C90), cores (ACI 318), bricks SW/MW/NW (ASTM C62). Admin can add own specifications with their own tolerance",
+   "Specification & tolerance (Report settings → click a test): standard specifications built in — cylinders f′c 2500–6000 PSI (ACI 318), cubes C16/20–C40/50 (BS EN 206), tuff tiles 8000/7200 PSI (ASTM C936), blocks 2000/1800 PSI (ASTM C90), cores (ACI 318), bricks SW/MW/NW (ASTM C62). Admin can add own specifications with their own tolerance",
    "Labs choose the specification in each report; each result shows Within limit / Within tolerance / Out of limit and the set Meets / Does not meet",
-   "Print sample and Sample as PDF on each test page \u2014 an A4 sample report for approval"
+   "Print sample and Sample as PDF on each test page — an A4 sample report for approval"
   ]
  },
  {
@@ -361,7 +384,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Specification & tolerance (Report settings \u2192 click a test): standard specifications built in \u2014 cylinders f\u2032c 2500\u20136000 PSI (ACI 318), cubes C16/20\u2013C40/50 (BS EN 206), tuff tiles 8000/7200 PSI (ASTM C936), blocks 2000/1800 PSI (ASTM C90), cores (ACI 318), bricks SW/MW/NW (ASTM C62). Admin can add own specifications with their own tolerance",
+   "Specification & tolerance (Report settings → click a test): standard specifications built in — cylinders f′c 2500–6000 PSI (ACI 318), cubes C16/20–C40/50 (BS EN 206), tuff tiles 8000/7200 PSI (ASTM C936), blocks 2000/1800 PSI (ASTM C90), cores (ACI 318), bricks SW/MW/NW (ASTM C62). Admin can add own specifications with their own tolerance",
    "Labs choose the specification in each report; each result shows Within limit / Within tolerance / Out of limit and the set Meets / Does not meet"
   ]
  },
@@ -370,7 +393,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Report settings \u2192 test \u2192 Columns, rows & text: for every column \u2014 show, heading, width, alignment (left / center / right / justify), text size and weight; height of every row (heading row, row 1, 2, 3\u2026); text size, alignment and weight of every part of the report (title, info box, red note, table heading, cells, specification, remarks, disclaimer, signatures)"
+   "Report settings → test → Columns, rows & text: for every column — show, heading, width, alignment (left / center / right / justify), text size and weight; height of every row (heading row, row 1, 2, 3…); text size, alignment and weight of every part of the report (title, info box, red note, table heading, cells, specification, remarks, disclaimer, signatures)"
   ]
  },
  {
@@ -378,7 +401,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Report settings \u2192 test \u2192 Columns, rows & text: for every column \u2014 show, heading, width, alignment (left / center / right / justify), text size and weight; height of every row (heading row, row 1, 2, 3\u2026); text size, alignment and weight of every part of the report (title, info box, red note, table heading, cells, specification, remarks, disclaimer, signatures)"
+   "Report settings → test → Columns, rows & text: for every column — show, heading, width, alignment (left / center / right / justify), text size and weight; height of every row (heading row, row 1, 2, 3…); text size, alignment and weight of every part of the report (title, info box, red note, table heading, cells, specification, remarks, disclaimer, signatures)"
   ]
  },
  {
@@ -403,7 +426,7 @@
   "target": "admin",
   "date": "21-Nov-2026",
   "notes": [
-   "Report settings \u2192 click a test \u2192 Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size \u2014 the live report changes at once (works for Compressive Strength, Cores and Bricks)",
+   "Report settings → click a test → Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size — the live report changes at once (works for Compressive Strength, Cores and Bricks)",
    "Texts: one clear place for the Remark (when no specification is given) and the Disclaimer; the confusing 'Default remarks' and 'Result wording' boxes removed. A disclaimer typed earlier in 'Default remarks' is moved over automatically"
   ]
  },
@@ -412,7 +435,7 @@
   "target": "lab",
   "date": "21-Nov-2026",
   "notes": [
-   "Report settings \u2192 click a test \u2192 Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size \u2014 the live report changes at once (works for Compressive Strength, Cores and Bricks)",
+   "Report settings → click a test → Columns & rows: show/hide each column, change its heading and width (%), set row height and heading text size — the live report changes at once (works for Compressive Strength, Cores and Bricks)",
    "Texts: one clear place for the Remark (when no specification is given) and the Disclaimer; the confusing 'Default remarks' and 'Result wording' boxes removed. A disclaimer typed earlier in 'Default remarks' is moved over automatically"
   ]
  },
@@ -421,9 +444,9 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "New format: Compressive Strength of Concrete Cores \u2014 ASTM C42/C42M / AASHTO T 24 (rate item 56): core ID/location, length as drilled and after capping, diameter, load, area, L/D, correction factor, corrected strength, moisture condition, direction of loading, reinforcement; acceptance ACI 318 for cores (average \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c)",
-   "New format: Compressive Strength of Bricks \u2014 ASTM C67/C67M (rate item 52): 5 half-brick specimens, size L \u00d7 W \u00d7 H, bed area, strength; acceptance by ASTM C62 grade (SW / MW / NW) or a specified minimum average",
-   "Graph lines labelled by the rule that applies (f\u2032c, fck + 1 MPa, 0.85 f\u2032c, minimum average; dashed line = limit for each result)"
+   "New format: Compressive Strength of Concrete Cores — ASTM C42/C42M / AASHTO T 24 (rate item 56): core ID/location, length as drilled and after capping, diameter, load, area, L/D, correction factor, corrected strength, moisture condition, direction of loading, reinforcement; acceptance ACI 318 for cores (average ≥ 0.85 f′c, each ≥ 0.75 f′c)",
+   "New format: Compressive Strength of Bricks — ASTM C67/C67M (rate item 52): 5 half-brick specimens, size L × W × H, bed area, strength; acceptance by ASTM C62 grade (SW / MW / NW) or a specified minimum average",
+   "Graph lines labelled by the rule that applies (f′c, fck + 1 MPa, 0.85 f′c, minimum average; dashed line = limit for each result)"
   ]
  },
  {
@@ -431,9 +454,9 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "New format: Compressive Strength of Concrete Cores \u2014 ASTM C42/C42M / AASHTO T 24 (rate item 56): core ID/location, length as drilled and after capping, diameter, load, area, L/D, correction factor, corrected strength, moisture condition, direction of loading, reinforcement; acceptance ACI 318 for cores (average \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c)",
-   "New format: Compressive Strength of Bricks \u2014 ASTM C67/C67M (rate item 52): 5 half-brick specimens, size L \u00d7 W \u00d7 H, bed area, strength; acceptance by ASTM C62 grade (SW / MW / NW) or a specified minimum average",
-   "Graph lines labelled by the rule that applies (f\u2032c, fck + 1 MPa, 0.85 f\u2032c, minimum average; dashed line = limit for each result)"
+   "New format: Compressive Strength of Concrete Cores — ASTM C42/C42M / AASHTO T 24 (rate item 56): core ID/location, length as drilled and after capping, diameter, load, area, L/D, correction factor, corrected strength, moisture condition, direction of loading, reinforcement; acceptance ACI 318 for cores (average ≥ 0.85 f′c, each ≥ 0.75 f′c)",
+   "New format: Compressive Strength of Bricks — ASTM C67/C67M (rate item 52): 5 half-brick specimens, size L × W × H, bed area, strength; acceptance by ASTM C62 grade (SW / MW / NW) or a specified minimum average",
+   "Graph lines labelled by the rule that applies (f′c, fck + 1 MPa, 0.85 f′c, minimum average; dashed line = limit for each result)"
   ]
  },
  {
@@ -441,7 +464,7 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Cores and bricks removed from the Compressive Strength format \u2014 they will have their own formats",
+   "Cores and bricks removed from the Compressive Strength format — they will have their own formats",
    "Compressive Strength now covers cylinder, cube, tuff tile and block, linked to rate items 49, 50 and 51"
   ]
  },
@@ -450,7 +473,7 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "Cores and bricks removed from the Compressive Strength format \u2014 they will have their own formats",
+   "Cores and bricks removed from the Compressive Strength format — they will have their own formats",
    "Compressive Strength now covers cylinder, cube, tuff tile and block, linked to rate items 49, 50 and 51"
   ]
  },
@@ -461,8 +484,8 @@
   "notes": [
    "Compressive strength format finalised for the C&W rate items 49 (PCC cube), 50 (cylinder), 51 (cylinder with capping), 52 (bricks) and 56 (core with capping)",
    "Each specimen follows its own standard: cylinder ASTM C39/C39M / AASHTO T 22; cube BS EN 12390-3; core ASTM C42/C42M / AASHTO T 24 (with L/D correction factor); brick ASTM C67/C67M",
-   "Acceptance by the right rule: cylinders ACI 318 (avg \u2265 f\u2032c, each \u2265 f\u2032c \u2212 500 PSI); cubes BS EN 206 (mean \u2265 fck + 1 MPa, each \u2265 fck \u2212 4 MPa); cores ACI 318 (avg \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c); bricks specified minimum",
-   "New Size column (diameter or L \u00d7 W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
+   "Acceptance by the right rule: cylinders ACI 318 (avg ≥ f′c, each ≥ f′c − 500 PSI); cubes BS EN 206 (mean ≥ fck + 1 MPa, each ≥ fck − 4 MPa); cores ACI 318 (avg ≥ 0.85 f′c, each ≥ 0.75 f′c); bricks specified minimum",
+   "New Size column (diameter or L × W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
    "Age is the actual age from casting and testing dates (typed age only when a date is missing)"
   ]
  },
@@ -473,8 +496,8 @@
   "notes": [
    "Compressive strength format finalised for the C&W rate items 49 (PCC cube), 50 (cylinder), 51 (cylinder with capping), 52 (bricks) and 56 (core with capping)",
    "Each specimen follows its own standard: cylinder ASTM C39/C39M / AASHTO T 22; cube BS EN 12390-3; core ASTM C42/C42M / AASHTO T 24 (with L/D correction factor); brick ASTM C67/C67M",
-   "Acceptance by the right rule: cylinders ACI 318 (avg \u2265 f\u2032c, each \u2265 f\u2032c \u2212 500 PSI); cubes BS EN 206 (mean \u2265 fck + 1 MPa, each \u2265 fck \u2212 4 MPa); cores ACI 318 (avg \u2265 0.85 f\u2032c, each \u2265 0.75 f\u2032c); bricks specified minimum",
-   "New Size column (diameter or L \u00d7 W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
+   "Acceptance by the right rule: cylinders ACI 318 (avg ≥ f′c, each ≥ f′c − 500 PSI); cubes BS EN 206 (mean ≥ fck + 1 MPa, each ≥ fck − 4 MPa); cores ACI 318 (avg ≥ 0.85 f′c, each ≥ 0.75 f′c); bricks specified minimum",
+   "New Size column (diameter or L × W), Type of fracture for cylinders, strengths to the nearest 10 PSI",
    "Age is the actual age from casting and testing dates (typed age only when a date is missing)"
   ]
  },
@@ -483,10 +506,10 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Compressive strength: when no specified strength (f\u2032c) is given, an automatic remark is printed: \u201cNo specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.\u201d The lab can write its own remark in the report",
-   "When f\u2032c is given: a Specification block (f\u2032c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
-   "Graph shows the f\u2032c line and the lower-limit line when f\u2032c is given",
-   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading \u2192 Default texts on reports); each report can use its own text"
+   "Compressive strength: when no specified strength (f′c) is given, an automatic remark is printed: “No specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.” The lab can write its own remark in the report",
+   "When f′c is given: a Specification block (f′c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
+   "Graph shows the f′c line and the lower-limit line when f′c is given",
+   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading → Default texts on reports); each report can use its own text"
   ]
  },
  {
@@ -494,10 +517,10 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "Compressive strength: when no specified strength (f\u2032c) is given, an automatic remark is printed: \u201cNo specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.\u201d The lab can write its own remark in the report",
-   "When f\u2032c is given: a Specification block (f\u2032c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
-   "Graph shows the f\u2032c line and the lower-limit line when f\u2032c is given",
-   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading \u2192 Default texts on reports); each report can use its own text"
+   "Compressive strength: when no specified strength (f′c) is given, an automatic remark is printed: “No specification was provided with the request; therefore, the results shall be checked against the design specifications of the project. Thanks.” The lab can write its own remark in the report",
+   "When f′c is given: a Specification block (f′c, source, ACI 318 acceptance rule), a Status for each specimen (Within limit / Within tolerance / Out of limit), and Meets / Does not meet for the set",
+   "Graph shows the f′c line and the lower-limit line when f′c is given",
+   "Disclaimer and automatic remark: defaults set by Admin (Lab & heading → Default texts on reports); each report can use its own text"
   ]
  },
  {
@@ -524,7 +547,7 @@
   "date": "20-Nov-2026",
   "notes": [
    "Add laboratory: heading line 3, short name, Report No. prefix and user name fill in automatically from the laboratory name (you can still change them)",
-   "Report settings: heading lines, short name and prefix come from the laboratory's record \u2014 no need to type them again",
+   "Report settings: heading lines, short name and prefix come from the laboratory's record — no need to type them again",
    "Preview shows the Compressive Strength format"
   ]
  },
@@ -541,7 +564,7 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Only one test format is active now: Compressive Strength \u2014 Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
+   "Only one test format is active now: Compressive Strength — Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
    "It is linked to rate items 49 (PCC cube), 50 (cylinder) and 51 (cylinder with capping), so bills use those rates",
    "Standard codes shown: ASTM C39/C39M, AASHTO T 22, BS EN 12390-3, ASTM C140, BS EN 1338"
   ]
@@ -551,7 +574,7 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "Only one test format is active now: Compressive Strength \u2014 Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
+   "Only one test format is active now: Compressive Strength — Load (lbs) / PSI (cylinder, cube, tuff tile, block)",
    "It is linked to rate items 49 (PCC cube), 50 (cylinder) and 51 (cylinder with capping), so bills use those rates",
    "Standard codes shown: ASTM C39/C39M, AASHTO T 22, BS EN 12390-3, ASTM C140, BS EN 1338"
   ]
@@ -562,9 +585,9 @@
   "date": "20-Nov-2026",
   "notes": [
    "Signature boxes back to the original look (no large empty space), slightly taller for sign and stamp",
-   "Dates are changed automatically to DD-Mon-YYYY (e.g. 3/11/2026, 2026-11-03 or 3 Nov 2026 \u2192 03-Nov-2026), when typed and on every report",
+   "Dates are changed automatically to DD-Mon-YYYY (e.g. 3/11/2026, 2026-11-03 or 3 Nov 2026 → 03-Nov-2026), when typed and on every report",
    "Red note fills its box evenly and reads clearly",
-   "Report design \u2192 Size & layout: text size, row height, column widths (as designed / fit to text / equal) and justified text"
+   "Report design → Size & layout: text size, row height, column widths (as designed / fit to text / equal) and justified text"
   ]
  },
  {
@@ -573,9 +596,9 @@
   "date": "20-Nov-2026",
   "notes": [
    "Signature boxes back to the original look (no large empty space), slightly taller for sign and stamp",
-   "Dates are changed automatically to DD-Mon-YYYY (e.g. 3/11/2026, 2026-11-03 or 3 Nov 2026 \u2192 03-Nov-2026), when typed and on every report",
+   "Dates are changed automatically to DD-Mon-YYYY (e.g. 3/11/2026, 2026-11-03 or 3 Nov 2026 → 03-Nov-2026), when typed and on every report",
    "Red note fills its box evenly and reads clearly",
-   "Report design \u2192 Size & layout: text size, row height, column widths (as designed / fit to text / equal) and justified text"
+   "Report design → Size & layout: text size, row height, column widths (as designed / fit to text / equal) and justified text"
   ]
  },
  {
@@ -610,7 +633,7 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "The QR code and text at the bottom of reports are now off by default (Report design \u2192 Show on reports can turn them on)"
+   "The QR code and text at the bottom of reports are now off by default (Report design → Show on reports can turn them on)"
   ]
  },
  {
@@ -628,7 +651,7 @@
   "notes": [
    "All earlier test formats withdrawn: labs cannot start new reports with them. Old reports still open and print as before.",
    "Formats are now added one by one after checking against their standard",
-   "Report settings: \u2b06 Upload PDF format button at the top of the Test formats list"
+   "Report settings: ⬆ Upload PDF format button at the top of the Test formats list"
   ]
  },
  {
@@ -653,9 +676,9 @@
   "target": "lab",
   "date": "20-Nov-2026",
   "notes": [
-   "Compressive strength (Load lbs / PSI), cylinders: title now shows both codes \u2014 ASTM C39/C39M / AASHTO T 22",
-   "Strength rounded to the nearest 10 PSI as ASTM C39 requires (e.g. 4096 \u2192 4100, average 4176 \u2192 4180), on the table and the graph",
-   "New optional column: Type of fracture (1\u20136), required by ASTM C39 \u2014 printed only when filled",
+   "Compressive strength (Load lbs / PSI), cylinders: title now shows both codes — ASTM C39/C39M / AASHTO T 22",
+   "Strength rounded to the nearest 10 PSI as ASTM C39 requires (e.g. 4096 → 4100, average 4176 → 4180), on the table and the graph",
+   "New optional column: Type of fracture (1–6), required by ASTM C39 — printed only when filled",
    "Age (days) is worked out from the casting and testing dates when the Age box is left empty"
   ]
  },
@@ -664,8 +687,8 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Report settings: clicking a test in the left list opens its complete settings page \u2014 codes, rate item, used/not used, format, procedure guide, specification limits, report title, subtitle and remarks \u2014 with its live report",
-   "New: Upload PDF format \u2014 reads your PDF, copies the rows and units, corrects spelling and units (e.g. COMPRESIVE \u2192 COMPRESSIVE, KN \u2192 kN, N/mm2 \u2192 MPa), checks the standard, works out formulas, then opens it for editing",
+   "Report settings: clicking a test in the left list opens its complete settings page — codes, rate item, used/not used, format, procedure guide, specification limits, report title, subtitle and remarks — with its live report",
+   "New: Upload PDF format — reads your PDF, copies the rows and units, corrects spelling and units (e.g. COMPRESIVE → COMPRESSIVE, KN → kN, N/mm2 → MPa), checks the standard, works out formulas, then opens it for editing",
    "Making a new developer key now needs typing NEW KEY, so it cannot happen by mistake"
   ]
  },
@@ -674,9 +697,9 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Report settings: test formats listed by the C&W rate schedule (item No., name, rate), with ASTM / AASHTO / BS codes as tags; switch to All A\u2013Z",
+   "Report settings: test formats listed by the C&W rate schedule (item No., name, rate), with ASTM / AASHTO / BS codes as tags; switch to All A–Z",
    "Search by test name or code (e.g. T 27, C136)",
-   "New page: Admin settings \u2192 Changes from Claude \u2014 this list, and a box to send your next request"
+   "New page: Admin settings → Changes from Claude — this list, and a box to send your next request"
   ]
  },
  {
@@ -702,7 +725,7 @@
   "target": "admin",
   "date": "20-Nov-2026",
   "notes": [
-   "Report settings: list of all test formats A\u2013Z with search"
+   "Report settings: list of all test formats A–Z with search"
   ]
  },
  {
