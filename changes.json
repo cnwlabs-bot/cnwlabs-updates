@@ -1,5 +1,24 @@
 [
  {
+  "ver": "2.9.4",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "New Lock control tab: see what is locked in every lab and open it for a chosen lab, items and time (date range, chosen days & hours, or always); locks again by itself",
+   "Sends lab update 2.9.4"
+  ]
+ },
+ {
+  "ver": "2.9.4",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sample details: the department letter is never asked again — it comes from the bill (Diary No., Letter No., dated, received shown at the top)",
+   "Finalize signatures: quick-add buttons hide titles already present",
+   "Follows unlocks from C&W Labs Admin (finalized reports, paid bills, deleting) with a note showing until when"
+  ]
+ },
+ {
   "ver": "2.9.3",
   "target": "admin",
   "date": "21-Nov-2026",

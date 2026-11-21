@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.3",
-  "file": "admin-2.9.3.cwx",
-  "notes": "Sends lab update 2.9.3",
-  "at": "2026-11-21T18:21:42.360Z"
+  "ver": "2.9.4",
+  "file": "admin-2.9.4.cwx",
+  "notes": "Lock control tab; sends lab update 2.9.4",
+  "at": "2026-11-21T18:46:28.756Z"
  },
  "lab": {
-  "ver": "2.9.3",
-  "file": "lab-2.9.3.cwx",
-  "notes": "Finalize in 3 steps; signatures and texts per report",
-  "at": "2026-11-21T18:21:42.246Z"
+  "ver": "2.9.4",
+  "file": "lab-2.9.4.cwx",
+  "notes": "Sample screen no longer asks for the letter again; signature quick-add without duplicates; Admin unlocks",
+  "at": "2026-11-21T18:46:27.871Z"
  }
 }
