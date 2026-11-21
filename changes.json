@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.9.5",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.5"
+  ]
+ },
+ {
+  "ver": "2.9.5",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Permissions and unlocks from C&W Labs Admin (delete, edit finalized reports, paid bills) now apply by themselves within 1 minute — no 'Update now' click needed"
+  ]
+ },
+ {
   "ver": "2.9.4",
   "target": "admin",
   "date": "21-Nov-2026",

@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.4",
-  "file": "admin-2.9.4.cwx",
-  "notes": "Lock control tab; sends lab update 2.9.4",
-  "at": "2026-11-21T18:46:28.756Z"
+  "ver": "2.9.5",
+  "file": "admin-2.9.5.cwx",
+  "notes": "Sends lab update 2.9.5",
+  "at": "2026-11-21T18:55:04.848Z"
  },
  "lab": {
-  "ver": "2.9.4",
-  "file": "lab-2.9.4.cwx",
-  "notes": "Sample screen no longer asks for the letter again; signature quick-add without duplicates; Admin unlocks",
-  "at": "2026-11-21T18:46:27.871Z"
+  "ver": "2.9.5",
+  "file": "lab-2.9.5.cwx",
+  "notes": "Admin permissions and unlocks apply by themselves within 1 minute",
+  "at": "2026-11-21T18:55:04.328Z"
  }
 }
