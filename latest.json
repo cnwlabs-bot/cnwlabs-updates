@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.3",
-  "file": "admin-2.10.3.cwx",
-  "notes": "Sends lab update 2.10.3",
-  "at": "2026-11-21T20:16:45.451Z"
+  "ver": "2.10.4",
+  "file": "admin-2.10.4.cwx",
+  "notes": "Sends lab update 2.10.4",
+  "at": "2026-11-21T20:42:17.978Z"
  },
  "lab": {
-  "ver": "2.10.3",
-  "file": "lab-2.10.3.cwx",
-  "notes": "Letter sent by (searchable list) in Create bill; My Lab shows permissions from Admin",
-  "at": "2026-11-21T20:16:45.335Z"
+  "ver": "2.10.4",
+  "file": "lab-2.10.4.cwx",
+  "notes": "Receipt layout, samples per sub work, sets from the bill, several tests per sample, Diary No. with lab code, page numbers",
+  "at": "2026-11-21T20:42:17.882Z"
  }
 }

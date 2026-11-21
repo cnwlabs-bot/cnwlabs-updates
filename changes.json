@@ -1,5 +1,26 @@
 [
  {
+  "ver": "2.10.4",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Sends lab update 2.10.4"
+  ]
+ },
+ {
+  "ver": "2.10.4",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Receipt (bill): same header layout as the test report — Bill To (letter sender), contractor, name of work; Letter No., dated, letter received, Diary No., sub works, department",
+   "Receipt: tests listed under each sub work (A · code · name, with its sub head) with that sub work's quantity; '(TESTING CHARGES)' removed; departmental charges line left-aligned with the notification under it; Contact No. no longer shows 'undefined'",
+   "Create bill step 2: samples for each sub head / sub work and samples per set for every test — the report gets these sets ready-made",
+   "Create bill step 2: '🧪 Sample with several tests' — e.g. crush with gradation, specific gravity, flakiness; each test is a bill line at its own rate",
+   "Diary No. starts with the lab code: Swat-A-0001 … (each lab its own)",
+   "Top of every receipt and report page: Project Code and Diary No. at left, Page 1/N at right (receipt = page 1, its reports = 2, 3 …)"
+  ]
+ },
+ {
   "ver": "2.10.3",
   "target": "admin",
   "date": "22-Nov-2026",
