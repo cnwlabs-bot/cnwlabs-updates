@@ -1,5 +1,22 @@
 [
  {
+  "ver": "2.9.2",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Sends lab update 2.9.2"
+  ]
+ },
+ {
+  "ver": "2.9.2",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Fixed: the set heading (sub work, casting date, testing date, test for age) now always shows in the results table, also for old reports without sub works",
+   "Fixed: Over age and Corrected strength columns no longer show in the entry table when no specification is given"
+  ]
+ },
+ {
   "ver": "2.9.1",
   "target": "admin",
   "date": "21-Nov-2026",

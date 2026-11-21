@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.1",
-  "file": "admin-2.9.1.cwx",
-  "notes": "Checks every 2 minutes and sends lab updates at once",
-  "at": "2026-11-21T15:43:29.377Z"
+  "ver": "2.9.2",
+  "file": "admin-2.9.2.cwx",
+  "notes": "Lab 2.9.2 included",
+  "at": "2026-11-21T18:05:44.510Z"
  },
  "lab": {
-  "ver": "2.9.1",
-  "file": "lab-2.9.1.cwx",
-  "notes": "Updates arrive within a minute and install automatically",
-  "at": "2026-11-21T15:43:29.227Z"
+  "ver": "2.9.2",
+  "file": "lab-2.9.2.cwx",
+  "notes": "Set headings with casting/testing date always shown",
+  "at": "2026-11-21T18:05:43.336Z"
  }
 }
