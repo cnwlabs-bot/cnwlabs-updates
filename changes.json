@@ -1,5 +1,30 @@
 [
  {
+  "ver": "2.8.9",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "C&W Labs Admin 2.8.9 — sends lab update 2.8.9"
+  ]
+ },
+ {
+  "ver": "2.8.9",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Create bill step 1: letter received date and automatic Diary No. (A-0001 … Z-9999, AA-0001 …)",
+   "New Diary tab: complete record of every letter by Diary No. with bill and report status",
+   "Create report: billed test → procedure (with Skip) → sample details → report; nothing asked twice",
+   "Sample details: provided by client or collected by lab staff, letter dates shown, received-by, date checks, editable remark",
+   "Report entry table is the same as the format; each set has its sub head / sub work code, ＋ Set here, casting date, testing date and test-for age; only Load is typed (Area can be changed)",
+   "Age automatic; Over age, Correction factor (ACI 209R), Corrected strength and Required strength columns when a specification or client strength is given",
+   "Client's own mix design / required strength per set; standard ratio hidden",
+   "No specification: correction columns removed and an automatic remark is added",
+   "Size and Type of fracture columns removed for concrete cylinders/cubes; Sample Provided By is a row under the red note",
+   "Report top: letter received and sample received dates; casting/testing dates shown with each set; report on the right is preview only"
+  ]
+ },
+ {
   "ver": "2.8.8",
   "target": "admin",
   "date": "21-Nov-2026",

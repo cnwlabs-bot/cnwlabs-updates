@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.8",
-  "file": "admin-2.8.8.cwx",
-  "notes": "Lab 2.8.8 included",
-  "at": "2026-11-21T13:44:35.063Z"
+  "ver": "2.8.9",
+  "file": "admin-2.8.9.cwx",
+  "notes": "Lab 2.8.9 included",
+  "at": "2026-11-21T15:28:06.586Z"
  },
  "lab": {
-  "ver": "2.8.8",
-  "file": "lab-2.8.8.cwx",
-  "notes": "Casting date in the report form; report preview is view-only",
-  "at": "2026-11-21T13:44:34.926Z"
+  "ver": "2.8.9",
+  "file": "lab-2.8.9.cwx",
+  "notes": "Diary No. & Diary tab, new report entry like the format, over-age correction (ACI 209R), required strength, sample provided row",
+  "at": "2026-11-21T15:28:06.273Z"
  }
 }
