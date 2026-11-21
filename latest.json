@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.8.6",
-  "file": "admin-2.8.6.cwx",
-  "notes": "Lab 2.8.6 included",
-  "at": "2026-11-21T13:17:01.490Z"
+  "ver": "2.8.7",
+  "file": "admin-2.8.7.cwx",
+  "notes": "Lab 2.8.7 included",
+  "at": "2026-11-21T13:28:09.146Z"
  },
  "lab": {
-  "ver": "2.8.6",
-  "file": "lab-2.8.6.cwx",
-  "notes": "Projects with sub heads and sub works, codes, contractors and contact numbers; new 3-step bill; per-test report buttons; finalized reports locked; new report entry screen",
-  "at": "2026-11-21T13:17:00.772Z"
+  "ver": "2.8.7",
+  "file": "lab-2.8.7.cwx",
+  "notes": "Every contact number box now uses 03xx-xxx-xxxx (11 digits) with error",
+  "at": "2026-11-21T13:28:08.845Z"
  }
 }

@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.8.7",
+  "target": "admin",
+  "date": "21-Nov-2026",
+  "notes": [
+   "C&W Labs Admin 2.8.7 — sends lab update 2.8.7"
+  ]
+ },
+ {
+  "ver": "2.8.7",
+  "target": "lab",
+  "date": "21-Nov-2026",
+  "notes": [
+   "Every contact number box (payment, mark as paid, sample form, staff, projects) now takes only 03xx-xxx-xxxx — 11 digits, starting 03; wrong numbers show an error and cannot be saved"
+  ]
+ },
+ {
   "ver": "2.8.6",
   "target": "admin",
   "date": "21-Nov-2026",
