@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.9.7",
-  "file": "admin-2.9.7.cwx",
-  "notes": "Sends lab update 2.9.7",
-  "at": "2026-11-21T19:01:12.171Z"
+  "ver": "2.9.8",
+  "file": "admin-2.9.8.cwx",
+  "notes": "Sends lab update 2.9.8",
+  "at": "2026-11-21T19:08:32.973Z"
  },
  "lab": {
-  "ver": "2.9.7",
-  "file": "lab-2.9.7.cwx",
-  "notes": "Fixed: unlocks from Admin Lock control now reach the lab",
-  "at": "2026-11-21T19:01:12.076Z"
+  "ver": "2.9.8",
+  "file": "lab-2.9.8.cwx",
+  "notes": "Create bill: add a new sub head or sub work right there",
+  "at": "2026-11-21T19:08:32.885Z"
  }
 }
