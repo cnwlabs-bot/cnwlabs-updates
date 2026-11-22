@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.49",
-  "file": "admin-2.10.49.cwx",
-  "notes": "Portal uses the lab's own figures; project shows letter sender; sub head counts",
-  "at": "2026-11-22T15:23:03.689Z"
+  "ver": "2.10.50",
+  "file": "admin-2.10.50.cwx",
+  "notes": "Project screen: only project details and its department",
+  "at": "2026-11-22T15:23:52.788Z"
  },
  "lab": {
-  "ver": "2.10.49",
-  "file": "lab-2.10.49.cwx",
-  "notes": "Portal uses the lab's own figures; project shows letter sender; sub head counts",
-  "at": "2026-11-22T15:23:03.476Z"
+  "ver": "2.10.50",
+  "file": "lab-2.10.50.cwx",
+  "notes": "Project screen: only project details and its department",
+  "at": "2026-11-22T15:23:52.615Z"
  }
 }

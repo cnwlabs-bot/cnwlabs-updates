@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.50",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Project screen: 'Client / test sent by' removed \u2014 the project shows only its own details and the department it belongs to (C&W: circle \u203a division \u203a sub division; or the other department and district). Who sent each letter stays on the letter, bill and report."
+  ]
+ },
+ {
+  "ver": "2.10.50",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Project screen: 'Client / test sent by' removed \u2014 the project shows only its own details and the department it belongs to (C&W: circle \u203a division \u203a sub division; or the other department and district). Who sent each letter stays on the letter, bill and report."
+  ]
+ },
+ {
   "ver": "2.10.49",
   "target": "admin",
   "date": "22-Nov-2026",
