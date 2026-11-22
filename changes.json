@@ -1,5 +1,27 @@
 [
  {
+  "ver": "2.10.52",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website Verify page: Download opens a window \u2014 'Download full' (uploaded client letter, uploaded PayMIR receipt, lab receipt, every test report of that challan, in one PDF with page numbers) or 'Download specific' (each part on its own, plus the verification page).",
+   "Downloaded reports now fit one A4 page (shrunk to fit, centred left-right) instead of running onto a second page.",
+   "Online copies of reports now carry the lab's signatures and stamps (the lab sends them with its records).",
+   "Diary stamp (Diary No. + date) on the uploaded client letter, the uploaded PayMIR receipt and the lab receipt \u2014 in the lab's Diary file and on the website."
+  ]
+ },
+ {
+  "ver": "2.10.52",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website Verify page: Download opens a window \u2014 'Download full' (uploaded client letter, uploaded PayMIR receipt, lab receipt, every test report of that challan, in one PDF with page numbers) or 'Download specific' (each part on its own, plus the verification page).",
+   "Downloaded reports now fit one A4 page (shrunk to fit, centred left-right) instead of running onto a second page.",
+   "Online copies of reports now carry the lab's signatures and stamps (the lab sends them with its records).",
+   "Diary stamp (Diary No. + date) on the uploaded client letter, the uploaded PayMIR receipt and the lab receipt \u2014 in the lab's Diary file and on the website."
+  ]
+ },
+ {
   "ver": "2.10.51",
   "target": "admin",
   "date": "22-Nov-2026",

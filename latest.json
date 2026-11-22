@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.51",
-  "file": "admin-2.10.51.cwx",
-  "notes": "Diary View: one complete PDF — client letter, PayMIR challan, lab receipt and all reports of that diary, numbered 1/N",
-  "at": "2026-11-22T15:28:51.803Z"
+  "ver": "2.10.52",
+  "file": "admin-2.10.52.cwx",
+  "notes": "Website Verify: Download full / specific; A4 fit; signatures; diary stamp",
+  "at": "2026-11-22T15:38:34.065Z"
  },
  "lab": {
-  "ver": "2.10.51",
-  "file": "lab-2.10.51.cwx",
-  "notes": "Diary View: one complete PDF — client letter, PayMIR challan, lab receipt and all reports of that diary, numbered 1/N",
-  "at": "2026-11-22T15:28:51.570Z"
+  "ver": "2.10.52",
+  "file": "lab-2.10.52.cwx",
+  "notes": "Website Verify: Download full / specific; A4 fit; signatures; diary stamp",
+  "at": "2026-11-22T15:38:33.806Z"
  }
 }
