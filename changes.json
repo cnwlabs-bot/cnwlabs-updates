@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.14",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Admin settings \u2192 Verification website: the old 'Coming soon' note is replaced by the working page \u2014 Publish website, Open Online Portal, Open www.cnwlabs.com",
+   "Includes 2.10.12 and 2.10.13 (website, quick updates)"
+  ]
+ },
+ {
   "ver": "2.10.13",
   "target": "admin",
   "date": "22-Nov-2026",

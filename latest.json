@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.13",
-  "file": "admin-2.10.13.cwx",
-  "notes": "Updates are found at once (no 5-minute wait)",
-  "at": "2026-11-22T07:30:28.662Z"
+  "ver": "2.10.14",
+  "file": "admin-2.10.14.cwx",
+  "notes": "Admin settings → Verification website: Publish website button",
+  "at": "2026-11-22T07:32:42.680Z"
  },
  "lab": {
   "ver": "2.10.11",
