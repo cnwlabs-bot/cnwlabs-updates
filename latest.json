@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.27",
-  "file": "admin-2.10.27.cwx",
-  "notes": "Sign-in back to the previous one-screen sign-in",
-  "at": "2026-11-22T10:57:37.080Z"
+  "ver": "2.10.28",
+  "file": "admin-2.10.28.cwx",
+  "notes": "Lab window always comes back if an update cannot finish",
+  "at": "2026-11-22T11:01:22.530Z"
  },
  "lab": {
-  "ver": "2.10.27",
-  "file": "lab-2.10.27.cwx",
-  "notes": "Sign-in back to the previous one-screen sign-in",
-  "at": "2026-11-22T10:57:36.892Z"
+  "ver": "2.10.28",
+  "file": "lab-2.10.28.cwx",
+  "notes": "Lab window always comes back if an update cannot finish",
+  "at": "2026-11-22T11:01:22.319Z"
  }
 }

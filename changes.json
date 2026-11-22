@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.28",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: if a lab update could not finish, the lab window stayed hidden and the program seemed not to open. Now the window always comes back, and opening the program again shows it."
+  ]
+ },
+ {
+  "ver": "2.10.28",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: if a lab update could not finish, the lab window stayed hidden and the program seemed not to open. Now the window always comes back, and opening the program again shows it."
+  ]
+ },
+ {
   "ver": "2.10.27",
   "target": "admin",
   "date": "22-Nov-2026",
