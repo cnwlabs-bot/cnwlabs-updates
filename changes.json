@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.34",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail with one place now has a tab named after that place (instead of 'My Dashboard')"
+  ]
+ },
+ {
+  "ver": "2.10.34",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail with one place now has a tab named after that place (instead of 'My Dashboard')"
+  ]
+ },
+ {
   "ver": "2.10.33",
   "target": "admin",
   "date": "22-Nov-2026",

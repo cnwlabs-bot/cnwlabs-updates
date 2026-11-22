@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.33",
-  "file": "admin-2.10.33.cwx",
-  "notes": "Website on phones: app-like layout; progress reports download as a real PDF",
-  "at": "2026-11-22T11:36:13.329Z"
+  "ver": "2.10.34",
+  "file": "admin-2.10.34.cwx",
+  "notes": "Website: a Gmail with one place gets a tab with that place's name",
+  "at": "2026-11-22T11:43:41.554Z"
  },
  "lab": {
-  "ver": "2.10.33",
-  "file": "lab-2.10.33.cwx",
-  "notes": "Website on phones: app-like layout; progress reports download as a real PDF",
-  "at": "2026-11-22T11:36:13.127Z"
+  "ver": "2.10.34",
+  "file": "lab-2.10.34.cwx",
+  "notes": "Website: a Gmail with one place gets a tab with that place's name",
+  "at": "2026-11-22T11:43:41.321Z"
  }
 }
