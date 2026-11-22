@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.19",
-  "file": "admin-2.10.19.cwx",
-  "notes": "Gmail access box on every dashboard page",
-  "at": "2026-11-22T08:18:37.340Z"
+  "ver": "2.10.20",
+  "file": "admin-2.10.20.cwx",
+  "notes": "Website: each Gmail sees its own name and only its tabs",
+  "at": "2026-11-22T08:26:37.358Z"
  },
  "lab": {
   "ver": "2.10.11",

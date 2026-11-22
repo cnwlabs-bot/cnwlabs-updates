@@ -1,5 +1,16 @@
 [
  {
+  "ver": "2.10.20",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: after Gmail sign-in the header shows the real office / project name (no codes like n18bf45w)",
+   "Each Gmail sees only the tabs it needs: My Dashboard and Verify Report (Laboratories only for lab and CDO Gmails)",
+   "A Gmail with several works sees one card per work, without a repeated list",
+   "Press Publish website once after this update"
+  ]
+ },
+ {
   "ver": "2.10.19",
   "target": "admin",
   "date": "22-Nov-2026",
