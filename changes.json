@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.23",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab program updates: Admin checks the online copy every 2 minutes and sends the newest lab version again if the labs do not have it",
+   "Verification website: after an Admin update, the new website pages are put online by themselves (no need to press Publish)"
+  ]
+ },
+ {
   "ver": "2.10.22",
   "target": "admin",
   "date": "22-Nov-2026",

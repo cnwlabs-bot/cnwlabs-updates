@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.22",
-  "file": "admin-2.10.22.cwx",
-  "notes": "Portal and website PDFs: heading, logos and colours exactly as each lab's progress report",
-  "at": "2026-11-22T10:33:52.300Z"
+  "ver": "2.10.23",
+  "file": "admin-2.10.23.cwx",
+  "notes": "Lab updates are re-sent until the labs have them; website pages go online by themselves after an Admin update",
+  "at": "2026-11-22T10:39:10.625Z"
  },
  "lab": {
   "ver": "2.10.11",
