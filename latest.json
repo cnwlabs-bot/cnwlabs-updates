@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.46",
-  "file": "admin-2.10.46.cwx",
-  "notes": "Print/Save PDF: centred left-to-right with size and move window; portal receipt shows rate, 20% and amount",
-  "at": "2026-11-22T15:13:42.776Z"
+  "ver": "2.10.47",
+  "file": "admin-2.10.47.cwx",
+  "notes": "Fix: Other Than C&W challan amount now includes the 20%; MPR totals for every money column",
+  "at": "2026-11-22T15:16:40.331Z"
  },
  "lab": {
-  "ver": "2.10.46",
-  "file": "lab-2.10.46.cwx",
-  "notes": "Print/Save PDF: centred left-to-right with size and move window; portal receipt shows rate, 20% and amount",
-  "at": "2026-11-22T15:13:42.079Z"
+  "ver": "2.10.47",
+  "file": "lab-2.10.47.cwx",
+  "notes": "Fix: Other Than C&W challan amount now includes the 20%; MPR totals for every money column",
+  "at": "2026-11-22T15:16:40.139Z"
  }
 }

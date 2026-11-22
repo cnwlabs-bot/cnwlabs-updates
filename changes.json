@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.47",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: for departments other than C&W, the Challan Amount and Total Revenue in progress reports left out the 20% (showed Rs. 7,500 instead of 9,000). Now they use the amount actually charged, including the 20% \u2014 also for reports already made.",
+   "Reports made from a bill now record the challan amount with the 20% included.",
+   "MPR Grand total and sub-totals now add up every money column: Amount, Add 20%, Total Amount and Challan Amount."
+  ]
+ },
+ {
+  "ver": "2.10.47",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: for departments other than C&W, the Challan Amount and Total Revenue in progress reports left out the 20% (showed Rs. 7,500 instead of 9,000). Now they use the amount actually charged, including the 20% \u2014 also for reports already made.",
+   "Reports made from a bill now record the challan amount with the 20% included.",
+   "MPR Grand total and sub-totals now add up every money column: Amount, Add 20%, Total Amount and Challan Amount."
+  ]
+ },
+ {
   "ver": "2.10.46",
   "target": "admin",
   "date": "22-Nov-2026",
