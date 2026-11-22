@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.42",
-  "file": "admin-2.10.42.cwx",
-  "notes": "Fix: Admin blank screen after 2.10.41; Admin now restores the previous version by itself if an update does not start",
-  "at": "2026-11-22T12:27:36.835Z"
+  "ver": "2.10.43",
+  "file": "admin-2.10.43.cwx",
+  "notes": "Signatures: Sign + Stamp, Sign only, Stamp only or None per signature; size and position for each staff sign and stamp",
+  "at": "2026-11-22T13:21:48.501Z"
  },
  "lab": {
-  "ver": "2.10.42",
-  "file": "lab-2.10.42.cwx",
-  "notes": "Fix: Admin blank screen after 2.10.41; Admin now restores the previous version by itself if an update does not start",
-  "at": "2026-11-22T12:27:36.619Z"
+  "ver": "2.10.43",
+  "file": "lab-2.10.43.cwx",
+  "notes": "Signatures: Sign + Stamp, Sign only, Stamp only or None per signature; size and position for each staff sign and stamp",
+  "at": "2026-11-22T13:21:48.320Z"
  }
 }
