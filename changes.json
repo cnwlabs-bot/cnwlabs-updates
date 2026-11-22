@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.18",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: after Gmail sign-in, the Verify Report tab shows only the verify form \u2014 the Gmail sign-in box stays on the public front page only",
+   "Press Publish website once after this update"
+  ]
+ },
+ {
   "ver": "2.10.17",
   "target": "admin",
   "date": "22-Nov-2026",

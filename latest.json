@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.17",
-  "file": "admin-2.10.17.cwx",
-  "notes": "Publish website shows the Gmail sign-in reason",
-  "at": "2026-11-22T07:59:29.408Z"
+  "ver": "2.10.18",
+  "file": "admin-2.10.18.cwx",
+  "notes": "Website: Verify tab after sign-in shows only the verify form",
+  "at": "2026-11-22T08:11:11.222Z"
  },
  "lab": {
   "ver": "2.10.11",
