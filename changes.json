@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.44",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: at Finalize, the lab's own signatures and stamps (My Lab \u2192 Signatures & stamps) were lost from the report. They are now offered as 'Lab signature \u2014 \u2026' and chosen by default.",
+   "Each signature row at Finalize has a \ud83d\udccf button to set the size and Up/Down/Left/Right position of that sign and stamp; the report updates at once.",
+   "'\ud83d\udccf Size & position' buttons on the Staff page and My Lab signature boxes."
+  ]
+ },
+ {
+  "ver": "2.10.44",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: at Finalize, the lab's own signatures and stamps (My Lab \u2192 Signatures & stamps) were lost from the report. They are now offered as 'Lab signature \u2014 \u2026' and chosen by default.",
+   "Each signature row at Finalize has a \ud83d\udccf button to set the size and Up/Down/Left/Right position of that sign and stamp; the report updates at once.",
+   "'\ud83d\udccf Size & position' buttons on the Staff page and My Lab signature boxes."
+  ]
+ },
+ {
   "ver": "2.10.43",
   "target": "admin",
   "date": "22-Nov-2026",
