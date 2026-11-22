@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.25",
-  "file": "admin-2.10.25.cwx",
-  "notes": "Lab screen no longer shows the Google Authenticator QR code or setup key; only Admin shows it",
-  "at": "2026-11-22T10:50:43.231Z"
+  "ver": "2.10.26",
+  "file": "admin-2.10.26.cwx",
+  "notes": "Lab sign-in in 3 steps: user name (checked online), password, then Google Authenticator code",
+  "at": "2026-11-22T10:54:40.008Z"
  },
  "lab": {
-  "ver": "2.10.25",
-  "file": "lab-2.10.25.cwx",
-  "notes": "Lab screen no longer shows the Google Authenticator QR code or setup key; only Admin shows it",
-  "at": "2026-11-22T10:50:43.005Z"
+  "ver": "2.10.26",
+  "file": "lab-2.10.26.cwx",
+  "notes": "Lab sign-in in 3 steps: user name (checked online), password, then Google Authenticator code",
+  "at": "2026-11-22T10:54:39.846Z"
  }
 }

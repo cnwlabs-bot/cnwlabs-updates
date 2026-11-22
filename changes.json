@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.26",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab sign-in in 3 steps: 1) user name, checked online; 2) password; 3) Google Authenticator code, only if it is on for that lab",
+   "Admin publishes each lab's user name check online by itself after sign-in"
+  ]
+ },
+ {
+  "ver": "2.10.26",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab sign-in in 3 steps: 1) user name, checked online; 2) password; 3) Google Authenticator code, only if it is on for that lab",
+   "Admin publishes each lab's user name check online by itself after sign-in"
+  ]
+ },
+ {
   "ver": "2.10.25",
   "target": "admin",
   "date": "22-Nov-2026",
