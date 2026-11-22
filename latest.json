@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.7",
-  "file": "admin-2.10.7.cwx",
-  "notes": "Calendar date picker on every date box (click the box, pick the day; Today and Clear buttons). Dates shown as day/month/year.",
-  "at": "2026-11-22T06:21:17.188Z"
+  "ver": "2.10.8",
+  "file": "admin-2.10.8.cwx",
+  "notes": "New Online Portal tab: live dashboard of every lab and Gmail access for each office",
+  "at": "2026-11-22T06:49:35.715Z"
  },
  "lab": {
   "ver": "2.10.7",

@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.8",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "New \ud83c\udf10 Online Portal tab: the same dashboard as the website, built from the live data of every lab \u2014 CDO \u2192 Circle \u2192 Division \u2192 Sub Division \u2192 Project \u2192 Receipt \u2192 Reports / Letter, with CFY / Month / Laboratory filters, test-wise summary, Excel and PDF downloads",
+   "Admin \u2014 Gmail Access: add Gmails to each office, lab and other department, set View / Receipts / Reports / Letters rights, block or remove"
+  ]
+ },
+ {
   "ver": "2.10.7",
   "target": "admin",
   "date": "22-Nov-2026",
