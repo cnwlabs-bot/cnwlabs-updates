@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.44",
-  "file": "admin-2.10.44.cwx",
-  "notes": "Signatures: lab signature boxes can be chosen at Finalize; size and position button on each signature row",
-  "at": "2026-11-22T13:29:11.358Z"
+  "ver": "2.10.45",
+  "file": "admin-2.10.45.cwx",
+  "notes": "Print and PDF: one-page reports and bills centred top-to-bottom on the paper",
+  "at": "2026-11-22T13:40:06.890Z"
  },
  "lab": {
-  "ver": "2.10.44",
-  "file": "lab-2.10.44.cwx",
-  "notes": "Signatures: lab signature boxes can be chosen at Finalize; size and position button on each signature row",
-  "at": "2026-11-22T13:29:11.171Z"
+  "ver": "2.10.45",
+  "file": "lab-2.10.45.cwx",
+  "notes": "Print and PDF: one-page reports and bills centred top-to-bottom on the paper",
+  "at": "2026-11-22T13:40:06.699Z"
  }
 }

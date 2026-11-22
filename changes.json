@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.45",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Print and Save PDF: a report, bill or progress report that fits on one page is now centred top-to-bottom on the A4 paper (it still shrinks to fit when needed). Same for the PDFs on the website."
+  ]
+ },
+ {
+  "ver": "2.10.45",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Print and Save PDF: a report, bill or progress report that fits on one page is now centred top-to-bottom on the A4 paper (it still shrinks to fit when needed). Same for the PDFs on the website."
+  ]
+ },
+ {
   "ver": "2.10.44",
   "target": "admin",
   "date": "22-Nov-2026",
