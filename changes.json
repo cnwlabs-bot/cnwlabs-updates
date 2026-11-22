@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.11",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "\u201cUnsaved changes\u201d popup now shows in full over the report settings",
+   "Report settings: \u201cSave for this lab\u201d and \u201cSave for all labs\u201d show a 4-digit code that must be typed to confirm"
+  ]
+ },
+ {
   "ver": "2.10.10",
   "target": "admin",
   "date": "22-Nov-2026",

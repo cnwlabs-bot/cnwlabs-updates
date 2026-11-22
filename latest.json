@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.10",
-  "file": "admin-2.10.10.cwx",
-  "notes": "Gmail access per project, sub head and sub work",
-  "at": "2026-11-22T07:04:44.750Z"
+  "ver": "2.10.11",
+  "file": "admin-2.10.11.cwx",
+  "notes": "Unsaved-changes popup fixed; 4-digit code to save report settings",
+  "at": "2026-11-22T07:07:22.573Z"
  },
  "lab": {
   "ver": "2.10.7",
