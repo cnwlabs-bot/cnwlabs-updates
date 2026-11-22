@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.54",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Paid bill: when C&W Labs Admin unlocks 'Edit paid bills', an '\u270f Edit bill' button opens a window to change the letter (Bill to, Letter No., dates, uploaded letter), the PAYMIR details (PSID, dates, receipt No., uploaded receipt) and the payee. Changing the PSID also renumbers the Bill No. and its Report Nos. Every change is recorded on the bill."
+  ]
+ },
+ {
+  "ver": "2.10.54",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Paid bill: when C&W Labs Admin unlocks 'Edit paid bills', an '\u270f Edit bill' button opens a window to change the letter (Bill to, Letter No., dates, uploaded letter), the PAYMIR details (PSID, dates, receipt No., uploaded receipt) and the payee. Changing the PSID also renumbers the Bill No. and its Report Nos. Every change is recorded on the bill."
+  ]
+ },
+ {
   "ver": "2.10.53",
   "target": "admin",
   "date": "22-Nov-2026",

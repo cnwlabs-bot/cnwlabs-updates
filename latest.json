@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.53",
-  "file": "admin-2.10.53.cwx",
-  "notes": "Verify Download window tidied for phone and PC",
-  "at": "2026-11-22T15:39:03.672Z"
+  "ver": "2.10.54",
+  "file": "admin-2.10.54.cwx",
+  "notes": "Edit paid bill (when Admin unlocks it)",
+  "at": "2026-11-22T15:42:59.701Z"
  },
  "lab": {
-  "ver": "2.10.53",
-  "file": "lab-2.10.53.cwx",
-  "notes": "Verify Download window tidied for phone and PC",
-  "at": "2026-11-22T15:39:03.421Z"
+  "ver": "2.10.54",
+  "file": "lab-2.10.54.cwx",
+  "notes": "Edit paid bill (when Admin unlocks it)",
+  "at": "2026-11-22T15:42:59.473Z"
  }
 }
