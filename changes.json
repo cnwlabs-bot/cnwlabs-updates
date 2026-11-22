@@ -1,5 +1,15 @@
 [
  {
+  "ver": "2.10.10",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal \u2192 Gmail access: the same Gmail can now be added to several offices / works (only a repeat in the same place is refused)",
+   "New: give a Gmail access to one project, one sub head or one sub work \u2014 that Gmail sees only that work's receipts, reports and letters",
+   "Dashboard opens Project \u2192 Sub Head \u2192 Sub Work \u2192 Receipt"
+  ]
+ },
+ {
   "ver": "2.10.9",
   "target": "admin",
   "date": "22-Nov-2026",

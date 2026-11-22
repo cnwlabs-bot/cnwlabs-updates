@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.9",
-  "file": "admin-2.10.9.cwx",
-  "notes": "Online Portal: website verification page, custom domain, Excel button removed",
-  "at": "2026-11-22T06:58:50.821Z"
+  "ver": "2.10.10",
+  "file": "admin-2.10.10.cwx",
+  "notes": "Gmail access per project, sub head and sub work",
+  "at": "2026-11-22T07:04:44.750Z"
  },
  "lab": {
   "ver": "2.10.7",
