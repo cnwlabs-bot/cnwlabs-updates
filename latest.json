@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.5",
-  "file": "admin-2.10.5.cwx",
-  "notes": "Sends lab update 2.10.5",
-  "at": "2026-11-21T20:55:49.275Z"
+  "ver": "2.10.6",
+  "file": "admin-2.10.6.cwx",
+  "notes": "Departments & offices editor: Circle → District → Division → Sub division",
+  "at": "2026-11-22T05:15:20.262Z"
  },
  "lab": {
-  "ver": "2.10.5",
-  "file": "lab-2.10.5.cwx",
-  "notes": "Better PAYMIR receipt reading; payee boxes start empty and fill from the receipt",
-  "at": "2026-11-21T20:55:49.158Z"
+  "ver": "2.10.6",
+  "file": "lab-2.10.6.cwx",
+  "notes": "Stamp & sign size; uploads saved as PDF; departments by Admin only",
+  "at": "2026-11-22T05:15:19.338Z"
  }
 }
