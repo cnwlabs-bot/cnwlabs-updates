@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.29",
-  "file": "admin-2.10.29.cwx",
-  "notes": "Authenticator screen: security note removed",
-  "at": "2026-11-22T11:05:19.307Z"
+  "ver": "2.10.30",
+  "file": "admin-2.10.30.cwx",
+  "notes": "Online portal and website: Progress Reports tab with each lab's own official formats",
+  "at": "2026-11-22T11:16:31.708Z"
  },
  "lab": {
-  "ver": "2.10.29",
-  "file": "lab-2.10.29.cwx",
-  "notes": "Authenticator screen: security note removed",
-  "at": "2026-11-22T11:05:19.139Z"
+  "ver": "2.10.30",
+  "file": "lab-2.10.30.cwx",
+  "notes": "Online portal and website: Progress Reports tab with each lab's own official formats",
+  "at": "2026-11-22T11:16:31.507Z"
  }
 }

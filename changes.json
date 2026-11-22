@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.30",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal and website: new Progress Reports tab. Department-wise summary, Sub-division wise MPR (annexures) and Monthly PIT statement are made by the lab program's own code, so they are the same as in each lab, with NIL rows",
+   "Periods: each month, each CFY and All CFY. Print / Save PDF in A4 landscape",
+   "Each Gmail sees only its own: a lab or the CDO sees all formats; a division sees its annexure; a sub division sees its own part"
+  ]
+ },
+ {
+  "ver": "2.10.30",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal and website: new Progress Reports tab. Department-wise summary, Sub-division wise MPR (annexures) and Monthly PIT statement are made by the lab program's own code, so they are the same as in each lab, with NIL rows",
+   "Periods: each month, each CFY and All CFY. Print / Save PDF in A4 landscape",
+   "Each Gmail sees only its own: a lab or the CDO sees all formats; a division sees its annexure; a sub division sees its own part"
+  ]
+ },
+ {
   "ver": "2.10.29",
   "target": "admin",
   "date": "22-Nov-2026",
