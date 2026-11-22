@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.33",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website on phones and tablets: app-like layout \u2014 compact header, sticky scrollable tabs, filters side by side, full-width buttons",
+   "Progress Reports: 'Download PDF' makes a real A4 landscape PDF file on any device (each annexure on its own page); the report fits the screen on phones"
+  ]
+ },
+ {
+  "ver": "2.10.33",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website on phones and tablets: app-like layout \u2014 compact header, sticky scrollable tabs, filters side by side, full-width buttons",
+   "Progress Reports: 'Download PDF' makes a real A4 landscape PDF file on any device (each annexure on its own page); the report fits the screen on phones"
+  ]
+ },
+ {
   "ver": "2.10.32",
   "target": "admin",
   "date": "22-Nov-2026",
