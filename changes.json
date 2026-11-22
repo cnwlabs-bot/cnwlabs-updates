@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.12",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal \u2192 Admin \u2014 Gmail Access \u2192 \ud83c\udf10 Publish website: puts the verification page on www.cnwlabs.com in about a minute",
+   "Security rules updated: only a real laboratory can add a verification record (each record is signed with that lab's own live key)",
+   "Sends lab update 2.10.11"
+  ]
+ },
+ {
+  "ver": "2.10.11",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Every issued (finalized) report is sent for online verification on www.cnwlabs.com, by itself, whenever the internet is on"
+  ]
+ },
+ {
   "ver": "2.10.11",
   "target": "admin",
   "date": "22-Nov-2026",

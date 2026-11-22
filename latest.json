@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.11",
-  "file": "admin-2.10.11.cwx",
-  "notes": "Unsaved-changes popup fixed; 4-digit code to save report settings",
-  "at": "2026-11-22T07:07:22.573Z"
+  "ver": "2.10.12",
+  "file": "admin-2.10.12.cwx",
+  "notes": "Public website: Publish website button; labs send issued reports for online verification",
+  "at": "2026-11-22T07:26:41.411Z"
  },
  "lab": {
-  "ver": "2.10.7",
-  "file": "lab-2.10.7.cwx",
-  "notes": "Calendar date picker on every date box (click the box, pick the day; Today and Clear buttons). Dates shown as day/month/year.",
-  "at": "2026-11-22T06:21:17.063Z"
+  "ver": "2.10.11",
+  "file": "lab-2.10.11.cwx",
+  "notes": "Public website: Publish website button; labs send issued reports for online verification",
+  "at": "2026-11-22T07:26:41.246Z"
  }
 }
