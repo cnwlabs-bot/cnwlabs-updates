@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.35",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail's places are listed with the higher office first \u2014 CDO, lab, circle, division, sub division, then projects, sub heads and sub works"
+  ]
+ },
+ {
+  "ver": "2.10.35",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail's places are listed with the higher office first \u2014 CDO, lab, circle, division, sub division, then projects, sub heads and sub works"
+  ]
+ },
+ {
   "ver": "2.10.34",
   "target": "admin",
   "date": "22-Nov-2026",

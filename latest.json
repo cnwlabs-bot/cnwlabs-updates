@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.34",
-  "file": "admin-2.10.34.cwx",
-  "notes": "Website: a Gmail with one place gets a tab with that place's name",
-  "at": "2026-11-22T11:43:41.554Z"
+  "ver": "2.10.35",
+  "file": "admin-2.10.35.cwx",
+  "notes": "Website: places listed with the higher office first",
+  "at": "2026-11-22T11:44:19.569Z"
  },
  "lab": {
-  "ver": "2.10.34",
-  "file": "lab-2.10.34.cwx",
-  "notes": "Website: a Gmail with one place gets a tab with that place's name",
-  "at": "2026-11-22T11:43:41.321Z"
+  "ver": "2.10.35",
+  "file": "lab-2.10.35.cwx",
+  "notes": "Website: places listed with the higher office first",
+  "at": "2026-11-22T11:44:19.386Z"
  }
 }
