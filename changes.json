@@ -1,5 +1,13 @@
 [
  {
+  "app": "admin",
+  "ver": "2.10.22",
+  "at": "2026-11-22",
+  "notes": [
+   "Portal and website PDFs now print each lab's progress-report heading exactly: same logos, line sizes, lab colour and line"
+  ]
+ },
+ {
   "ver": "2.10.21",
   "target": "admin",
   "date": "22-Nov-2026",
