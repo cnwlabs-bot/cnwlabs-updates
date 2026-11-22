@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.50",
-  "file": "admin-2.10.50.cwx",
-  "notes": "Project screen: only project details and its department",
-  "at": "2026-11-22T15:23:52.788Z"
+  "ver": "2.10.51",
+  "file": "admin-2.10.51.cwx",
+  "notes": "Diary View: one complete PDF — client letter, PayMIR challan, lab receipt and all reports of that diary, numbered 1/N",
+  "at": "2026-11-22T15:28:51.803Z"
  },
  "lab": {
-  "ver": "2.10.50",
-  "file": "lab-2.10.50.cwx",
-  "notes": "Project screen: only project details and its department",
-  "at": "2026-11-22T15:23:52.615Z"
+  "ver": "2.10.51",
+  "file": "lab-2.10.51.cwx",
+  "notes": "Diary View: one complete PDF — client letter, PayMIR challan, lab receipt and all reports of that diary, numbered 1/N",
+  "at": "2026-11-22T15:28:51.570Z"
  }
 }

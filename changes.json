@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.51",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Diary \u2192 View file: one complete PDF in order \u2014 uploaded client letter, uploaded PayMIR challan, lab receipt, then every test report under that diary number. Every page is numbered (1 / N) with the diary number. Save the full file or any single part."
+  ]
+ },
+ {
+  "ver": "2.10.51",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Diary \u2192 View file: one complete PDF in order \u2014 uploaded client letter, uploaded PayMIR challan, lab receipt, then every test report under that diary number. Every page is numbered (1 / N) with the diary number. Save the full file or any single part."
+  ]
+ },
+ {
   "ver": "2.10.50",
   "target": "admin",
   "date": "22-Nov-2026",
