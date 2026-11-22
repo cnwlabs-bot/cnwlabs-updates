@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.46",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Print and Save PDF: the page is centred left-to-right (no longer top-to-bottom). Before printing or saving, a window shows the page on the paper with Smaller/Bigger and Up/Down/Left/Right; the setting is kept until reset.",
+   "Portal and website receipt: the tests table now shows Tests \u00d7 Rate, the +20% for departments other than C&W, and the Amount, so every figure adds up."
+  ]
+ },
+ {
+  "ver": "2.10.46",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Print and Save PDF: the page is centred left-to-right (no longer top-to-bottom). Before printing or saving, a window shows the page on the paper with Smaller/Bigger and Up/Down/Left/Right; the setting is kept until reset.",
+   "Portal and website receipt: the tests table now shows Tests \u00d7 Rate, the +20% for departments other than C&W, and the Amount, so every figure adds up."
+  ]
+ },
+ {
   "ver": "2.10.45",
   "target": "admin",
   "date": "22-Nov-2026",
