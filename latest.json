@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.37",
-  "file": "admin-2.10.37.cwx",
-  "notes": "Website: each place in its own tab, no combined tab",
-  "at": "2026-11-22T11:45:48.597Z"
+  "ver": "2.10.38",
+  "file": "admin-2.10.38.cwx",
+  "notes": "Website: the offices badge opens a list of all places of this Gmail",
+  "at": "2026-11-22T11:46:45.050Z"
  },
  "lab": {
-  "ver": "2.10.37",
-  "file": "lab-2.10.37.cwx",
-  "notes": "Website: each place in its own tab, no combined tab",
-  "at": "2026-11-22T11:45:48.403Z"
+  "ver": "2.10.38",
+  "file": "lab-2.10.38.cwx",
+  "notes": "Website: the offices badge opens a list of all places of this Gmail",
+  "at": "2026-11-22T11:46:44.879Z"
  }
 }

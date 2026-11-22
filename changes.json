@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.38",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: the 'N offices / works' badge shows the live count and opens a list of every place this Gmail can open (higher office first); click one to open its tab"
+  ]
+ },
+ {
+  "ver": "2.10.38",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: the 'N offices / works' badge shows the live count and opens a list of every place this Gmail can open (higher office first); click one to open its tab"
+  ]
+ },
+ {
   "ver": "2.10.37",
   "target": "admin",
   "date": "22-Nov-2026",
