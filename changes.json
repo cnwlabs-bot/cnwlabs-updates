@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.13",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "New updates are found at once \u2014 no more 5-minute wait",
+   "Includes everything of 2.10.12 (Publish website)"
+  ]
+ },
+ {
   "ver": "2.10.12",
   "target": "admin",
   "date": "22-Nov-2026",

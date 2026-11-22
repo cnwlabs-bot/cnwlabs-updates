@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.12",
-  "file": "admin-2.10.12.cwx",
-  "notes": "Public website: Publish website button; labs send issued reports for online verification",
-  "at": "2026-11-22T07:26:41.411Z"
+  "ver": "2.10.13",
+  "file": "admin-2.10.13.cwx",
+  "notes": "Updates are found at once (no 5-minute wait)",
+  "at": "2026-11-22T07:30:28.662Z"
  },
  "lab": {
   "ver": "2.10.11",
