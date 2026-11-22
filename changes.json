@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.21",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal and website PDFs: every page of a lab's jurisdiction (lab, circle, division, sub division, department, project, receipt, report) now prints with that lab's own progress-report heading and logos, as set in its Report settings; only the all-labs CDO pages keep the Chief Engineer heading",
+   "Press Publish website once after this update"
+  ]
+ },
+ {
   "ver": "2.10.20",
   "target": "admin",
   "date": "22-Nov-2026",
