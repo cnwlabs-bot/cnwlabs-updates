@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.23",
-  "file": "admin-2.10.23.cwx",
-  "notes": "Lab updates are re-sent until the labs have them; website pages go online by themselves after an Admin update",
-  "at": "2026-11-22T10:39:10.625Z"
+  "ver": "2.10.24",
+  "file": "admin-2.10.24.cwx",
+  "notes": "Lab and Admin now share one version number",
+  "at": "2026-11-22T10:45:26.497Z"
  },
  "lab": {
-  "ver": "2.10.11",
-  "file": "lab-2.10.11.cwx",
-  "notes": "Public website: Publish website button; labs send issued reports for online verification",
-  "at": "2026-11-22T07:26:41.246Z"
+  "ver": "2.10.24",
+  "file": "lab-2.10.24.cwx",
+  "notes": "Lab and Admin now share one version number",
+  "at": "2026-11-22T10:45:26.331Z"
  }
 }

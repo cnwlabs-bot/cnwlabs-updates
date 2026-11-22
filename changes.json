@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.24",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab and Admin now have the same version number and are updated together"
+  ]
+ },
+ {
+  "ver": "2.10.24",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab and Admin now have the same version number and are updated together"
+  ]
+ },
+ {
   "ver": "2.10.23",
   "target": "admin",
   "date": "22-Nov-2026",
