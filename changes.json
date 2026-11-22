@@ -1,5 +1,15 @@
 [
  {
+  "ver": "2.10.17",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Publish website now shows whether Gmail sign-in is on, and the exact reason when it is not",
+   "If the website key cannot be read automatically, it can be pasted once in Admin settings \u2192 Verification website",
+   "Website message tells exactly what to switch on"
+  ]
+ },
+ {
   "ver": "2.10.16",
   "target": "admin",
   "date": "22-Nov-2026",

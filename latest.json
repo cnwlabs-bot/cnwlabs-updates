@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.16",
-  "file": "admin-2.10.16.cwx",
-  "notes": "Gmail Users page; one dashboard per Gmail with each work separately",
-  "at": "2026-11-22T07:48:49.433Z"
+  "ver": "2.10.17",
+  "file": "admin-2.10.17.cwx",
+  "notes": "Publish website shows the Gmail sign-in reason",
+  "at": "2026-11-22T07:59:29.408Z"
  },
  "lab": {
   "ver": "2.10.11",
