@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.36",
-  "file": "admin-2.10.36.cwx",
-  "notes": "Website: Gmail access changes apply live, within seconds",
-  "at": "2026-11-22T11:45:12.421Z"
+  "ver": "2.10.37",
+  "file": "admin-2.10.37.cwx",
+  "notes": "Website: each place in its own tab, no combined tab",
+  "at": "2026-11-22T11:45:48.597Z"
  },
  "lab": {
-  "ver": "2.10.36",
-  "file": "lab-2.10.36.cwx",
-  "notes": "Website: Gmail access changes apply live, within seconds",
-  "at": "2026-11-22T11:45:12.229Z"
+  "ver": "2.10.37",
+  "file": "lab-2.10.37.cwx",
+  "notes": "Website: each place in its own tab, no combined tab",
+  "at": "2026-11-22T11:45:48.403Z"
  }
 }

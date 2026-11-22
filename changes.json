@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.37",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail with several places gets only separate tabs, one per place (higher office first); the combined 'All my places' tab is removed. It opens on the first (highest) place."
+  ]
+ },
+ {
+  "ver": "2.10.37",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: a Gmail with several places gets only separate tabs, one per place (higher office first); the combined 'All my places' tab is removed. It opens on the first (highest) place."
+  ]
+ },
+ {
   "ver": "2.10.36",
   "target": "admin",
   "date": "22-Nov-2026",
