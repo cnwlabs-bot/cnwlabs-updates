@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.39",
-  "file": "admin-2.10.39.cwx",
-  "notes": "Website: Test Reports tab; Admin turns each Gmail's tabs on or off",
-  "at": "2026-11-22T11:50:27.745Z"
+  "ver": "2.10.40",
+  "file": "admin-2.10.40.cwx",
+  "notes": "Website: fix 'Unterminated string in JSON' at sign-in for Gmails with large data",
+  "at": "2026-11-22T11:58:42.197Z"
  },
  "lab": {
-  "ver": "2.10.39",
-  "file": "lab-2.10.39.cwx",
-  "notes": "Website: Test Reports tab; Admin turns each Gmail's tabs on or off",
-  "at": "2026-11-22T11:50:27.532Z"
+  "ver": "2.10.40",
+  "file": "lab-2.10.40.cwx",
+  "notes": "Website: fix 'Unterminated string in JSON' at sign-in for Gmails with large data",
+  "at": "2026-11-22T11:58:41.992Z"
  }
 }

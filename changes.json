@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.40",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website fix: Gmails with a lot of data (for example the CDO) got 'Unterminated string in JSON' at sign-in, because only part of their data was read. Now all parts are read.",
+   "Admin republishes the website by itself every 5 minutes if the website is older than Admin."
+  ]
+ },
+ {
+  "ver": "2.10.40",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website fix: Gmails with a lot of data (for example the CDO) got 'Unterminated string in JSON' at sign-in, because only part of their data was read. Now all parts are read.",
+   "Admin republishes the website by itself every 5 minutes if the website is older than Admin."
+  ]
+ },
+ {
   "ver": "2.10.39",
   "target": "admin",
   "date": "22-Nov-2026",
