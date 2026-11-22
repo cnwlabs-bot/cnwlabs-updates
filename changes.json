@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.39",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website and portal: new Test Reports tab \u2014 every test report of the Gmail's own places, with CFY, month, lab and search filters and a PDF download for each issued report (if its Reports right is on)",
+   "Admin \u2192 Gmail Users: for each Gmail, switches to turn its website tabs on or off (Test Reports, Progress Reports, Laboratories, Verify Report); changes reach a signed-in user within seconds"
+  ]
+ },
+ {
+  "ver": "2.10.39",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website and portal: new Test Reports tab \u2014 every test report of the Gmail's own places, with CFY, month, lab and search filters and a PDF download for each issued report (if its Reports right is on)",
+   "Admin \u2192 Gmail Users: for each Gmail, switches to turn its website tabs on or off (Test Reports, Progress Reports, Laboratories, Verify Report); changes reach a signed-in user within seconds"
+  ]
+ },
+ {
   "ver": "2.10.38",
   "target": "admin",
   "date": "22-Nov-2026",
