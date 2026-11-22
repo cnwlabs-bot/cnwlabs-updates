@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.48",
-  "file": "admin-2.10.48.cwx",
-  "notes": "Fix: portal and website no longer add 20% to C&W Department bills",
-  "at": "2026-11-22T15:19:46.208Z"
+  "ver": "2.10.49",
+  "file": "admin-2.10.49.cwx",
+  "notes": "Portal uses the lab's own figures; project shows letter sender; sub head counts",
+  "at": "2026-11-22T15:23:03.689Z"
  },
  "lab": {
-  "ver": "2.10.48",
-  "file": "lab-2.10.48.cwx",
-  "notes": "Fix: portal and website no longer add 20% to C&W Department bills",
-  "at": "2026-11-22T15:19:46.025Z"
+  "ver": "2.10.49",
+  "file": "lab-2.10.49.cwx",
+  "notes": "Portal uses the lab's own figures; project shows letter sender; sub head counts",
+  "at": "2026-11-22T15:23:03.476Z"
  }
 }

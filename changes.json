@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.49",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Portal and website now take every figure straight from the lab program itself: which office/department a project belongs to, whether 20% applies, discount, bill totals and report amounts \u2014 so they always match the lab's bill and reports.",
+   "Project screen: 'Client / test sent by' now shows the office that actually sent the letter (e.g. REGIONAL ENGINEER, SRSP-SWAT REGION), not an old default.",
+   "Project screen: Sub heads and sub works now count their reports and bills correctly (bills split across sub heads were shown as 0)."
+  ]
+ },
+ {
+  "ver": "2.10.49",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Portal and website now take every figure straight from the lab program itself: which office/department a project belongs to, whether 20% applies, discount, bill totals and report amounts \u2014 so they always match the lab's bill and reports.",
+   "Project screen: 'Client / test sent by' now shows the office that actually sent the letter (e.g. REGIONAL ENGINEER, SRSP-SWAT REGION), not an old default.",
+   "Project screen: Sub heads and sub works now count their reports and bills correctly (bills split across sub heads were shown as 0)."
+  ]
+ },
+ {
   "ver": "2.10.48",
   "target": "admin",
   "date": "22-Nov-2026",
