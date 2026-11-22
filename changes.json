@@ -1,5 +1,15 @@
 [
  {
+  "ver": "2.10.9",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal \u2192 Verify Report: the verification page exactly as it looks on the website, working on the live data",
+   "Online Portal \u2192 Admin \u2014 Gmail Access: Website & Custom Domain \u2014 type your web address (e.g. www.cnwlabs.com), press Connect domain and get the records to add at your domain company",
+   "Download (Excel) button removed; Print / PDF stays"
+  ]
+ },
+ {
   "ver": "2.10.8",
   "target": "admin",
   "date": "22-Nov-2026",

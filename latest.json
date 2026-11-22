@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.8",
-  "file": "admin-2.10.8.cwx",
-  "notes": "New Online Portal tab: live dashboard of every lab and Gmail access for each office",
-  "at": "2026-11-22T06:49:35.715Z"
+  "ver": "2.10.9",
+  "file": "admin-2.10.9.cwx",
+  "notes": "Online Portal: website verification page, custom domain, Excel button removed",
+  "at": "2026-11-22T06:58:50.821Z"
  },
  "lab": {
   "ver": "2.10.7",
