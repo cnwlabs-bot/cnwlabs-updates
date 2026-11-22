@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.41",
-  "file": "admin-2.10.41.cwx",
-  "notes": "Receipt file: client letter, PayMIR receipt, lab receipt and test reports as one PDF or each separately",
-  "at": "2026-11-22T12:14:40.331Z"
+  "ver": "2.10.42",
+  "file": "admin-2.10.42.cwx",
+  "notes": "Fix: Admin blank screen after 2.10.41; Admin now restores the previous version by itself if an update does not start",
+  "at": "2026-11-22T12:27:36.835Z"
  },
  "lab": {
-  "ver": "2.10.41",
-  "file": "lab-2.10.41.cwx",
-  "notes": "Receipt file: client letter, PayMIR receipt, lab receipt and test reports as one PDF or each separately",
-  "at": "2026-11-22T12:14:40.148Z"
+  "ver": "2.10.42",
+  "file": "lab-2.10.42.cwx",
+  "notes": "Fix: Admin blank screen after 2.10.41; Admin now restores the previous version by itself if an update does not start",
+  "at": "2026-11-22T12:27:36.619Z"
  }
 }
