@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.40",
-  "file": "admin-2.10.40.cwx",
-  "notes": "Website: fix 'Unterminated string in JSON' at sign-in for Gmails with large data",
-  "at": "2026-11-22T11:58:42.197Z"
+  "ver": "2.10.41",
+  "file": "admin-2.10.41.cwx",
+  "notes": "Receipt file: client letter, PayMIR receipt, lab receipt and test reports as one PDF or each separately",
+  "at": "2026-11-22T12:14:40.331Z"
  },
  "lab": {
-  "ver": "2.10.40",
-  "file": "lab-2.10.40.cwx",
-  "notes": "Website: fix 'Unterminated string in JSON' at sign-in for Gmails with large data",
-  "at": "2026-11-22T11:58:41.992Z"
+  "ver": "2.10.41",
+  "file": "lab-2.10.41.cwx",
+  "notes": "Receipt file: client letter, PayMIR receipt, lab receipt and test reports as one PDF or each separately",
+  "at": "2026-11-22T12:14:40.148Z"
  }
 }

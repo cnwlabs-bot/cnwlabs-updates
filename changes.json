@@ -1,5 +1,25 @@
 [
  {
+  "ver": "2.10.41",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Portal and website, each receipt: 'Complete file (one PDF)' \u2014 client letter \u2192 PayMIR receipt \u2192 lab receipt \u2192 every test report of that receipt \u2014 and a PDF button for each part. The lab receipt and test reports are made by the lab program's own print code; the letter and PayMIR receipt are the scans attached in the lab.",
+   "Labs now send the attached letter and PayMIR receipt scans online (in the background).",
+   "Test Reports tab: the PDF is now the lab's own printed report."
+  ]
+ },
+ {
+  "ver": "2.10.41",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Portal and website, each receipt: 'Complete file (one PDF)' \u2014 client letter \u2192 PayMIR receipt \u2192 lab receipt \u2192 every test report of that receipt \u2014 and a PDF button for each part. The lab receipt and test reports are made by the lab program's own print code; the letter and PayMIR receipt are the scans attached in the lab.",
+   "Labs now send the attached letter and PayMIR receipt scans online (in the background).",
+   "Test Reports tab: the PDF is now the lab's own printed report."
+  ]
+ },
+ {
   "ver": "2.10.40",
   "target": "admin",
   "date": "22-Nov-2026",
