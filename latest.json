@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.47",
-  "file": "admin-2.10.47.cwx",
-  "notes": "Fix: Other Than C&W challan amount now includes the 20%; MPR totals for every money column",
-  "at": "2026-11-22T15:16:40.331Z"
+  "ver": "2.10.48",
+  "file": "admin-2.10.48.cwx",
+  "notes": "Fix: portal and website no longer add 20% to C&W Department bills",
+  "at": "2026-11-22T15:19:46.208Z"
  },
  "lab": {
-  "ver": "2.10.47",
-  "file": "lab-2.10.47.cwx",
-  "notes": "Fix: Other Than C&W challan amount now includes the 20%; MPR totals for every money column",
-  "at": "2026-11-22T15:16:40.139Z"
+  "ver": "2.10.48",
+  "file": "lab-2.10.48.cwx",
+  "notes": "Fix: portal and website no longer add 20% to C&W Department bills",
+  "at": "2026-11-22T15:19:46.025Z"
  }
 }

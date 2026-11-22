@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.48",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: the online portal and website added 20% to C&W Department bills too. The 20% is now added only for departments other than C&W, exactly as on the lab's bill."
+  ]
+ },
+ {
+  "ver": "2.10.48",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Fix: the online portal and website added 20% to C&W Department bills too. The 20% is now added only for departments other than C&W, exactly as on the lab's bill."
+  ]
+ },
+ {
   "ver": "2.10.47",
   "target": "admin",
   "date": "22-Nov-2026",
