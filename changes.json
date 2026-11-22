@@ -1,5 +1,15 @@
 [
  {
+  "ver": "2.10.15",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "www.cnwlabs.com \u2192 Office Use \u2192 Sign in with Gmail: the Google account chooser opens; a Gmail added by the Admin sees only its own office / project / sub head / sub work data; any other Gmail is refused",
+   "Admin keeps each office's data on the website up to date by itself every 10 minutes while Admin is open, and at once after Publish website or a Gmail change",
+   "Publish website also checks that Google sign-in is switched on and allows www.cnwlabs.com for sign-in"
+  ]
+ },
+ {
   "ver": "2.10.14",
   "target": "admin",
   "date": "22-Nov-2026",

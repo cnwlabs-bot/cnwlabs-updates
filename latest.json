@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.14",
-  "file": "admin-2.10.14.cwx",
-  "notes": "Admin settings → Verification website: Publish website button",
-  "at": "2026-11-22T07:32:42.680Z"
+  "ver": "2.10.15",
+  "file": "admin-2.10.15.cwx",
+  "notes": "Gmail sign-in on www.cnwlabs.com",
+  "at": "2026-11-22T07:43:09.890Z"
  },
  "lab": {
   "ver": "2.10.11",
