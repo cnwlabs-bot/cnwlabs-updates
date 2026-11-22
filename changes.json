@@ -1,5 +1,16 @@
 [
  {
+  "ver": "2.10.16",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal \u2192 Gmail Users: every Gmail on its own page \u2014 name, designation, its places (offices, labs, projects, sub heads, sub works), its own View / Receipts / Reports / Letters rights, Block, Remove",
+   "Add many places to one Gmail at once: search, tick, Add selected",
+   "\ud83d\udc41 Preview his dashboard: see exactly what that Gmail sees",
+   "Website: a Gmail with several works gets 'My works' buttons and a card for each work, to open each one separately or all together"
+  ]
+ },
+ {
   "ver": "2.10.15",
   "target": "admin",
   "date": "22-Nov-2026",

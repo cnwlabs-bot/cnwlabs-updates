@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.15",
-  "file": "admin-2.10.15.cwx",
-  "notes": "Gmail sign-in on www.cnwlabs.com",
-  "at": "2026-11-22T07:43:09.890Z"
+  "ver": "2.10.16",
+  "file": "admin-2.10.16.cwx",
+  "notes": "Gmail Users page; one dashboard per Gmail with each work separately",
+  "at": "2026-11-22T07:48:49.433Z"
  },
  "lab": {
   "ver": "2.10.11",
