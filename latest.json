@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.30",
-  "file": "admin-2.10.30.cwx",
-  "notes": "Online portal and website: Progress Reports tab with each lab's own official formats",
-  "at": "2026-11-22T11:16:31.708Z"
+  "ver": "2.10.31",
+  "file": "admin-2.10.31.cwx",
+  "notes": "Website: Gmail signed out within seconds when the Admin removes its access",
+  "at": "2026-11-22T11:17:31.784Z"
  },
  "lab": {
-  "ver": "2.10.30",
-  "file": "lab-2.10.30.cwx",
-  "notes": "Online portal and website: Progress Reports tab with each lab's own official formats",
-  "at": "2026-11-22T11:16:31.507Z"
+  "ver": "2.10.31",
+  "file": "lab-2.10.31.cwx",
+  "notes": "Website: Gmail signed out within seconds when the Admin removes its access",
+  "at": "2026-11-22T11:17:31.627Z"
  }
 }

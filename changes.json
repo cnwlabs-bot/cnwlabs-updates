@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.31",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: when the Admin removes or blocks a Gmail, it is signed out within about 15 seconds; when its places are changed, its page refreshes with the new data",
+   "Admin sends Gmail access changes first, before the data"
+  ]
+ },
+ {
+  "ver": "2.10.31",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: when the Admin removes or blocks a Gmail, it is signed out within about 15 seconds; when its places are changed, its page refreshes with the new data",
+   "Admin sends Gmail access changes first, before the data"
+  ]
+ },
+ {
   "ver": "2.10.30",
   "target": "admin",
   "date": "22-Nov-2026",
