@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.26",
-  "file": "admin-2.10.26.cwx",
-  "notes": "Lab sign-in in 3 steps: user name (checked online), password, then Google Authenticator code",
-  "at": "2026-11-22T10:54:40.008Z"
+  "ver": "2.10.27",
+  "file": "admin-2.10.27.cwx",
+  "notes": "Sign-in back to the previous one-screen sign-in",
+  "at": "2026-11-22T10:57:37.080Z"
  },
  "lab": {
-  "ver": "2.10.26",
-  "file": "lab-2.10.26.cwx",
-  "notes": "Lab sign-in in 3 steps: user name (checked online), password, then Google Authenticator code",
-  "at": "2026-11-22T10:54:39.846Z"
+  "ver": "2.10.27",
+  "file": "lab-2.10.27.cwx",
+  "notes": "Sign-in back to the previous one-screen sign-in",
+  "at": "2026-11-22T10:57:36.892Z"
  }
 }

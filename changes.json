@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.27",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab sign-in returned to the previous one-screen sign-in (the 3-step sign-in of 2.10.26 is switched off)"
+  ]
+ },
+ {
+  "ver": "2.10.27",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Lab sign-in returned to the previous one-screen sign-in (the 3-step sign-in of 2.10.26 is switched off)"
+  ]
+ },
+ {
   "ver": "2.10.26",
   "target": "admin",
   "date": "22-Nov-2026",
