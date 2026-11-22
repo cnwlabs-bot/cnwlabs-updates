@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.6",
-  "file": "admin-2.10.6.cwx",
-  "notes": "Departments & offices editor: Circle → District → Division → Sub division",
-  "at": "2026-11-22T05:15:20.262Z"
+  "ver": "2.10.7",
+  "file": "admin-2.10.7.cwx",
+  "notes": "Calendar date picker on every date box (click the box, pick the day; Today and Clear buttons). Dates shown as day/month/year.",
+  "at": "2026-11-22T06:21:17.188Z"
  },
  "lab": {
-  "ver": "2.10.6",
-  "file": "lab-2.10.6.cwx",
-  "notes": "Stamp & sign size; uploads saved as PDF; departments by Admin only",
-  "at": "2026-11-22T05:15:19.338Z"
+  "ver": "2.10.7",
+  "file": "lab-2.10.7.cwx",
+  "notes": "Calendar date picker on every date box (click the box, pick the day; Today and Clear buttons). Dates shown as day/month/year.",
+  "at": "2026-11-22T06:21:17.063Z"
  }
 }
