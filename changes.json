@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.25",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Security: the lab's sign-in screen no longer shows the Google Authenticator QR code or setup key. It only asks for the 6-digit code. The QR code is shown only in Admin (Labs \u2192 Google Authenticator)."
+  ]
+ },
+ {
+  "ver": "2.10.25",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Security: the lab's sign-in screen no longer shows the Google Authenticator QR code or setup key. It only asks for the 6-digit code. The QR code is shown only in Admin (Labs \u2192 Google Authenticator)."
+  ]
+ },
+ {
   "ver": "2.10.24",
   "target": "admin",
   "date": "22-Nov-2026",

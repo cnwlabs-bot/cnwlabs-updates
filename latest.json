@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.24",
-  "file": "admin-2.10.24.cwx",
-  "notes": "Lab and Admin now share one version number",
-  "at": "2026-11-22T10:45:26.497Z"
+  "ver": "2.10.25",
+  "file": "admin-2.10.25.cwx",
+  "notes": "Lab screen no longer shows the Google Authenticator QR code or setup key; only Admin shows it",
+  "at": "2026-11-22T10:50:43.231Z"
  },
  "lab": {
-  "ver": "2.10.24",
-  "file": "lab-2.10.24.cwx",
-  "notes": "Lab and Admin now share one version number",
-  "at": "2026-11-22T10:45:26.331Z"
+  "ver": "2.10.25",
+  "file": "lab-2.10.25.cwx",
+  "notes": "Lab screen no longer shows the Google Authenticator QR code or setup key; only Admin shows it",
+  "at": "2026-11-22T10:50:43.005Z"
  }
 }
