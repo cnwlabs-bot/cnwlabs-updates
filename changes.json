@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.29",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Google Authenticator code screen: the security note is removed"
+  ]
+ },
+ {
+  "ver": "2.10.29",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Google Authenticator code screen: the security note is removed"
+  ]
+ },
+ {
   "ver": "2.10.28",
   "target": "admin",
   "date": "22-Nov-2026",

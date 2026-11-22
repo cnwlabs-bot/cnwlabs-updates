@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.28",
-  "file": "admin-2.10.28.cwx",
-  "notes": "Lab window always comes back if an update cannot finish",
-  "at": "2026-11-22T11:01:22.530Z"
+  "ver": "2.10.29",
+  "file": "admin-2.10.29.cwx",
+  "notes": "Authenticator screen: security note removed",
+  "at": "2026-11-22T11:05:19.307Z"
  },
  "lab": {
-  "ver": "2.10.28",
-  "file": "lab-2.10.28.cwx",
-  "notes": "Lab window always comes back if an update cannot finish",
-  "at": "2026-11-22T11:01:22.319Z"
+  "ver": "2.10.29",
+  "file": "lab-2.10.29.cwx",
+  "notes": "Authenticator screen: security note removed",
+  "at": "2026-11-22T11:05:19.139Z"
  }
 }
