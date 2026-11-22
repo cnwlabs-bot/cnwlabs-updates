@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.35",
-  "file": "admin-2.10.35.cwx",
-  "notes": "Website: places listed with the higher office first",
-  "at": "2026-11-22T11:44:19.569Z"
+  "ver": "2.10.36",
+  "file": "admin-2.10.36.cwx",
+  "notes": "Website: Gmail access changes apply live, within seconds",
+  "at": "2026-11-22T11:45:12.421Z"
  },
  "lab": {
-  "ver": "2.10.35",
-  "file": "lab-2.10.35.cwx",
-  "notes": "Website: places listed with the higher office first",
-  "at": "2026-11-22T11:44:19.386Z"
+  "ver": "2.10.36",
+  "file": "lab-2.10.36.cwx",
+  "notes": "Website: Gmail access changes apply live, within seconds",
+  "at": "2026-11-22T11:45:12.229Z"
  }
 }

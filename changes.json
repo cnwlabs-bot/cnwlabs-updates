@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.36",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: Gmail access is now live \u2014 when the Admin adds or removes a place, the signed-in page changes within a few seconds; a removed Gmail is signed out at once",
+   "Admin sends removals first, then the data, then new access, so a new place always opens with its data"
+  ]
+ },
+ {
+  "ver": "2.10.36",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website: Gmail access is now live \u2014 when the Admin adds or removes a place, the signed-in page changes within a few seconds; a removed Gmail is signed out at once",
+   "Admin sends removals first, then the data, then new access, so a new place always opens with its data"
+  ]
+ },
+ {
   "ver": "2.10.35",
   "target": "admin",
   "date": "22-Nov-2026",
