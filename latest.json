@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.52",
-  "file": "admin-2.10.52.cwx",
-  "notes": "Website Verify: Download full / specific; A4 fit; signatures; diary stamp",
-  "at": "2026-11-22T15:38:34.065Z"
+  "ver": "2.10.53",
+  "file": "admin-2.10.53.cwx",
+  "notes": "Verify Download window tidied for phone and PC",
+  "at": "2026-11-22T15:39:03.672Z"
  },
  "lab": {
-  "ver": "2.10.52",
-  "file": "lab-2.10.52.cwx",
-  "notes": "Website Verify: Download full / specific; A4 fit; signatures; diary stamp",
-  "at": "2026-11-22T15:38:33.806Z"
+  "ver": "2.10.53",
+  "file": "lab-2.10.53.cwx",
+  "notes": "Verify Download window tidied for phone and PC",
+  "at": "2026-11-22T15:39:03.421Z"
  }
 }

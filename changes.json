@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.53",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website Verify \u2192 Download window: text wraps (no side scroll) and the close (\u00d7) button is clearly visible."
+  ]
+ },
+ {
+  "ver": "2.10.53",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website Verify \u2192 Download window: text wraps (no side scroll) and the close (\u00d7) button is clearly visible."
+  ]
+ },
+ {
   "ver": "2.10.52",
   "target": "admin",
   "date": "22-Nov-2026",
