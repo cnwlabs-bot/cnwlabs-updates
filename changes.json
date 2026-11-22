@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.32",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website and portal: a Gmail given several places now gets one tab for each place, plus 'All my places'. Adding a place adds its tab; removing it removes the tab (the page refreshes by itself)."
+  ]
+ },
+ {
+  "ver": "2.10.32",
+  "target": "lab",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Website and portal: a Gmail given several places now gets one tab for each place, plus 'All my places'. Adding a place adds its tab; removing it removes the tab (the page refreshes by itself)."
+  ]
+ },
+ {
   "ver": "2.10.31",
   "target": "admin",
   "date": "22-Nov-2026",
