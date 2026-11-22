@@ -1,9 +1,9 @@
 {
  "admin": {
-  "ver": "2.10.18",
-  "file": "admin-2.10.18.cwx",
-  "notes": "Website: Verify tab after sign-in shows only the verify form",
-  "at": "2026-11-22T08:11:11.222Z"
+  "ver": "2.10.19",
+  "file": "admin-2.10.19.cwx",
+  "notes": "Gmail access box on every dashboard page",
+  "at": "2026-11-22T08:18:37.340Z"
  },
  "lab": {
   "ver": "2.10.11",

@@ -1,5 +1,14 @@
 [
  {
+  "ver": "2.10.19",
+  "target": "admin",
+  "date": "22-Nov-2026",
+  "notes": [
+   "Online Portal \u2192 Progress Dashboard / Laboratories: every page (CDO, circle, division, sub division, department, lab, project, sub head, sub work) has its own \ud83d\udd11 Gmail access box \u2014 add a Gmail right there, remove it, block it, and set its downloads",
+   "That Gmail then sees only that page and everything under it"
+  ]
+ },
+ {
   "ver": "2.10.18",
   "target": "admin",
   "date": "22-Nov-2026",
