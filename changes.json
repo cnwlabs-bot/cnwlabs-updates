@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.26.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "The new fine aggregate format now shows in Admin \u2192 Report formats (rate items 2 and 9, and All A\u2013Z) and in the lab's test list."
+  ]
+ },
+ {
+  "ver": "2.26.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "The new fine aggregate format now shows in Admin \u2192 Report formats (rate items 2 and 9, and All A\u2013Z) and in the lab's test list."
+  ]
+ },
+ {
   "ver": "2.25.0",
   "target": "admin",
   "date": "25-Nov-2026",
