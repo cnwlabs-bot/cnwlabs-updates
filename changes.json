@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.15.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Empty white margins around an old report picture are cut, so the report fills the page; records re-sent."
+  ]
+ },
+ {
+  "ver": "2.15.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Empty white margins around an old report picture are cut, so the report fills the page; records re-sent."
+  ]
+ },
+ {
   "ver": "2.14.0",
   "target": "admin",
   "date": "24-Nov-2026",

@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.14.0",
-  "file": "admin-2.14.0.cwx",
-  "notes": "Stamp in the middle, Fake numbers",
-  "at": "2026-11-24T17:34:18.218Z"
+  "ver": "2.15.0",
+  "file": "admin-2.15.0.cwx",
+  "notes": "Old report fills the page",
+  "at": "2026-11-24T17:37:55.703Z"
  },
  "lab": {
-  "ver": "2.14.0",
-  "file": "lab-2.14.0.cwx",
-  "notes": "Stamp in the middle, Fake numbers",
-  "at": "2026-11-24T17:34:18.009Z"
+  "ver": "2.15.0",
+  "file": "lab-2.15.0.cwx",
+  "notes": "Old report fills the page",
+  "at": "2026-11-24T17:37:55.409Z"
  }
 }
