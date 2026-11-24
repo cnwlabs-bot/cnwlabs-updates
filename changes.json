@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.90",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "More sign-in checks so any problem is seen at once"
+  ]
+ },
+ {
+  "ver": "2.10.90",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "More sign-in checks so any problem is seen at once"
+  ]
+ },
+ {
   "ver": "2.10.89",
   "target": "admin",
   "date": "24-Nov-2026",
