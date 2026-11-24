@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.13.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Smaller VERIFIED stamp on a clear part of the page; crooked report photos straightened; FAKE stamp big in the centre; old records re-sent with the new stamp."
+  ]
+ },
+ {
+  "ver": "2.13.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Smaller VERIFIED stamp on a clear part of the page; crooked report photos straightened; FAKE stamp big in the centre; old records re-sent with the new stamp."
+  ]
+ },
+ {
   "ver": "2.12.0",
   "target": "admin",
   "date": "24-Nov-2026",
