@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.68",
-  "file": "admin-2.10.68.cwx",
-  "notes": "Website: iPhone text size fix",
-  "at": "2026-11-24T09:02:34.068Z"
+  "ver": "2.10.69",
+  "file": "admin-2.10.69.cwx",
+  "notes": "Real PDFs online",
+  "at": "2026-11-24T09:04:39.790Z"
  },
  "lab": {
-  "ver": "2.10.68",
-  "file": "lab-2.10.68.cwx",
-  "notes": "Website: iPhone text size fix",
-  "at": "2026-11-24T09:02:33.839Z"
+  "ver": "2.10.69",
+  "file": "lab-2.10.69.cwx",
+  "notes": "Real PDFs online",
+  "at": "2026-11-24T09:04:39.601Z"
  }
 }

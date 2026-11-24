@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.69",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The lab now puts the real PDF of each receipt and report online (the same file as its own Save PDF). The website's Verify file and downloads use these exact PDFs, so they look the same on every phone, tablet and computer."
+  ]
+ },
+ {
+  "ver": "2.10.69",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The lab now puts the real PDF of each receipt and report online (the same file as its own Save PDF). The website's Verify file and downloads use these exact PDFs, so they look the same on every phone, tablet and computer."
+  ]
+ },
+ {
   "ver": "2.10.68",
   "target": "admin",
   "date": "24-Nov-2026",
