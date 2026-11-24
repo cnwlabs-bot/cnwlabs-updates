@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.59",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads (Verify page and signed-in dashboard): the page is measured only after all fonts and pictures have loaded, so the bottom of reports and receipts (signature boxes, borders, page numbers) is no longer cut off on phones."
+  ]
+ },
+ {
+  "ver": "2.10.59",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads (Verify page and signed-in dashboard): the page is measured only after all fonts and pictures have loaded, so the bottom of reports and receipts (signature boxes, borders, page numbers) is no longer cut off on phones."
+  ]
+ },
+ {
   "ver": "2.10.58",
   "target": "admin",
   "date": "24-Nov-2026",
