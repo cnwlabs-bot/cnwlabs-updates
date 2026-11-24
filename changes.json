@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.71",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "www.cnwlabs.com/lab: laboratory sign-in with the Gmail added by Admin (no password), Google Authenticator set up at first sign-in and asked at every sign-in after (5 wrong codes = 15 minutes locked), then the lab's own data opens online. Each Gmail sees only its own laboratory."
+  ]
+ },
+ {
+  "ver": "2.10.71",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "www.cnwlabs.com/lab: laboratory sign-in with the Gmail added by Admin (no password), Google Authenticator set up at first sign-in and asked at every sign-in after (5 wrong codes = 15 minutes locked), then the lab's own data opens online. Each Gmail sees only its own laboratory."
+  ]
+ },
+ {
   "ver": "2.10.70",
   "target": "admin",
   "date": "24-Nov-2026",

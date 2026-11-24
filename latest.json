@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.70",
-  "file": "admin-2.10.70.cwx",
-  "notes": "Online Admin: Lab Gmails",
-  "at": "2026-11-24T09:20:12.613Z"
+  "ver": "2.10.71",
+  "file": "admin-2.10.71.cwx",
+  "notes": "Online lab sign-in",
+  "at": "2026-11-24T09:36:32.703Z"
  },
  "lab": {
-  "ver": "2.10.70",
-  "file": "lab-2.10.70.cwx",
-  "notes": "Online Admin: Lab Gmails",
-  "at": "2026-11-24T09:20:12.392Z"
+  "ver": "2.10.71",
+  "file": "lab-2.10.71.cwx",
+  "notes": "Online lab sign-in",
+  "at": "2026-11-24T09:36:32.469Z"
  }
 }
