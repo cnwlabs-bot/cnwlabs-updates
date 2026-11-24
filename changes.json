@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.56",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website Verify: after the Report No. and Date are verified, the page shows '\u2714 Verified' and opens the complete file of that challan right below \u2014 uploaded client letter, uploaded PayMIR receipt, lab receipt and every test report, page by page, numbered 1/N (same as the Diary file). Buttons: Download full PDF, Download specific, close.",
+   "Reports fit one A4 page: a long report is shrunk (down to 60%) to fit one page in Print, Save PDF, the Diary file and the website, instead of running onto a second page."
+  ]
+ },
+ {
+  "ver": "2.10.56",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website Verify: after the Report No. and Date are verified, the page shows '\u2714 Verified' and opens the complete file of that challan right below \u2014 uploaded client letter, uploaded PayMIR receipt, lab receipt and every test report, page by page, numbered 1/N (same as the Diary file). Buttons: Download full PDF, Download specific, close.",
+   "Reports fit one A4 page: a long report is shrunk (down to 60%) to fit one page in Print, Save PDF, the Diary file and the website, instead of running onto a second page."
+  ]
+ },
+ {
   "ver": "2.10.55",
   "target": "admin",
   "date": "24-Nov-2026",

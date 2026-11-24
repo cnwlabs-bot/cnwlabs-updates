@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.55",
-  "file": "admin-2.10.55.cwx",
-  "notes": "Signatures on the receipt",
-  "at": "2026-11-24T07:10:02.674Z"
+  "ver": "2.10.56",
+  "file": "admin-2.10.56.cwx",
+  "notes": "Verify shows the complete file; reports fit one page",
+  "at": "2026-11-24T07:23:36.004Z"
  },
  "lab": {
-  "ver": "2.10.55",
-  "file": "lab-2.10.55.cwx",
-  "notes": "Signatures on the receipt",
-  "at": "2026-11-24T07:10:01.514Z"
+  "ver": "2.10.56",
+  "file": "lab-2.10.56.cwx",
+  "notes": "Verify shows the complete file; reports fit one page",
+  "at": "2026-11-24T07:23:35.775Z"
  }
 }
