@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.32.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "The full work name (code \u00b7 place) now shows in every test report and on the website copy, not only while editing."
+  ]
+ },
+ {
+  "ver": "2.32.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "The full work name (code \u00b7 place) now shows in every test report and on the website copy, not only while editing."
+  ]
+ },
+ {
   "ver": "2.31.0",
   "target": "admin",
   "date": "25-Nov-2026",

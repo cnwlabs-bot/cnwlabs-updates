@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.31.0",
-  "file": "admin-2.31.0.cwx",
-  "notes": "HD pages and full work names",
-  "at": "2026-11-24T20:27:11.496Z"
+  "ver": "2.32.0",
+  "file": "admin-2.32.0.cwx",
+  "notes": "Full work names in every report",
+  "at": "2026-11-24T20:38:44.314Z"
  },
  "lab": {
-  "ver": "2.31.0",
-  "file": "lab-2.31.0.cwx",
-  "notes": "HD pages and full work names",
-  "at": "2026-11-24T20:27:11.268Z"
+  "ver": "2.32.0",
+  "file": "lab-2.32.0.cwx",
+  "notes": "Full work names in every report",
+  "at": "2026-11-24T20:38:44.096Z"
  }
 }
