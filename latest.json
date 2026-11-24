@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.94",
-  "file": "admin-2.10.94.cwx",
-  "notes": "Online Admin cleaned",
-  "at": "2026-11-24T14:58:43.628Z"
+  "ver": "2.10.95",
+  "file": "admin-2.10.95.cwx",
+  "notes": "Signatures: save button, paid receipts unchanged",
+  "at": "2026-11-24T15:01:19.941Z"
  },
  "lab": {
-  "ver": "2.10.94",
-  "file": "lab-2.10.94.cwx",
-  "notes": "Online Admin cleaned",
-  "at": "2026-11-24T14:58:43.421Z"
+  "ver": "2.10.95",
+  "file": "lab-2.10.95.cwx",
+  "notes": "Signatures: save button, paid receipts unchanged",
+  "at": "2026-11-24T15:01:19.719Z"
  }
 }
