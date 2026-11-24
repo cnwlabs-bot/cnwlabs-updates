@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.69",
-  "file": "admin-2.10.69.cwx",
-  "notes": "Real PDFs online",
-  "at": "2026-11-24T09:04:39.790Z"
+  "ver": "2.10.70",
+  "file": "admin-2.10.70.cwx",
+  "notes": "Online Admin: Lab Gmails",
+  "at": "2026-11-24T09:20:12.613Z"
  },
  "lab": {
-  "ver": "2.10.69",
-  "file": "lab-2.10.69.cwx",
-  "notes": "Real PDFs online",
-  "at": "2026-11-24T09:04:39.601Z"
+  "ver": "2.10.70",
+  "file": "lab-2.10.70.cwx",
+  "notes": "Online Admin: Lab Gmails",
+  "at": "2026-11-24T09:20:12.392Z"
  }
 }

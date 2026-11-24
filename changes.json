@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.70",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin \u2192 Laboratories: add or remove the Gmails that can sign in to each lab (no passwords); each Gmail's Google Authenticator status, Reset, Turn off/on per Gmail or for the whole lab. The same Gmail cannot be added to two labs."
+  ]
+ },
+ {
+  "ver": "2.10.70",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin \u2192 Laboratories: add or remove the Gmails that can sign in to each lab (no passwords); each Gmail's Google Authenticator status, Reset, Turn off/on per Gmail or for the whole lab. The same Gmail cannot be added to two labs."
+  ]
+ },
+ {
   "ver": "2.10.69",
   "target": "admin",
   "date": "24-Nov-2026",
