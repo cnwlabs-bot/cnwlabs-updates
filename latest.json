@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.24.0",
-  "file": "admin-2.24.0.cwx",
-  "notes": "New format: Sieve analysis of fine aggregate",
-  "at": "2026-11-24T19:14:50.238Z"
+  "ver": "2.25.0",
+  "file": "admin-2.25.0.cwx",
+  "notes": "Fine aggregate graph full width",
+  "at": "2026-11-24T19:18:29.549Z"
  },
  "lab": {
-  "ver": "2.24.0",
-  "file": "lab-2.24.0.cwx",
-  "notes": "New format: Sieve analysis of fine aggregate",
-  "at": "2026-11-24T19:14:50.009Z"
+  "ver": "2.25.0",
+  "file": "lab-2.25.0.cwx",
+  "notes": "Fine aggregate graph full width",
+  "at": "2026-11-24T19:18:29.335Z"
  }
 }

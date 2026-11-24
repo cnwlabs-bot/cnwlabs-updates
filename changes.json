@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.25.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Grading curve of the fine aggregate format fills the full width of the page."
+  ]
+ },
+ {
+  "ver": "2.25.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Grading curve of the fine aggregate format fills the full width of the page."
+  ]
+ },
+ {
   "ver": "2.24.0",
   "target": "admin",
   "date": "25-Nov-2026",
