@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.29.0",
-  "file": "admin-2.29.0.cwx",
-  "notes": "Admin sample of fine aggregate",
-  "at": "2026-11-24T19:39:38.083Z"
+  "ver": "2.30.0",
+  "file": "admin-2.30.0.cwx",
+  "notes": "Stop sign-outs; sand format full Admin control",
+  "at": "2026-11-24T19:49:02.940Z"
  },
  "lab": {
-  "ver": "2.29.0",
-  "file": "lab-2.29.0.cwx",
-  "notes": "Admin sample of fine aggregate",
-  "at": "2026-11-24T19:39:37.838Z"
+  "ver": "2.30.0",
+  "file": "lab-2.30.0.cwx",
+  "notes": "Stop sign-outs; sand format full Admin control",
+  "at": "2026-11-24T19:49:02.722Z"
  }
 }
