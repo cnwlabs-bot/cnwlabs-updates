@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.92",
-  "file": "admin-2.10.92.cwx",
-  "notes": "Works on older browsers; loading circle",
-  "at": "2026-11-24T14:43:19.414Z"
+  "ver": "2.10.93",
+  "file": "admin-2.10.93.cwx",
+  "notes": "Admin and lab sign-in fixed",
+  "at": "2026-11-24T14:46:37.073Z"
  },
  "lab": {
-  "ver": "2.10.92",
-  "file": "lab-2.10.92.cwx",
-  "notes": "Works on older browsers; loading circle",
-  "at": "2026-11-24T14:43:19.170Z"
+  "ver": "2.10.93",
+  "file": "lab-2.10.93.cwx",
+  "notes": "Admin and lab sign-in fixed",
+  "at": "2026-11-24T14:46:36.839Z"
  }
 }

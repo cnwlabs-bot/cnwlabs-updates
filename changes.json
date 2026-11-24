@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.93",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Fixed: the office sign-in check was signing the Admin and lab Gmail out a few seconds after sign-in"
+  ]
+ },
+ {
+  "ver": "2.10.93",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Fixed: the office sign-in check was signing the Admin and lab Gmail out a few seconds after sign-in"
+  ]
+ },
+ {
   "ver": "2.10.92",
   "target": "admin",
   "date": "24-Nov-2026",
