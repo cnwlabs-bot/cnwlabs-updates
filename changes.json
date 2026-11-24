@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.58",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Page layout on A4 \u2192 'Continue on next pages': choose the row where page 2, 3 \u2026 starts (add / remove page breaks, or Automatic), and how next pages start \u2014 'All titles and name of work' (full heading repeated) or 'Continue the table only' (Report No. \u2026 continued from page 1).",
+   "Page layout on A4: margins (top, bottom, left, right in mm), used the same in Print, Save PDF, the Diary file and the website."
+  ]
+ },
+ {
+  "ver": "2.10.58",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Page layout on A4 \u2192 'Continue on next pages': choose the row where page 2, 3 \u2026 starts (add / remove page breaks, or Automatic), and how next pages start \u2014 'All titles and name of work' (full heading repeated) or 'Continue the table only' (Report No. \u2026 continued from page 1).",
+   "Page layout on A4: margins (top, bottom, left, right in mm), used the same in Print, Save PDF, the Diary file and the website."
+  ]
+ },
+ {
   "ver": "2.10.57",
   "target": "admin",
   "date": "24-Nov-2026",

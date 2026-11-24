@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.57",
-  "file": "admin-2.10.57.cwx",
-  "notes": "Long reports continue on next pages; A4 page layout at Finalize",
-  "at": "2026-11-24T07:30:49.448Z"
+  "ver": "2.10.58",
+  "file": "admin-2.10.58.cwx",
+  "notes": "Page layout: page starts, margins, continuation style",
+  "at": "2026-11-24T07:38:19.377Z"
  },
  "lab": {
-  "ver": "2.10.57",
-  "file": "lab-2.10.57.cwx",
-  "notes": "Long reports continue on next pages; A4 page layout at Finalize",
-  "at": "2026-11-24T07:30:49.222Z"
+  "ver": "2.10.58",
+  "file": "lab-2.10.58.cwx",
+  "notes": "Page layout: page starts, margins, continuation style",
+  "at": "2026-11-24T07:38:19.184Z"
  }
 }
