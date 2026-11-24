@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.19.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Every complete file: client letter, receipt, then report. Diary No. stamp on a clear part of the page, slanted left-down/right-up. No repeated footer. Uploaded PDF reports get the VERIFIED stamp on every page; old records re-sent."
+  ]
+ },
+ {
+  "ver": "2.19.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Every complete file: client letter, receipt, then report. Diary No. stamp on a clear part of the page, slanted left-down/right-up. No repeated footer. Uploaded PDF reports get the VERIFIED stamp on every page; old records re-sent."
+  ]
+ },
+ {
   "ver": "2.18.0",
   "target": "admin",
   "date": "24-Nov-2026",

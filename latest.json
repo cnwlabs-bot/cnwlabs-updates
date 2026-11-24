@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.18.0",
-  "file": "admin-2.18.0.cwx",
-  "notes": "One device at a time",
-  "at": "2026-11-24T17:58:43.577Z"
+  "ver": "2.19.0",
+  "file": "admin-2.19.0.cwx",
+  "notes": "File order and Diary stamp",
+  "at": "2026-11-24T18:04:43.505Z"
  },
  "lab": {
-  "ver": "2.18.0",
-  "file": "lab-2.18.0.cwx",
-  "notes": "One device at a time",
-  "at": "2026-11-24T17:58:43.350Z"
+  "ver": "2.19.0",
+  "file": "lab-2.19.0.cwx",
+  "notes": "File order and Diary stamp",
+  "at": "2026-11-24T18:04:43.266Z"
  }
 }
