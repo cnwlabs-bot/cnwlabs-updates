@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.27.0",
-  "file": "admin-2.27.0.cwx",
-  "notes": "Update without sign-out",
-  "at": "2026-11-24T19:24:34.213Z"
+  "ver": "2.28.0",
+  "file": "admin-2.28.0.cwx",
+  "notes": "Admin opens safely",
+  "at": "2026-11-24T19:30:35.088Z"
  },
  "lab": {
-  "ver": "2.27.0",
-  "file": "lab-2.27.0.cwx",
-  "notes": "Update without sign-out",
-  "at": "2026-11-24T19:24:33.995Z"
+  "ver": "2.28.0",
+  "file": "lab-2.28.0.cwx",
+  "notes": "Admin opens safely",
+  "at": "2026-11-24T19:30:34.870Z"
  }
 }

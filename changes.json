@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.28.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin waits for its data before opening the last page (fixes a blank or broken page right after sign-in). Sign-out reasons are now recorded so any unwanted sign-out can be traced."
+  ]
+ },
+ {
+  "ver": "2.28.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin waits for its data before opening the last page (fixes a blank or broken page right after sign-in). Sign-out reasons are now recorded so any unwanted sign-out can be traced."
+  ]
+ },
+ {
   "ver": "2.27.0",
   "target": "admin",
   "date": "25-Nov-2026",
