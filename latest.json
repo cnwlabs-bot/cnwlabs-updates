@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.66",
-  "file": "admin-2.10.66.cwx",
-  "notes": "Fix Admin page",
-  "at": "2026-11-24T08:44:40.448Z"
+  "ver": "2.10.67",
+  "file": "admin-2.10.67.cwx",
+  "notes": "Website: reports fit one page on phones",
+  "at": "2026-11-24T08:58:56.620Z"
  },
  "lab": {
-  "ver": "2.10.66",
-  "file": "lab-2.10.66.cwx",
-  "notes": "Fix Admin page",
-  "at": "2026-11-24T08:44:40.206Z"
+  "ver": "2.10.67",
+  "file": "lab-2.10.67.cwx",
+  "notes": "Website: reports fit one page on phones",
+  "at": "2026-11-24T08:58:56.424Z"
  }
 }

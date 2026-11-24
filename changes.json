@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.67",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads: a report that runs a little over one A4 page on a phone is fitted onto one page (as in the lab) instead of being cut onto a second page."
+  ]
+ },
+ {
+  "ver": "2.10.67",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads: a report that runs a little over one A4 page on a phone is fitted onto one page (as in the lab) instead of being cut onto a second page."
+  ]
+ },
+ {
   "ver": "2.10.66",
   "target": "admin",
   "date": "24-Nov-2026",
