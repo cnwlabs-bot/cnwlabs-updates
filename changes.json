@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.23.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED stamp is see-through so the report text shows; lab's full name on the Diary No. stamps."
+  ]
+ },
+ {
+  "ver": "2.23.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED stamp is see-through so the report text shows; lab's full name on the Diary No. stamps."
+  ]
+ },
+ {
   "ver": "2.22.0",
   "target": "admin",
   "date": "24-Nov-2026",

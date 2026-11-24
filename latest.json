@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.22.0",
-  "file": "admin-2.22.0.cwx",
-  "notes": "Full lab name on stamps",
-  "at": "2026-11-24T18:23:52.474Z"
+  "ver": "2.23.0",
+  "file": "admin-2.23.0.cwx",
+  "notes": "Light VERIFIED stamp, lab name on Diary stamp",
+  "at": "2026-11-24T18:33:02.117Z"
  },
  "lab": {
-  "ver": "2.22.0",
-  "file": "lab-2.22.0.cwx",
-  "notes": "Full lab name on stamps",
-  "at": "2026-11-24T18:23:52.229Z"
+  "ver": "2.23.0",
+  "file": "lab-2.23.0.cwx",
+  "notes": "Light VERIFIED stamp, lab name on Diary stamp",
+  "at": "2026-11-24T18:33:01.899Z"
  }
 }
