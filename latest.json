@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.19.0",
-  "file": "admin-2.19.0.cwx",
-  "notes": "File order and Diary stamp",
-  "at": "2026-11-24T18:04:43.505Z"
+  "ver": "2.20.0",
+  "file": "admin-2.20.0.cwx",
+  "notes": "Labs connected to Admin automatically",
+  "at": "2026-11-24T18:10:34.737Z"
  },
  "lab": {
-  "ver": "2.19.0",
-  "file": "lab-2.19.0.cwx",
-  "notes": "File order and Diary stamp",
-  "at": "2026-11-24T18:04:43.266Z"
+  "ver": "2.20.0",
+  "file": "lab-2.20.0.cwx",
+  "notes": "Labs connected to Admin automatically",
+  "at": "2026-11-24T18:10:34.517Z"
  }
 }
