@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.86",
-  "file": "admin-2.10.86.cwx",
-  "notes": "Admin sign-in fix",
-  "at": "2026-11-24T14:10:10.703Z"
+  "ver": "2.10.87",
+  "file": "admin-2.10.87.cwx",
+  "notes": "Sign-in problem reports",
+  "at": "2026-11-24T14:18:40.705Z"
  },
  "lab": {
-  "ver": "2.10.86",
-  "file": "lab-2.10.86.cwx",
-  "notes": "Admin sign-in fix",
-  "at": "2026-11-24T14:10:10.486Z"
+  "ver": "2.10.87",
+  "file": "lab-2.10.87.cwx",
+  "notes": "Sign-in problem reports",
+  "at": "2026-11-24T14:18:40.481Z"
  }
 }
