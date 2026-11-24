@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.83",
-  "file": "admin-2.10.83.cwx",
-  "notes": "Online Admin and lab fixes",
-  "at": "2026-11-24T13:41:52.795Z"
+  "ver": "2.10.84",
+  "file": "admin-2.10.84.cwx",
+  "notes": "Online sign-in and saving fixes",
+  "at": "2026-11-24T13:52:44.695Z"
  },
  "lab": {
-  "ver": "2.10.83",
-  "file": "lab-2.10.83.cwx",
-  "notes": "Online Admin and lab fixes",
-  "at": "2026-11-24T13:41:52.584Z"
+  "ver": "2.10.84",
+  "file": "lab-2.10.84.cwx",
+  "notes": "Online sign-in and saving fixes",
+  "at": "2026-11-24T13:52:44.466Z"
  }
 }
