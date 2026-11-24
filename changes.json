@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.14.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED stamp in the middle part of the page on a clear spot; fake reports numbered Fake-Swat-0001 in their own list."
+  ]
+ },
+ {
+  "ver": "2.14.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED stamp in the middle part of the page on a clear spot; fake reports numbered Fake-Swat-0001 in their own list."
+  ]
+ },
+ {
   "ver": "2.13.0",
   "target": "admin",
   "date": "24-Nov-2026",
