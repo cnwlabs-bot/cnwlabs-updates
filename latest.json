@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.71",
-  "file": "admin-2.10.71.cwx",
-  "notes": "Online lab sign-in",
-  "at": "2026-11-24T09:36:32.703Z"
+  "ver": "2.10.72",
+  "file": "admin-2.10.72.cwx",
+  "notes": "Online Admin: Report settings and Rates",
+  "at": "2026-11-24T09:48:27.031Z"
  },
  "lab": {
-  "ver": "2.10.71",
-  "file": "lab-2.10.71.cwx",
-  "notes": "Online lab sign-in",
-  "at": "2026-11-24T09:36:32.469Z"
+  "ver": "2.10.72",
+  "file": "lab-2.10.72.cwx",
+  "notes": "Online Admin: Report settings and Rates",
+  "at": "2026-11-24T09:48:26.791Z"
  }
 }

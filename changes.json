@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.72",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin: new Report settings page (lab name, short name, Report No. prefix, heading lines, logo, QR, colours, status, subscription, delete permission, live preview) and Rates & billing page (C&W notified schedule, edit rates, show/hide tests, reset). SWAT and MARDAN pre-filled from their online data."
+  ]
+ },
+ {
+  "ver": "2.10.72",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin: new Report settings page (lab name, short name, Report No. prefix, heading lines, logo, QR, colours, status, subscription, delete permission, live preview) and Rates & billing page (C&W notified schedule, edit rates, show/hide tests, reset). SWAT and MARDAN pre-filled from their online data."
+  ]
+ },
+ {
   "ver": "2.10.71",
   "target": "admin",
   "date": "24-Nov-2026",
