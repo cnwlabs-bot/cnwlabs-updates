@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.57",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Long reports and bills: rows continue on the next page at normal size (full heading and table header on every page, remarks and signatures on the last page, 'Page 1 of N' on each page). A small overflow is still shrunk to one page.",
+   "Finalize \u2192 '\ud83d\udcd0 Page layout on A4': choose Automatic / Continue on next pages / Always one page, size and position, with a live A4 preview of every page. The layout is saved with the report and used exactly the same in Print, Save PDF, the Diary file and the website."
+  ]
+ },
+ {
+  "ver": "2.10.57",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Long reports and bills: rows continue on the next page at normal size (full heading and table header on every page, remarks and signatures on the last page, 'Page 1 of N' on each page). A small overflow is still shrunk to one page.",
+   "Finalize \u2192 '\ud83d\udcd0 Page layout on A4': choose Automatic / Continue on next pages / Always one page, size and position, with a live A4 preview of every page. The layout is saved with the report and used exactly the same in Print, Save PDF, the Diary file and the website."
+  ]
+ },
+ {
   "ver": "2.10.56",
   "target": "admin",
   "date": "24-Nov-2026",
