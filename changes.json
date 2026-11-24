@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.24.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New report format 'Sieve Analysis of Fine Aggregate (Gradation & FM)' \u2014 ASTM C136/C117, AASHTO T 27; specification ASTM C33 (abrasion / other), AASHTO M 6, or none; grading curve with limits; existing formats unchanged."
+  ]
+ },
+ {
+  "ver": "2.24.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New report format 'Sieve Analysis of Fine Aggregate (Gradation & FM)' \u2014 ASTM C136/C117, AASHTO T 27; specification ASTM C33 (abrasion / other), AASHTO M 6, or none; grading curve with limits; existing formats unchanged."
+  ]
+ },
+ {
   "ver": "2.23.0",
   "target": "admin",
   "date": "24-Nov-2026",
