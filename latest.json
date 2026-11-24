@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.98",
-  "file": "admin-2.10.98.cwx",
-  "notes": "Code asked on every opening",
-  "at": "2026-11-24T15:22:37.818Z"
+  "ver": "2.10.99",
+  "file": "admin-2.10.99.cwx",
+  "notes": "Always newest program",
+  "at": "2026-11-24T15:30:25.190Z"
  },
  "lab": {
-  "ver": "2.10.98",
-  "file": "lab-2.10.98.cwx",
-  "notes": "Code asked on every opening",
-  "at": "2026-11-24T15:22:37.608Z"
+  "ver": "2.10.99",
+  "file": "lab-2.10.99.cwx",
+  "notes": "Always newest program",
+  "at": "2026-11-24T15:30:24.950Z"
  }
 }

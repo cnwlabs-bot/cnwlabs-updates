@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.99",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The lab and Admin always load the newest program (no old copy from the browser's memory)"
+  ]
+ },
+ {
+  "ver": "2.10.99",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The lab and Admin always load the newest program (no old copy from the browser's memory)"
+  ]
+ },
+ {
   "ver": "2.10.98",
   "target": "admin",
   "date": "24-Nov-2026",
