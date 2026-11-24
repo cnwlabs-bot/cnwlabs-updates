@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.64",
-  "file": "admin-2.10.64.cwx",
-  "notes": "Office sign-in at www.cnwlabs.com/office",
-  "at": "2026-11-24T08:23:51.970Z"
+  "ver": "2.10.65",
+  "file": "admin-2.10.65.cwx",
+  "notes": "Move Admin online",
+  "at": "2026-11-24T08:43:31.174Z"
  },
  "lab": {
-  "ver": "2.10.64",
-  "file": "lab-2.10.64.cwx",
-  "notes": "Office sign-in at www.cnwlabs.com/office",
-  "at": "2026-11-24T08:23:51.755Z"
+  "ver": "2.10.65",
+  "file": "lab-2.10.65.cwx",
+  "notes": "Move Admin online",
+  "at": "2026-11-24T08:43:30.972Z"
  }
 }

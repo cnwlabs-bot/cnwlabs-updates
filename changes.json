@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.65",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin \u2192 Settings \u2192 '\u2601 Move Admin online': copies all Admin data (laboratories, logins, settings, rates, unlocks, portal Gmails) to www.cnwlabs.com/admin, opened only by the Admin Gmails."
+  ]
+ },
+ {
+  "ver": "2.10.65",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin \u2192 Settings \u2192 '\u2601 Move Admin online': copies all Admin data (laboratories, logins, settings, rates, unlocks, portal Gmails) to www.cnwlabs.com/admin, opened only by the Admin Gmails."
+  ]
+ },
+ {
   "ver": "2.10.64",
   "target": "admin",
   "date": "24-Nov-2026",
