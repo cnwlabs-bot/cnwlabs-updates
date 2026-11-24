@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.65",
-  "file": "admin-2.10.65.cwx",
-  "notes": "Move Admin online",
-  "at": "2026-11-24T08:43:31.174Z"
+  "ver": "2.10.66",
+  "file": "admin-2.10.66.cwx",
+  "notes": "Fix Admin page",
+  "at": "2026-11-24T08:44:40.448Z"
  },
  "lab": {
-  "ver": "2.10.65",
-  "file": "lab-2.10.65.cwx",
-  "notes": "Move Admin online",
-  "at": "2026-11-24T08:43:30.972Z"
+  "ver": "2.10.66",
+  "file": "lab-2.10.66.cwx",
+  "notes": "Fix Admin page",
+  "at": "2026-11-24T08:44:40.206Z"
  }
 }
