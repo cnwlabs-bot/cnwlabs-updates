@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.21.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Every test report downloaded from www.cnwlabs.com (old and new) now carries a VERIFIED stamp with its Report No., date and lab, on a clear part of the page."
+  ]
+ },
+ {
+  "ver": "2.21.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Every test report downloaded from www.cnwlabs.com (old and new) now carries a VERIFIED stamp with its Report No., date and lab, on a clear part of the page."
+  ]
+ },
+ {
   "ver": "2.20.0",
   "target": "admin",
   "date": "24-Nov-2026",

@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.20.0",
-  "file": "admin-2.20.0.cwx",
-  "notes": "Labs connected to Admin automatically",
-  "at": "2026-11-24T18:10:34.737Z"
+  "ver": "2.21.0",
+  "file": "admin-2.21.0.cwx",
+  "notes": "VERIFIED stamp on every downloaded report",
+  "at": "2026-11-24T18:16:23.723Z"
  },
  "lab": {
-  "ver": "2.20.0",
-  "file": "lab-2.20.0.cwx",
-  "notes": "Labs connected to Admin automatically",
-  "at": "2026-11-24T18:10:34.517Z"
+  "ver": "2.21.0",
+  "file": "lab-2.21.0.cwx",
+  "notes": "VERIFIED stamp on every downloaded report",
+  "at": "2026-11-24T18:16:23.512Z"
  }
 }
