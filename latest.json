@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.95",
-  "file": "admin-2.10.95.cwx",
-  "notes": "Signatures: save button, paid receipts unchanged",
-  "at": "2026-11-24T15:01:19.941Z"
+  "ver": "2.10.96",
+  "file": "admin-2.10.96.cwx",
+  "notes": "Stay signed in; update pop-up",
+  "at": "2026-11-24T15:04:09.048Z"
  },
  "lab": {
-  "ver": "2.10.95",
-  "file": "lab-2.10.95.cwx",
-  "notes": "Signatures: save button, paid receipts unchanged",
-  "at": "2026-11-24T15:01:19.719Z"
+  "ver": "2.10.96",
+  "file": "lab-2.10.96.cwx",
+  "notes": "Stay signed in; update pop-up",
+  "at": "2026-11-24T15:04:08.824Z"
  }
 }
