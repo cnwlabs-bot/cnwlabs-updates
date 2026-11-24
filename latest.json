@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.60",
-  "file": "admin-2.10.60.cwx",
-  "notes": "Website and Verify files update without Admin",
-  "at": "2026-11-24T07:57:33.974Z"
+  "ver": "2.10.61",
+  "file": "admin-2.10.61.cwx",
+  "notes": "Online Admin at www.cnwlabs.com/admin (step 1)",
+  "at": "2026-11-24T08:06:42.956Z"
  },
  "lab": {
-  "ver": "2.10.60",
-  "file": "lab-2.10.60.cwx",
-  "notes": "Website and Verify files update without Admin",
-  "at": "2026-11-24T07:57:33.772Z"
+  "ver": "2.10.61",
+  "file": "lab-2.10.61.cwx",
+  "notes": "Online Admin at www.cnwlabs.com/admin (step 1)",
+  "at": "2026-11-24T08:06:42.606Z"
  }
 }

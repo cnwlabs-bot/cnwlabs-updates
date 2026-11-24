@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.61",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin, step 1: www.cnwlabs.com/admin \u2014 sign in with an Admin Gmail (only Gmails added in C&W Labs Admin can open it). Shows Dashboard, Laboratories (version, last online, status, subscription), Lock control (open unlocks) and Admins & sign-ins. More pages follow step by step.",
+   "C&W Labs Admin keeps the online Admin up to date every 10 minutes while it is open (Admin Gmail list and summary)."
+  ]
+ },
+ {
+  "ver": "2.10.61",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin, step 1: www.cnwlabs.com/admin \u2014 sign in with an Admin Gmail (only Gmails added in C&W Labs Admin can open it). Shows Dashboard, Laboratories (version, last online, status, subscription), Lock control (open unlocks) and Admins & sign-ins. More pages follow step by step.",
+   "C&W Labs Admin keeps the online Admin up to date every 10 minutes while it is open (Admin Gmail list and summary)."
+  ]
+ },
+ {
   "ver": "2.10.60",
   "target": "admin",
   "date": "24-Nov-2026",
