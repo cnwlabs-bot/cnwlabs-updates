@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.82",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The complete C&W Labs Admin program now runs online at www.cnwlabs.com/admin (Admin Gmail + Google Authenticator): laboratories, report settings, rates, lock control, live data, lab data, online portal, Admin accounts"
+  ]
+ },
+ {
+  "ver": "2.10.82",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The complete C&W Labs Admin program now runs online at www.cnwlabs.com/admin (Admin Gmail + Google Authenticator): laboratories, report settings, rates, lock control, live data, lab data, online portal, Admin accounts"
+  ]
+ },
+ {
   "ver": "2.10.81",
   "target": "admin",
   "date": "24-Nov-2026",

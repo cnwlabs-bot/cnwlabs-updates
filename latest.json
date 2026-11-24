@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.81",
-  "file": "admin-2.10.81.cwx",
-  "notes": "Lab opens only through sign-in",
-  "at": "2026-11-24T13:17:28.680Z"
+  "ver": "2.10.82",
+  "file": "admin-2.10.82.cwx",
+  "notes": "Full Admin online",
+  "at": "2026-11-24T13:30:26.757Z"
  },
  "lab": {
-  "ver": "2.10.81",
-  "file": "lab-2.10.81.cwx",
-  "notes": "Lab opens only through sign-in",
-  "at": "2026-11-24T13:17:28.442Z"
+  "ver": "2.10.82",
+  "file": "lab-2.10.82.cwx",
+  "notes": "Full Admin online",
+  "at": "2026-11-24T13:30:26.487Z"
  }
 }
