@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.81",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Opening the lab page directly now goes to the lab sign-in instead of an error"
+  ]
+ },
+ {
+  "ver": "2.10.81",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Opening the lab page directly now goes to the lab sign-in instead of an error"
+  ]
+ },
+ {
   "ver": "2.10.80",
   "target": "admin",
   "date": "24-Nov-2026",

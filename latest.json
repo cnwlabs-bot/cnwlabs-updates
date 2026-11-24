@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.80",
-  "file": "admin-2.10.80.cwx",
-  "notes": "Download page opens the online lab",
-  "at": "2026-11-24T13:12:42.311Z"
+  "ver": "2.10.81",
+  "file": "admin-2.10.81.cwx",
+  "notes": "Lab opens only through sign-in",
+  "at": "2026-11-24T13:17:28.680Z"
  },
  "lab": {
-  "ver": "2.10.80",
-  "file": "lab-2.10.80.cwx",
-  "notes": "Download page opens the online lab",
-  "at": "2026-11-24T13:12:42.047Z"
+  "ver": "2.10.81",
+  "file": "lab-2.10.81.cwx",
+  "notes": "Lab opens only through sign-in",
+  "at": "2026-11-24T13:17:28.442Z"
  }
 }
