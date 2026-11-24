@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.76",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online lab opens right after Gmail + Authenticator (fixed 'Please sign in first'); scan a report with camera or gallery to verify; Admin Report Watch lists every search not found"
+  ]
+ },
+ {
+  "ver": "2.10.76",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online lab opens right after Gmail + Authenticator (fixed 'Please sign in first'); scan a report with camera or gallery to verify; Admin Report Watch lists every search not found"
+  ]
+ },
+ {
   "ver": "2.10.75",
   "target": "admin",
   "date": "24-Nov-2026",
