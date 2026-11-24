@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.64",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website addresses: www.cnwlabs.com shows only Verify Your Report; office sign-in (Gmail) is now at www.cnwlabs.com/office; Admin at /admin; lab software download at /labsoftware."
+  ]
+ },
+ {
+  "ver": "2.10.64",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website addresses: www.cnwlabs.com shows only Verify Your Report; office sign-in (Gmail) is now at www.cnwlabs.com/office; Admin at /admin; lab software download at /labsoftware."
+  ]
+ },
+ {
   "ver": "2.10.63",
   "target": "admin",
   "date": "24-Nov-2026",
