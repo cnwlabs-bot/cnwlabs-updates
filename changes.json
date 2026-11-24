@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.92",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Older browsers supported (Windows 7/8 Chrome 109, older iPhones, Firefox, Edge); loading circle while signing in and opening"
+  ]
+ },
+ {
+  "ver": "2.10.92",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Older browsers supported (Windows 7/8 Chrome 109, older iPhones, Firefox, Edge); loading circle while signing in and opening"
+  ]
+ },
+ {
   "ver": "2.10.91",
   "target": "admin",
   "date": "24-Nov-2026",
