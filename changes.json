@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.62",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Lab software download: www.cnwlabs.com/labsoftware \u2014 the lab chooses its name and types the download password given by C&W Labs Admin; the installer is stored locked and opens only with a correct password. After installing, the program updates itself to the newest version.",
+   "C&W Labs Admin \u2192 Laboratories \u2192 Edit: new 'Download password' box for each lab."
+  ]
+ },
+ {
+  "ver": "2.10.62",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Lab software download: www.cnwlabs.com/labsoftware \u2014 the lab chooses its name and types the download password given by C&W Labs Admin; the installer is stored locked and opens only with a correct password. After installing, the program updates itself to the newest version.",
+   "C&W Labs Admin \u2192 Laboratories \u2192 Edit: new 'Download password' box for each lab."
+  ]
+ },
+ {
   "ver": "2.10.61",
   "target": "admin",
   "date": "24-Nov-2026",

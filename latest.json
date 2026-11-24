@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.61",
-  "file": "admin-2.10.61.cwx",
-  "notes": "Online Admin at www.cnwlabs.com/admin (step 1)",
-  "at": "2026-11-24T08:06:42.956Z"
+  "ver": "2.10.62",
+  "file": "admin-2.10.62.cwx",
+  "notes": "Lab software download page; online Admin",
+  "at": "2026-11-24T08:16:09.664Z"
  },
  "lab": {
-  "ver": "2.10.61",
-  "file": "lab-2.10.61.cwx",
-  "notes": "Online Admin at www.cnwlabs.com/admin (step 1)",
-  "at": "2026-11-24T08:06:42.606Z"
+  "ver": "2.10.62",
+  "file": "lab-2.10.62.cwx",
+  "notes": "Lab software download page; online Admin",
+  "at": "2026-11-24T08:16:09.439Z"
  }
 }
