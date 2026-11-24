@@ -1,5 +1,23 @@
 [
  {
+  "ver": "2.10.60",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Each lab now puts its own receipts, reports, uploaded letter / PayMIR and the Verify file list online by itself (every few minutes, only what changed). The website's Verify page uses them, so it is up to date even when C&W Labs Admin is closed.",
+   "The website updates itself from the signed C&W Labs release on GitHub \u2014 a new website version goes live without opening Admin (a copy that is not signed by C&W Labs is ignored)."
+  ]
+ },
+ {
+  "ver": "2.10.60",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Each lab now puts its own receipts, reports, uploaded letter / PayMIR and the Verify file list online by itself (every few minutes, only what changed). The website's Verify page uses them, so it is up to date even when C&W Labs Admin is closed.",
+   "The website updates itself from the signed C&W Labs release on GitHub \u2014 a new website version goes live without opening Admin (a copy that is not signed by C&W Labs is ignored)."
+  ]
+ },
+ {
   "ver": "2.10.59",
   "target": "admin",
   "date": "24-Nov-2026",

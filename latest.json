@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.59",
-  "file": "admin-2.10.59.cwx",
-  "notes": "Website downloads: full page on phones",
-  "at": "2026-11-24T07:40:58.941Z"
+  "ver": "2.10.60",
+  "file": "admin-2.10.60.cwx",
+  "notes": "Website and Verify files update without Admin",
+  "at": "2026-11-24T07:57:33.974Z"
  },
  "lab": {
-  "ver": "2.10.59",
-  "file": "lab-2.10.59.cwx",
-  "notes": "Website downloads: full page on phones",
-  "at": "2026-11-24T07:40:58.726Z"
+  "ver": "2.10.60",
+  "file": "lab-2.10.60.cwx",
+  "notes": "Website and Verify files update without Admin",
+  "at": "2026-11-24T07:57:33.772Z"
  }
 }
