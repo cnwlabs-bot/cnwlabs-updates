@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.82",
-  "file": "admin-2.10.82.cwx",
-  "notes": "Full Admin online",
-  "at": "2026-11-24T13:30:26.757Z"
+  "ver": "2.10.83",
+  "file": "admin-2.10.83.cwx",
+  "notes": "Online Admin and lab fixes",
+  "at": "2026-11-24T13:41:52.795Z"
  },
  "lab": {
-  "ver": "2.10.82",
-  "file": "lab-2.10.82.cwx",
-  "notes": "Full Admin online",
-  "at": "2026-11-24T13:30:26.487Z"
+  "ver": "2.10.83",
+  "file": "lab-2.10.83.cwx",
+  "notes": "Online Admin and lab fixes",
+  "at": "2026-11-24T13:41:52.584Z"
  }
 }

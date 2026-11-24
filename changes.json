@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.83",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online lab and Admin open with the real data (database permission fixed)"
+  ]
+ },
+ {
+  "ver": "2.10.83",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online lab and Admin open with the real data (database permission fixed)"
+  ]
+ },
+ {
   "ver": "2.10.82",
   "target": "admin",
   "date": "24-Nov-2026",
