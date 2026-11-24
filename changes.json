@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.29.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin \u2192 Report formats preview and Sample as PDF of the fine aggregate format show the full finalized report with sample figures."
+  ]
+ },
+ {
+  "ver": "2.29.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin \u2192 Report formats preview and Sample as PDF of the fine aggregate format show the full finalized report with sample figures."
+  ]
+ },
+ {
   "ver": "2.28.0",
   "target": "admin",
   "date": "25-Nov-2026",

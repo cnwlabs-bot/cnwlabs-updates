@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.28.0",
-  "file": "admin-2.28.0.cwx",
-  "notes": "Admin opens safely",
-  "at": "2026-11-24T19:30:35.088Z"
+  "ver": "2.29.0",
+  "file": "admin-2.29.0.cwx",
+  "notes": "Admin sample of fine aggregate",
+  "at": "2026-11-24T19:39:38.083Z"
  },
  "lab": {
-  "ver": "2.28.0",
-  "file": "lab-2.28.0.cwx",
-  "notes": "Admin opens safely",
-  "at": "2026-11-24T19:30:34.870Z"
+  "ver": "2.29.0",
+  "file": "lab-2.29.0.cwx",
+  "notes": "Admin sample of fine aggregate",
+  "at": "2026-11-24T19:39:37.838Z"
  }
 }
