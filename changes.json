@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.31.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Every PDF page is made at about 350 dpi (sharp, not blurry), in the lab and on the website. Test reports show the full work name for each group (e.g. A \u00b7 B-S1 \u00b7 THALL PATRAK, DIR UPPER), like the bill. Finished reports are re-sent to the website in HD automatically."
+  ]
+ },
+ {
+  "ver": "2.31.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Every PDF page is made at about 350 dpi (sharp, not blurry), in the lab and on the website. Test reports show the full work name for each group (e.g. A \u00b7 B-S1 \u00b7 THALL PATRAK, DIR UPPER), like the bill. Finished reports are re-sent to the website in HD automatically."
+  ]
+ },
+ {
   "ver": "2.30.0",
   "target": "admin",
   "date": "25-Nov-2026",
