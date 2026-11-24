@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.80",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "www.cnwlabs.com/labsoftware now opens the online lab"
+  ]
+ },
+ {
+  "ver": "2.10.80",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "www.cnwlabs.com/labsoftware now opens the online lab"
+  ]
+ },
+ {
   "ver": "2.10.79",
   "target": "admin",
   "date": "24-Nov-2026",

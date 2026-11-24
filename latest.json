@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.79",
-  "file": "admin-2.10.79.cwx",
-  "notes": "Scan finds old reports",
-  "at": "2026-11-24T13:09:01.680Z"
+  "ver": "2.10.80",
+  "file": "admin-2.10.80.cwx",
+  "notes": "Download page opens the online lab",
+  "at": "2026-11-24T13:12:42.311Z"
  },
  "lab": {
-  "ver": "2.10.79",
-  "file": "lab-2.10.79.cwx",
-  "notes": "Scan finds old reports",
-  "at": "2026-11-24T13:09:01.448Z"
+  "ver": "2.10.80",
+  "file": "lab-2.10.80.cwx",
+  "notes": "Download page opens the online lab",
+  "at": "2026-11-24T13:12:42.047Z"
  }
 }
