@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.96",
-  "file": "admin-2.10.96.cwx",
-  "notes": "Stay signed in; update pop-up",
-  "at": "2026-11-24T15:04:09.048Z"
+  "ver": "2.10.97",
+  "file": "admin-2.10.97.cwx",
+  "notes": "Receipt signatures from My Lab",
+  "at": "2026-11-24T15:13:25.872Z"
  },
  "lab": {
-  "ver": "2.10.96",
-  "file": "lab-2.10.96.cwx",
-  "notes": "Stay signed in; update pop-up",
-  "at": "2026-11-24T15:04:08.824Z"
+  "ver": "2.10.97",
+  "file": "lab-2.10.97.cwx",
+  "notes": "Receipt signatures from My Lab",
+  "at": "2026-11-24T15:13:25.635Z"
  }
 }
