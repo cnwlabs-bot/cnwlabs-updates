@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.72",
-  "file": "admin-2.10.72.cwx",
-  "notes": "Online Admin: Report settings and Rates",
-  "at": "2026-11-24T09:48:27.031Z"
+  "ver": "2.10.73",
+  "file": "admin-2.10.73.cwx",
+  "notes": "Full lab software online",
+  "at": "2026-11-24T12:09:39.317Z"
  },
  "lab": {
-  "ver": "2.10.72",
-  "file": "lab-2.10.72.cwx",
-  "notes": "Online Admin: Report settings and Rates",
-  "at": "2026-11-24T09:48:26.791Z"
+  "ver": "2.10.73",
+  "file": "lab-2.10.73.cwx",
+  "notes": "Full lab software online",
+  "at": "2026-11-24T12:09:38.836Z"
  }
 }

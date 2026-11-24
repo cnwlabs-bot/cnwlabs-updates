@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.73",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The complete lab software now opens online at www.cnwlabs.com/lab with the laboratory Gmail and Authenticator; data saved online"
+  ]
+ },
+ {
+  "ver": "2.10.73",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The complete lab software now opens online at www.cnwlabs.com/lab with the laboratory Gmail and Authenticator; data saved online"
+  ]
+ },
+ {
   "ver": "2.10.72",
   "target": "admin",
   "date": "24-Nov-2026",
