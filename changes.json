@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.74",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports: visitors send pictures on www.cnwlabs.com; the lab marks VERIFIED or FAKE with its own number (e.g. SWAT-V-0001) and date; the stamped file verifies and downloads online"
+  ]
+ },
+ {
+  "ver": "2.10.74",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports: visitors send pictures on www.cnwlabs.com; the lab marks VERIFIED or FAKE with its own number (e.g. SWAT-V-0001) and date; the stamped file verifies and downloads online"
+  ]
+ },
+ {
   "ver": "2.10.73",
   "target": "admin",
   "date": "24-Nov-2026",
