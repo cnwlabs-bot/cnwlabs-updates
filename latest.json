@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.78",
-  "file": "admin-2.10.78.cwx",
-  "notes": "Verify tabs",
-  "at": "2026-11-24T13:03:58.994Z"
+  "ver": "2.10.79",
+  "file": "admin-2.10.79.cwx",
+  "notes": "Scan finds old reports",
+  "at": "2026-11-24T13:09:01.680Z"
  },
  "lab": {
-  "ver": "2.10.78",
-  "file": "lab-2.10.78.cwx",
-  "notes": "Verify tabs",
-  "at": "2026-11-24T13:03:58.777Z"
+  "ver": "2.10.79",
+  "file": "lab-2.10.79.cwx",
+  "notes": "Scan finds old reports",
+  "at": "2026-11-24T13:09:01.448Z"
  }
 }
