@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.55",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Receipt / bill: new '\u270d Signatures on this receipt' panel, same as reports \u2014 for each box (Prepared by, Accounts, Authorized by) choose a lab signature or a staff member's saved sign & stamp, then Sign + Stamp, Sign only, Stamp only or None / blank to sign by hand. \ud83d\udccf sets size and position. Shows on print, Save PDF, the diary file and the website copy."
+  ]
+ },
+ {
+  "ver": "2.10.55",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Receipt / bill: new '\u270d Signatures on this receipt' panel, same as reports \u2014 for each box (Prepared by, Accounts, Authorized by) choose a lab signature or a staff member's saved sign & stamp, then Sign + Stamp, Sign only, Stamp only or None / blank to sign by hand. \ud83d\udccf sets size and position. Shows on print, Save PDF, the diary file and the website copy."
+  ]
+ },
+ {
   "ver": "2.10.54",
   "target": "admin",
   "date": "22-Nov-2026",

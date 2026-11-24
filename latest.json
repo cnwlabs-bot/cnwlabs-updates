@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.54",
-  "file": "admin-2.10.54.cwx",
-  "notes": "Edit paid bill (when Admin unlocks it)",
-  "at": "2026-11-22T15:42:59.701Z"
+  "ver": "2.10.55",
+  "file": "admin-2.10.55.cwx",
+  "notes": "Signatures on the receipt",
+  "at": "2026-11-24T07:10:02.674Z"
  },
  "lab": {
-  "ver": "2.10.54",
-  "file": "lab-2.10.54.cwx",
-  "notes": "Edit paid bill (when Admin unlocks it)",
-  "at": "2026-11-22T15:42:59.473Z"
+  "ver": "2.10.55",
+  "file": "lab-2.10.55.cwx",
+  "notes": "Signatures on the receipt",
+  "at": "2026-11-24T07:10:01.514Z"
  }
 }
