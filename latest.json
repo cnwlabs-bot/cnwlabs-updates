@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.76",
-  "file": "admin-2.10.76.cwx",
-  "notes": "Lab sign-in fix, scan to verify, Report Watch",
-  "at": "2026-11-24T12:58:01.428Z"
+  "ver": "2.10.77",
+  "file": "admin-2.10.77.cwx",
+  "notes": "Old reports from lab records",
+  "at": "2026-11-24T13:02:07.520Z"
  },
  "lab": {
-  "ver": "2.10.76",
-  "file": "lab-2.10.76.cwx",
-  "notes": "Lab sign-in fix, scan to verify, Report Watch",
-  "at": "2026-11-24T12:58:01.215Z"
+  "ver": "2.10.77",
+  "file": "lab-2.10.77.cwx",
+  "notes": "Old reports from lab records",
+  "at": "2026-11-24T13:02:07.288Z"
  }
 }
