@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.94",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin: PC-only parts removed (lab user name/password, licence codes, program updates, Drive and Firebase setup)"
+  ]
+ },
+ {
+  "ver": "2.10.94",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Online Admin: PC-only parts removed (lab user name/password, licence codes, program updates, Drive and Firebase setup)"
+  ]
+ },
+ {
   "ver": "2.10.93",
   "target": "admin",
   "date": "24-Nov-2026",
