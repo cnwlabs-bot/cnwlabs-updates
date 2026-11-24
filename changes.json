@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.75",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports now verify on www.cnwlabs.com with their own Report No. and date once the lab has checked them; 'not found' offers to send pictures to the lab"
+  ]
+ },
+ {
+  "ver": "2.10.75",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports now verify on www.cnwlabs.com with their own Report No. and date once the lab has checked them; 'not found' offers to send pictures to the lab"
+  ]
+ },
+ {
   "ver": "2.10.74",
   "target": "admin",
   "date": "24-Nov-2026",

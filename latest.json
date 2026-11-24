@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.74",
-  "file": "admin-2.10.74.cwx",
-  "notes": "Old report verification",
-  "at": "2026-11-24T12:47:51.255Z"
+  "ver": "2.10.75",
+  "file": "admin-2.10.75.cwx",
+  "notes": "Old reports verify with their own No. and date",
+  "at": "2026-11-24T12:52:18.828Z"
  },
  "lab": {
-  "ver": "2.10.74",
-  "file": "lab-2.10.74.cwx",
-  "notes": "Old report verification",
-  "at": "2026-11-24T12:47:51.025Z"
+  "ver": "2.10.75",
+  "file": "lab-2.10.75.cwx",
+  "notes": "Old reports verify with their own No. and date",
+  "at": "2026-11-24T12:52:18.611Z"
  }
 }
