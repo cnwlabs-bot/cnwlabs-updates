@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.98",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "For security the Authenticator code is asked every time (also after reload); Continue opens where you left off; existing Authenticator setups are kept"
+  ]
+ },
+ {
+  "ver": "2.10.98",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "For security the Authenticator code is asked every time (also after reload); Continue opens where you left off; existing Authenticator setups are kept"
+  ]
+ },
+ {
   "ver": "2.10.97",
   "target": "admin",
   "date": "24-Nov-2026",

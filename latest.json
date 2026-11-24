@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.97",
-  "file": "admin-2.10.97.cwx",
-  "notes": "Receipt signatures from My Lab",
-  "at": "2026-11-24T15:13:25.872Z"
+  "ver": "2.10.98",
+  "file": "admin-2.10.98.cwx",
+  "notes": "Code asked on every opening",
+  "at": "2026-11-24T15:22:37.818Z"
  },
  "lab": {
-  "ver": "2.10.97",
-  "file": "lab-2.10.97.cwx",
-  "notes": "Receipt signatures from My Lab",
-  "at": "2026-11-24T15:13:25.635Z"
+  "ver": "2.10.98",
+  "file": "lab-2.10.98.cwx",
+  "notes": "Code asked on every opening",
+  "at": "2026-11-24T15:22:37.608Z"
  }
 }
