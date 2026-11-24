@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.87",
-  "file": "admin-2.10.87.cwx",
-  "notes": "Sign-in problem reports",
-  "at": "2026-11-24T14:18:40.705Z"
+  "ver": "2.10.88",
+  "file": "admin-2.10.88.cwx",
+  "notes": "Programs moved online",
+  "at": "2026-11-24T14:20:17.235Z"
  },
  "lab": {
-  "ver": "2.10.87",
-  "file": "lab-2.10.87.cwx",
-  "notes": "Sign-in problem reports",
-  "at": "2026-11-24T14:18:40.481Z"
+  "ver": "2.10.88",
+  "file": "lab-2.10.88.cwx",
+  "notes": "Programs moved online",
+  "at": "2026-11-24T14:20:17.003Z"
  }
 }

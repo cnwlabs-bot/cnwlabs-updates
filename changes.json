@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.88",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The PC programs now point to www.cnwlabs.com: Admin is online only; the lab program opens the online lab (a lab without its Gmail can continue for now)"
+  ]
+ },
+ {
+  "ver": "2.10.88",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The PC programs now point to www.cnwlabs.com: Admin is online only; the lab program opens the online lab (a lab without its Gmail can continue for now)"
+  ]
+ },
+ {
   "ver": "2.10.87",
   "target": "admin",
   "date": "24-Nov-2026",
