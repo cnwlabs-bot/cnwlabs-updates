@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.21.0",
-  "file": "admin-2.21.0.cwx",
-  "notes": "VERIFIED stamp on every downloaded report",
-  "at": "2026-11-24T18:16:23.723Z"
+  "ver": "2.22.0",
+  "file": "admin-2.22.0.cwx",
+  "notes": "Full lab name on stamps",
+  "at": "2026-11-24T18:23:52.474Z"
  },
  "lab": {
-  "ver": "2.21.0",
-  "file": "lab-2.21.0.cwx",
-  "notes": "VERIFIED stamp on every downloaded report",
-  "at": "2026-11-24T18:16:23.512Z"
+  "ver": "2.22.0",
+  "file": "lab-2.22.0.cwx",
+  "notes": "Full lab name on stamps",
+  "at": "2026-11-24T18:23:52.229Z"
  }
 }

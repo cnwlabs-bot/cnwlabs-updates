@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.22.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED and FAKE stamps show the full laboratory name, e.g. RR&MTL at C&W Circle Swat; old records re-sent."
+  ]
+ },
+ {
+  "ver": "2.22.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "VERIFIED and FAKE stamps show the full laboratory name, e.g. RR&MTL at C&W Circle Swat; old records re-sent."
+  ]
+ },
+ {
   "ver": "2.21.0",
   "target": "admin",
   "date": "24-Nov-2026",
