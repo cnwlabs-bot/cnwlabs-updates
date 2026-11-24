@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.17.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The Continue / Start new choice now comes after the Gmail and Authenticator code."
+  ]
+ },
+ {
+  "ver": "2.17.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The Continue / Start new choice now comes after the Gmail and Authenticator code."
+  ]
+ },
+ {
   "ver": "2.16.0",
   "target": "admin",
   "date": "24-Nov-2026",
