@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.68",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads on iPhone: Safari no longer enlarges text inside reports and receipts, so pages are drawn at the same size as on a computer and fit their A4 page."
+  ]
+ },
+ {
+  "ver": "2.10.68",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Website downloads on iPhone: Safari no longer enlarges text inside reports and receipts, so pages are drawn at the same size as on a computer and fit their A4 page."
+  ]
+ },
+ {
   "ver": "2.10.67",
   "target": "admin",
   "date": "24-Nov-2026",

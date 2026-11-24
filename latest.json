@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.67",
-  "file": "admin-2.10.67.cwx",
-  "notes": "Website: reports fit one page on phones",
-  "at": "2026-11-24T08:58:56.620Z"
+  "ver": "2.10.68",
+  "file": "admin-2.10.68.cwx",
+  "notes": "Website: iPhone text size fix",
+  "at": "2026-11-24T09:02:34.068Z"
  },
  "lab": {
-  "ver": "2.10.67",
-  "file": "lab-2.10.67.cwx",
-  "notes": "Website: reports fit one page on phones",
-  "at": "2026-11-24T08:58:56.424Z"
+  "ver": "2.10.68",
+  "file": "lab-2.10.68.cwx",
+  "notes": "Website: iPhone text size fix",
+  "at": "2026-11-24T09:02:33.839Z"
  }
 }
