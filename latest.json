@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.77",
-  "file": "admin-2.10.77.cwx",
-  "notes": "Old reports from lab records",
-  "at": "2026-11-24T13:02:07.520Z"
+  "ver": "2.10.78",
+  "file": "admin-2.10.78.cwx",
+  "notes": "Verify tabs",
+  "at": "2026-11-24T13:03:58.994Z"
  },
  "lab": {
-  "ver": "2.10.77",
-  "file": "lab-2.10.77.cwx",
-  "notes": "Old reports from lab records",
-  "at": "2026-11-24T13:02:07.288Z"
+  "ver": "2.10.78",
+  "file": "lab-2.10.78.cwx",
+  "notes": "Verify tabs",
+  "at": "2026-11-24T13:03:58.777Z"
  }
 }

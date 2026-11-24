@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.78",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Verify page tabs: Verify report, Scan report, Old report"
+  ]
+ },
+ {
+  "ver": "2.10.78",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Verify page tabs: Verify report, Scan report, Old report"
+  ]
+ },
+ {
   "ver": "2.10.77",
   "target": "admin",
   "date": "24-Nov-2026",
