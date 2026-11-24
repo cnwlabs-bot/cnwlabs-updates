@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.27.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Pressing Update now reloads straight back to the same page \u2014 no Gmail, no Authenticator code, nobody signed out."
+  ]
+ },
+ {
+  "ver": "2.27.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Pressing Update now reloads straight back to the same page \u2014 no Gmail, no Authenticator code, nobody signed out."
+  ]
+ },
+ {
   "ver": "2.26.0",
   "target": "admin",
   "date": "25-Nov-2026",

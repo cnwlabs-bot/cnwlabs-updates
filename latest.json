@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.26.0",
-  "file": "admin-2.26.0.cwx",
-  "notes": "Fine aggregate format switched on",
-  "at": "2026-11-24T19:21:22.930Z"
+  "ver": "2.27.0",
+  "file": "admin-2.27.0.cwx",
+  "notes": "Update without sign-out",
+  "at": "2026-11-24T19:24:34.213Z"
  },
  "lab": {
-  "ver": "2.26.0",
-  "file": "lab-2.26.0.cwx",
-  "notes": "Fine aggregate format switched on",
-  "at": "2026-11-24T19:21:22.720Z"
+  "ver": "2.27.0",
+  "file": "lab-2.27.0.cwx",
+  "notes": "Update without sign-out",
+  "at": "2026-11-24T19:24:33.995Z"
  }
 }
