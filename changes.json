@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.85",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "My Lab: set the signatures for receipts and progress reports once (with preview), like reports; receipts already set are not changed. Safer online saving"
+  ]
+ },
+ {
+  "ver": "2.10.85",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "My Lab: set the signatures for receipts and progress reports once (with preview), like reports; receipts already set are not changed. Safer online saving"
+  ]
+ },
+ {
   "ver": "2.10.84",
   "target": "admin",
   "date": "24-Nov-2026",

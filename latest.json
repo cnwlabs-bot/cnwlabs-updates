@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.84",
-  "file": "admin-2.10.84.cwx",
-  "notes": "Online sign-in and saving fixes",
-  "at": "2026-11-24T13:52:44.695Z"
+  "ver": "2.10.85",
+  "file": "admin-2.10.85.cwx",
+  "notes": "Signatures on receipts and progress reports",
+  "at": "2026-11-24T14:06:44.005Z"
  },
  "lab": {
-  "ver": "2.10.84",
-  "file": "lab-2.10.84.cwx",
-  "notes": "Online sign-in and saving fixes",
-  "at": "2026-11-24T13:52:44.466Z"
+  "ver": "2.10.85",
+  "file": "lab-2.10.85.cwx",
+  "notes": "Signatures on receipts and progress reports",
+  "at": "2026-11-24T14:06:43.774Z"
  }
 }
