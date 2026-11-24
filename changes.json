@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.89",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The PC programs are closed for good; C&W Labs works only online at www.cnwlabs.com"
+  ]
+ },
+ {
+  "ver": "2.10.89",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "The PC programs are closed for good; C&W Labs works only online at www.cnwlabs.com"
+  ]
+ },
+ {
   "ver": "2.10.88",
   "target": "admin",
   "date": "24-Nov-2026",

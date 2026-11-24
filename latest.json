@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.88",
-  "file": "admin-2.10.88.cwx",
-  "notes": "Programs moved online",
-  "at": "2026-11-24T14:20:17.235Z"
+  "ver": "2.10.89",
+  "file": "admin-2.10.89.cwx",
+  "notes": "PC programs retired",
+  "at": "2026-11-24T14:23:39.163Z"
  },
  "lab": {
-  "ver": "2.10.88",
-  "file": "lab-2.10.88.cwx",
-  "notes": "Programs moved online",
-  "at": "2026-11-24T14:20:17.003Z"
+  "ver": "2.10.89",
+  "file": "lab-2.10.89.cwx",
+  "notes": "PC programs retired",
+  "at": "2026-11-24T14:23:38.952Z"
  }
 }
