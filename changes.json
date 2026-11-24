@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.18.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "A Gmail can be signed in on one device only; the newest sign-in signs the other device out (work saved first). On the same device only the Authenticator code is asked; Gmail choice only on a new device."
+  ]
+ },
+ {
+  "ver": "2.18.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "A Gmail can be signed in on one device only; the newest sign-in signs the other device out (work saved first). On the same device only the Authenticator code is asked; Gmail choice only on a new device."
+  ]
+ },
+ {
   "ver": "2.17.0",
   "target": "admin",
   "date": "24-Nov-2026",
