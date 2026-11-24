@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.10.62",
-  "file": "admin-2.10.62.cwx",
-  "notes": "Lab software download page; online Admin",
-  "at": "2026-11-24T08:16:09.664Z"
+  "ver": "2.10.63",
+  "file": "admin-2.10.63.cwx",
+  "notes": "Website addresses /admin and /labsoftware always open",
+  "at": "2026-11-24T08:19:44.773Z"
  },
  "lab": {
-  "ver": "2.10.62",
-  "file": "lab-2.10.62.cwx",
-  "notes": "Lab software download page; online Admin",
-  "at": "2026-11-24T08:16:09.439Z"
+  "ver": "2.10.63",
+  "file": "lab-2.10.63.cwx",
+  "notes": "Website addresses /admin and /labsoftware always open",
+  "at": "2026-11-24T08:19:44.533Z"
  }
 }

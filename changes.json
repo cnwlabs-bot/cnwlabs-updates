@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.10.63",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Publish website now also puts the page at /admin, /labsoftware and as the 'page not found' page, so www.cnwlabs.com/admin and /labsoftware always open (no Firebase 'Page Not Found')."
+  ]
+ },
+ {
+  "ver": "2.10.63",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Publish website now also puts the page at /admin, /labsoftware and as the 'page not found' page, so www.cnwlabs.com/admin and /labsoftware always open (no Firebase 'Page Not Found')."
+  ]
+ },
+ {
   "ver": "2.10.62",
   "target": "admin",
   "date": "24-Nov-2026",
