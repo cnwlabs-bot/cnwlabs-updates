@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.16.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin can allow each lab to edit or delete old records (Locks & permissions). Remarks on one or all old records. Sort by Report No., date or PayMIR No. Deleted records stop verifying."
+  ]
+ },
+ {
+  "ver": "2.16.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin can allow each lab to edit or delete old records (Locks & permissions). Remarks on one or all old records. Sort by Report No., date or PayMIR No. Deleted records stop verifying."
+  ]
+ },
+ {
   "ver": "2.15.0",
   "target": "admin",
   "date": "24-Nov-2026",

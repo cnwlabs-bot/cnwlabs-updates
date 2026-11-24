@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.15.0",
-  "file": "admin-2.15.0.cwx",
-  "notes": "Old report fills the page",
-  "at": "2026-11-24T17:37:55.703Z"
+  "ver": "2.16.0",
+  "file": "admin-2.16.0.cwx",
+  "notes": "Old records: edit, delete, remarks, sort",
+  "at": "2026-11-24T17:48:06.190Z"
  },
  "lab": {
-  "ver": "2.15.0",
-  "file": "lab-2.15.0.cwx",
-  "notes": "Old report fills the page",
-  "at": "2026-11-24T17:37:55.409Z"
+  "ver": "2.16.0",
+  "file": "lab-2.16.0.cwx",
+  "notes": "Old records: edit, delete, remarks, sort",
+  "at": "2026-11-24T17:48:05.970Z"
  }
 }
