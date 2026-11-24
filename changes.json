@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.11.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports: complete file download (report, letter, receipt, page numbers); PDFs accepted for old reports and scan; lab and Admin always receive the sign-in"
+  ]
+ },
+ {
+  "ver": "2.11.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Old reports: complete file download (report, letter, receipt, page numbers); PDFs accepted for old reports and scan; lab and Admin always receive the sign-in"
+  ]
+ },
+ {
   "ver": "2.10.99",
   "target": "admin",
   "date": "24-Nov-2026",
