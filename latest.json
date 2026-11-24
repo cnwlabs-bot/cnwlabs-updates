@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.11.0",
-  "file": "admin-2.11.0.cwx",
-  "notes": "Old report complete file; PDF uploads; sign-in fix",
-  "at": "2026-11-24T15:45:48.940Z"
+  "ver": "2.12.0",
+  "file": "admin-2.12.0.cwx",
+  "notes": "New Admin layout",
+  "at": "2026-11-24T17:23:09.143Z"
  },
  "lab": {
-  "ver": "2.11.0",
-  "file": "lab-2.11.0.cwx",
-  "notes": "Old report complete file; PDF uploads; sign-in fix",
-  "at": "2026-11-24T15:45:48.729Z"
+  "ver": "2.12.0",
+  "file": "lab-2.12.0.cwx",
+  "notes": "New Admin layout",
+  "at": "2026-11-24T17:23:08.939Z"
  }
 }

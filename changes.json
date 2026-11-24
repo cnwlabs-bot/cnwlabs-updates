@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.12.0",
+  "target": "admin",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin: one blue menu on the left, Back button, no repeated tabs. Progress reports all landscape. Old-report stamp on a clear part of the page, no extra header/footer, order letter-receipt-report."
+  ]
+ },
+ {
+  "ver": "2.12.0",
+  "target": "lab",
+  "date": "24-Nov-2026",
+  "notes": [
+   "Admin: one blue menu on the left, Back button, no repeated tabs. Progress reports all landscape. Old-report stamp on a clear part of the page, no extra header/footer, order letter-receipt-report."
+  ]
+ },
+ {
   "ver": "2.11.0",
   "target": "admin",
   "date": "24-Nov-2026",
