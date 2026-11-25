@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.33.0",
-  "file": "admin-2.33.0.cwx",
-  "notes": "Sharper PDFs",
-  "at": "2026-11-25T03:02:26.075Z"
+  "ver": "2.34.0",
+  "file": "admin-2.34.0.cwx",
+  "notes": "Coarse aggregate report format",
+  "at": "2026-11-25T03:30:34.003Z"
  },
  "lab": {
-  "ver": "2.33.0",
-  "file": "lab-2.33.0.cwx",
-  "notes": "Sharper PDFs",
-  "at": "2026-11-25T03:02:25.652Z"
+  "ver": "2.34.0",
+  "file": "lab-2.34.0.cwx",
+  "notes": "Coarse aggregate report format",
+  "at": "2026-11-25T03:30:33.829Z"
  }
 }

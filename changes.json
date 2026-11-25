@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.34.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New coarse aggregate format: gradation (ASTM C136, C33 size numbers 2\u2013467), LA abrasion (C131/C535), flat & elongated (D4791), SG & absorption (C127). Each part on/off. Admin: full control and custom specifications (e.g. NHA)."
+  ]
+ },
+ {
+  "ver": "2.34.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New coarse aggregate format: gradation (ASTM C136, C33 size numbers 2\u2013467), LA abrasion (C131/C535), flat & elongated (D4791), SG & absorption (C127). Each part on/off. Admin: full control and custom specifications (e.g. NHA)."
+  ]
+ },
+ {
   "ver": "2.33.0",
   "target": "admin",
   "date": "25-Nov-2026",
