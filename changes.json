@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.50.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Sample Register now lists every sample received, including samples received with a bill (sample details given when the report was made), with status and Open report."
+  ]
+ },
+ {
+  "ver": "2.50.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Sample Register now lists every sample received, including samples received with a bill (sample details given when the report was made), with status and Open report."
+  ]
+ },
+ {
   "ver": "2.49.0",
   "target": "admin",
   "date": "25-Nov-2026",
