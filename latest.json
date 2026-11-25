@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.47.0",
-  "file": "admin-2.47.0.cwx",
-  "notes": "Progress report with cover page and annexures",
-  "at": "2026-11-25T08:32:05.601Z"
+  "ver": "2.48.0",
+  "file": "admin-2.48.0.cwx",
+  "notes": "CFY-wise progress and old records",
+  "at": "2026-11-25T08:55:18.850Z"
  },
  "lab": {
-  "ver": "2.47.0",
-  "file": "lab-2.47.0.cwx",
-  "notes": "Progress report with cover page and annexures",
-  "at": "2026-11-25T08:32:05.303Z"
+  "ver": "2.48.0",
+  "file": "lab-2.48.0.cwx",
+  "notes": "CFY-wise progress and old records",
+  "at": "2026-11-25T08:55:18.537Z"
  }
 }

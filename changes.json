@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.48.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress: CFY-wise table (CFY 2024-25, 2025-26 \u2026) with totals; Open shows month-wise. Labs can add old records (whole CFY or month-wise) \u2014 included in Admin and Offices portal and as its own page in the complete progress report."
+  ]
+ },
+ {
+  "ver": "2.48.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress: CFY-wise table (CFY 2024-25, 2025-26 \u2026) with totals; Open shows month-wise. Labs can add old records (whole CFY or month-wise) \u2014 included in Admin and Offices portal and as its own page in the complete progress report."
+  ]
+ },
+ {
   "ver": "2.47.0",
   "target": "admin",
   "date": "25-Nov-2026",
