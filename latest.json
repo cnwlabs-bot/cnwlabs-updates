@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.32.0",
-  "file": "admin-2.32.0.cwx",
-  "notes": "Full work names in every report",
-  "at": "2026-11-24T20:38:44.314Z"
+  "ver": "2.33.0",
+  "file": "admin-2.33.0.cwx",
+  "notes": "Sharper PDFs",
+  "at": "2026-11-25T03:02:26.075Z"
  },
  "lab": {
-  "ver": "2.32.0",
-  "file": "lab-2.32.0.cwx",
-  "notes": "Full work names in every report",
-  "at": "2026-11-24T20:38:44.096Z"
+  "ver": "2.33.0",
+  "file": "lab-2.33.0.cwx",
+  "notes": "Sharper PDFs",
+  "at": "2026-11-25T03:02:25.652Z"
  }
 }
