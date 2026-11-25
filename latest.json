@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.67.1",
-  "file": "admin-2.67.1.cwx",
-  "notes": "Margins corrected, letter & PAMIR restored, sharper uploads",
-  "at": "2026-11-25T23:14:33.685Z"
+  "ver": "2.67.2",
+  "file": "admin-2.67.2.cwx",
+  "notes": "Faster opening",
+  "at": "2026-11-25T23:35:40.122Z"
  },
  "lab": {
-  "ver": "2.67.1",
-  "file": "lab-2.67.1.cwx",
-  "notes": "Margins corrected, letter & PAMIR restored, sharper uploads",
-  "at": "2026-11-25T23:14:33.462Z"
+  "ver": "2.67.2",
+  "file": "lab-2.67.2.cwx",
+  "notes": "Faster opening",
+  "at": "2026-11-25T23:35:39.920Z"
  }
 }

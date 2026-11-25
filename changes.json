@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.67.2",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The online lab opens much faster: settings, data and pictures are read at the same time instead of one after another."
+  ]
+ },
+ {
+  "ver": "2.67.2",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The online lab opens much faster: settings, data and pictures are read at the same time instead of one after another."
+  ]
+ },
+ {
   "ver": "2.67.1",
   "target": "admin",
   "date": "26-Nov-2026",
