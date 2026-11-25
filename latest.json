@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.64.1",
-  "file": "admin-2.64.1.cwx",
-  "notes": "Report No. bar closed on uploaded reports",
-  "at": "2026-11-25T21:51:28.337Z"
+  "ver": "2.65.0",
+  "file": "admin-2.65.0.cwx",
+  "notes": "Finalize: complete file preview",
+  "at": "2026-11-25T21:56:15.022Z"
  },
  "lab": {
-  "ver": "2.64.1",
-  "file": "lab-2.64.1.cwx",
-  "notes": "Report No. bar closed on uploaded reports",
-  "at": "2026-11-25T21:51:28.122Z"
+  "ver": "2.65.0",
+  "file": "lab-2.65.0.cwx",
+  "notes": "Finalize: complete file preview",
+  "at": "2026-11-25T21:56:14.784Z"
  }
 }

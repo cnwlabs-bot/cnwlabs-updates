@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.65.0",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Finalize now shows the complete file \u2014 client letter, PAMIR receipt, lab receipt and report \u2014 with size, move, tilt, colour and see-through adjustments for each, before finalizing. Saved with the bill / report and used in print, complete file and www.cnwlabs.com."
+  ]
+ },
+ {
+  "ver": "2.65.0",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Finalize now shows the complete file \u2014 client letter, PAMIR receipt, lab receipt and report \u2014 with size, move, tilt, colour and see-through adjustments for each, before finalizing. Saved with the bill / report and used in print, complete file and www.cnwlabs.com."
+  ]
+ },
+ {
   "ver": "2.64.1",
   "target": "admin",
   "date": "26-Nov-2026",
