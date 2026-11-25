@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.58.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Bill No. now shows the Diary No. (e.g. SWAT-A-0024) on the bill, print, PDF and all screens."
+  ]
+ },
+ {
+  "ver": "2.58.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Bill No. now shows the Diary No. (e.g. SWAT-A-0024) on the bill, print, PDF and all screens."
+  ]
+ },
+ {
   "ver": "2.57.0",
   "target": "admin",
   "date": "25-Nov-2026",

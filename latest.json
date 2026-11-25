@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.57.0",
-  "file": "admin-2.57.0.cwx",
-  "notes": "Report No. from the Diary No.",
-  "at": "2026-11-25T15:27:12.490Z"
+  "ver": "2.58.0",
+  "file": "admin-2.58.0.cwx",
+  "notes": "Bill No. is now the Diary No.",
+  "at": "2026-11-25T15:38:13.084Z"
  },
  "lab": {
-  "ver": "2.57.0",
-  "file": "lab-2.57.0.cwx",
-  "notes": "Report No. from the Diary No.",
-  "at": "2026-11-25T15:27:12.215Z"
+  "ver": "2.58.0",
+  "file": "lab-2.58.0.cwx",
+  "notes": "Bill No. is now the Diary No.",
+  "at": "2026-11-25T15:38:12.827Z"
  }
 }
