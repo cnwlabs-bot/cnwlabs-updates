@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.67.0",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Pages: margins top 1in, left 1.5in, right 0.75in, bottom 0.45in on every page (print, PDF, complete file, website). Uploaded report fills the width so its lines meet the top line (like the receipt); new 'Fit to page' button trims old uploads. Website: Report No. without the bracket (e.g. SWAT-A-0024) shows the whole Diary No. with each report. Website copies are made again."
+  ]
+ },
+ {
+  "ver": "2.67.0",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Pages: margins top 1in, left 1.5in, right 0.75in, bottom 0.45in on every page (print, PDF, complete file, website). Uploaded report fills the width so its lines meet the top line (like the receipt); new 'Fit to page' button trims old uploads. Website: Report No. without the bracket (e.g. SWAT-A-0024) shows the whole Diary No. with each report. Website copies are made again."
+  ]
+ },
+ {
   "ver": "2.66.2",
   "target": "admin",
   "date": "26-Nov-2026",
