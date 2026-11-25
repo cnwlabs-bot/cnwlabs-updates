@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.63.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin: Uploaded pages & stamps \u2014 VERIFIED stamp on uploaded reports, full DIARY stamp on the client letter (with PAYMIR PSID) and full PAID stamp on the PAMIR receipt (with Diary No. and client letter); size (no limit), move, tilt, colour and see-through for each stamp, and size and place of the uploaded page. Used in print, the complete file and the www.cnwlabs.com download."
+  ]
+ },
+ {
+  "ver": "2.63.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin: Uploaded pages & stamps \u2014 VERIFIED stamp on uploaded reports, full DIARY stamp on the client letter (with PAYMIR PSID) and full PAID stamp on the PAMIR receipt (with Diary No. and client letter); size (no limit), move, tilt, colour and see-through for each stamp, and size and place of the uploaded page. Used in print, the complete file and the www.cnwlabs.com download."
+  ]
+ },
+ {
   "ver": "2.62.0",
   "target": "admin",
   "date": "25-Nov-2026",

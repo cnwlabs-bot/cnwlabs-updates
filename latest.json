@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.62.0",
-  "file": "admin-2.62.0.cwx",
-  "notes": "Header & theme from Admin; upload preview",
-  "at": "2026-11-25T17:23:16.448Z"
+  "ver": "2.63.0",
+  "file": "admin-2.63.0.cwx",
+  "notes": "Uploaded pages & stamps",
+  "at": "2026-11-25T18:17:34.233Z"
  },
  "lab": {
-  "ver": "2.62.0",
-  "file": "lab-2.62.0.cwx",
-  "notes": "Header & theme from Admin; upload preview",
-  "at": "2026-11-25T17:23:16.008Z"
+  "ver": "2.63.0",
+  "file": "lab-2.63.0.cwx",
+  "notes": "Uploaded pages & stamps",
+  "at": "2026-11-25T18:17:33.971Z"
  }
 }
