@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.49.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "PayMIR Progress Report (each month: payee, contact, PayMIR receipt No., issue date, PSID, PSID paid date, amount; total, progressive CFY total, signatures). Labs can add, change and remove the signature boxes (title, name, signature, stamp) of progress reports; Admin and Offices portal use them."
+  ]
+ },
+ {
+  "ver": "2.49.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "PayMIR Progress Report (each month: payee, contact, PayMIR receipt No., issue date, PSID, PSID paid date, amount; total, progressive CFY total, signatures). Labs can add, change and remove the signature boxes (title, name, signature, stamp) of progress reports; Admin and Offices portal use them."
+  ]
+ },
+ {
   "ver": "2.48.0",
   "target": "admin",
   "date": "25-Nov-2026",
