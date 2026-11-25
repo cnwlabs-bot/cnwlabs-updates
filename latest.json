@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.38.0",
-  "file": "admin-2.38.0.cwx",
-  "notes": "Upload report from gallery",
-  "at": "2026-11-25T05:02:03.339Z"
+  "ver": "2.39.0",
+  "file": "admin-2.39.0.cwx",
+  "notes": "Reports fit the page again",
+  "at": "2026-11-25T06:24:05.764Z"
  },
  "lab": {
-  "ver": "2.38.0",
-  "file": "lab-2.38.0.cwx",
-  "notes": "Upload report from gallery",
-  "at": "2026-11-25T05:02:03.137Z"
+  "ver": "2.39.0",
+  "file": "lab-2.39.0.cwx",
+  "notes": "Reports fit the page again",
+  "at": "2026-11-25T06:24:05.551Z"
  }
 }

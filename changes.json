@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.39.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Fixed: reports and bills made on iPhone were printed with enlarged text and ran off the page. All online copies are made again in the finalized size."
+  ]
+ },
+ {
+  "ver": "2.39.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Fixed: reports and bills made on iPhone were printed with enlarged text and ran off the page. All online copies are made again in the finalized size."
+  ]
+ },
+ {
   "ver": "2.38.0",
   "target": "admin",
   "date": "25-Nov-2026",
