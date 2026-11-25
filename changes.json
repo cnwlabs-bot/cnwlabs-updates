@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.67.3",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The website download now places the top line at 0.30in and the report from 0.75in on every page, also when the website makes the page itself."
+  ]
+ },
+ {
+  "ver": "2.67.3",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The website download now places the top line at 0.30in and the report from 0.75in on every page, also when the website makes the page itself."
+  ]
+ },
+ {
   "ver": "2.67.2",
   "target": "admin",
   "date": "26-Nov-2026",
