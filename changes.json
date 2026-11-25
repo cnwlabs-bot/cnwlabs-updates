@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.60.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Top line of every test report now shows Project No., Diary No., PSID No. and PSID Date."
+  ]
+ },
+ {
+  "ver": "2.60.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Top line of every test report now shows Project No., Diary No., PSID No. and PSID Date."
+  ]
+ },
+ {
   "ver": "2.59.0",
   "target": "admin",
   "date": "25-Nov-2026",

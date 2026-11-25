@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.59.0",
-  "file": "admin-2.59.0.cwx",
-  "notes": "Testing date + strict upload check",
-  "at": "2026-11-25T16:15:01.413Z"
+  "ver": "2.60.0",
+  "file": "admin-2.60.0.cwx",
+  "notes": "Report header: Project, Diary, PSID, PSID date",
+  "at": "2026-11-25T16:34:34.938Z"
  },
  "lab": {
-  "ver": "2.59.0",
-  "file": "lab-2.59.0.cwx",
-  "notes": "Testing date + strict upload check",
-  "at": "2026-11-25T16:15:01.182Z"
+  "ver": "2.60.0",
+  "file": "lab-2.60.0.cwx",
+  "notes": "Report header: Project, Diary, PSID, PSID date",
+  "at": "2026-11-25T16:34:34.619Z"
  }
 }
