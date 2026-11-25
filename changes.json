@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.37.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "When creating a report you can tick other tests of the same bill to put them on the same report (e.g. gradation + LA + flakiness + SG on one coarse aggregate report), or leave them unticked to make each separately."
+  ]
+ },
+ {
+  "ver": "2.37.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "When creating a report you can tick other tests of the same bill to put them on the same report (e.g. gradation + LA + flakiness + SG on one coarse aggregate report), or leave them unticked to make each separately."
+  ]
+ },
+ {
   "ver": "2.36.0",
   "target": "admin",
   "date": "25-Nov-2026",

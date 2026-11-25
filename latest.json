@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.36.0",
-  "file": "admin-2.36.0.cwx",
-  "notes": "Authenticator code fixed",
-  "at": "2026-11-25T04:10:06.800Z"
+  "ver": "2.37.0",
+  "file": "admin-2.37.0.cwx",
+  "notes": "Several tests on one report",
+  "at": "2026-11-25T04:49:16.696Z"
  },
  "lab": {
-  "ver": "2.36.0",
-  "file": "lab-2.36.0.cwx",
-  "notes": "Authenticator code fixed",
-  "at": "2026-11-25T04:10:06.596Z"
+  "ver": "2.37.0",
+  "file": "lab-2.37.0.cwx",
+  "notes": "Several tests on one report",
+  "at": "2026-11-25T04:49:16.475Z"
  }
 }
