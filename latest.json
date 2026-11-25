@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.66.1",
-  "file": "admin-2.66.1.cwx",
-  "notes": "Lab receipt shows the Diary No. online",
-  "at": "2026-11-25T22:35:58.114Z"
+  "ver": "2.66.2",
+  "file": "admin-2.66.2.cwx",
+  "notes": "Downloads best fit on A4",
+  "at": "2026-11-25T22:45:07.241Z"
  },
  "lab": {
-  "ver": "2.66.1",
-  "file": "lab-2.66.1.cwx",
-  "notes": "Lab receipt shows the Diary No. online",
-  "at": "2026-11-25T22:35:57.870Z"
+  "ver": "2.66.2",
+  "file": "lab-2.66.2.cwx",
+  "notes": "Downloads best fit on A4",
+  "at": "2026-11-25T22:45:07.020Z"
  }
 }

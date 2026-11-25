@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.66.2",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Complete file / PDF downloads: nothing cut at the sides, each page fills the A4 width (and is shrunk only when too tall); client letter and PAMIR receipt pages of any size fit A4, centred, with white borders trimmed. Website copies are made again."
+  ]
+ },
+ {
+  "ver": "2.66.2",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Complete file / PDF downloads: nothing cut at the sides, each page fills the A4 width (and is shrunk only when too tall); client letter and PAMIR receipt pages of any size fit A4, centred, with white borders trimmed. Website copies are made again."
+  ]
+ },
+ {
   "ver": "2.66.1",
   "target": "admin",
   "date": "26-Nov-2026",
