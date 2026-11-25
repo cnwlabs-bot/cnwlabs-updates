@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.47.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress Reports in each lab now has the Progress Dashboard (same as Admin / Offices portal). Complete progress report: cover page (own cover can be uploaded), summary, one annexure per division with sub-divisional annexures (NIL ones too), test-wise summary, text size 10, bold headings and totals, 1.25-inch left margin for binding, Print and Download. Division or sub-division downloads use the same style."
+  ]
+ },
+ {
+  "ver": "2.47.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress Reports in each lab now has the Progress Dashboard (same as Admin / Offices portal). Complete progress report: cover page (own cover can be uploaded), summary, one annexure per division with sub-divisional annexures (NIL ones too), test-wise summary, text size 10, bold headings and totals, 1.25-inch left margin for binding, Print and Download. Division or sub-division downloads use the same style."
+  ]
+ },
+ {
   "ver": "2.46.0",
   "target": "admin",
   "date": "25-Nov-2026",

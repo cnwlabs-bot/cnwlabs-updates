@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.46.0",
-  "file": "admin-2.46.0.cwx",
-  "notes": "Progress report: all divisions and sub-divisions",
-  "at": "2026-11-25T08:08:17.122Z"
+  "ver": "2.47.0",
+  "file": "admin-2.47.0.cwx",
+  "notes": "Progress report with cover page and annexures",
+  "at": "2026-11-25T08:32:05.601Z"
  },
  "lab": {
-  "ver": "2.46.0",
-  "file": "lab-2.46.0.cwx",
-  "notes": "Progress report: all divisions and sub-divisions",
-  "at": "2026-11-25T08:08:16.873Z"
+  "ver": "2.47.0",
+  "file": "lab-2.47.0.cwx",
+  "notes": "Progress report with cover page and annexures",
+  "at": "2026-11-25T08:32:05.303Z"
  }
 }
