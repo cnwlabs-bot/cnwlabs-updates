@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.42.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Main page shows one total for Other than C&W Department of all laboratories; open it to see each laboratory, and each laboratory lists its own Other than C&W departments."
+  ]
+ },
+ {
+  "ver": "2.42.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Main page shows one total for Other than C&W Department of all laboratories; open it to see each laboratory, and each laboratory lists its own Other than C&W departments."
+  ]
+ },
+ {
   "ver": "2.41.0",
   "target": "admin",
   "date": "25-Nov-2026",

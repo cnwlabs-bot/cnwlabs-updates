@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.41.0",
-  "file": "admin-2.41.0.cwx",
-  "notes": "Website logo and scan",
-  "at": "2026-11-25T07:22:31.028Z"
+  "ver": "2.42.0",
+  "file": "admin-2.42.0.cwx",
+  "notes": "Office portal: Other than C&W",
+  "at": "2026-11-25T07:34:14.729Z"
  },
  "lab": {
-  "ver": "2.41.0",
-  "file": "lab-2.41.0.cwx",
-  "notes": "Website logo and scan",
-  "at": "2026-11-25T07:22:30.793Z"
+  "ver": "2.42.0",
+  "file": "lab-2.42.0.cwx",
+  "notes": "Office portal: Other than C&W",
+  "at": "2026-11-25T07:34:14.524Z"
  }
 }
