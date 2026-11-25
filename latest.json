@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.37.0",
-  "file": "admin-2.37.0.cwx",
-  "notes": "Several tests on one report",
-  "at": "2026-11-25T04:49:16.696Z"
+  "ver": "2.38.0",
+  "file": "admin-2.38.0.cwx",
+  "notes": "Upload report from gallery",
+  "at": "2026-11-25T05:02:03.339Z"
  },
  "lab": {
-  "ver": "2.37.0",
-  "file": "lab-2.37.0.cwx",
-  "notes": "Several tests on one report",
-  "at": "2026-11-25T04:49:16.475Z"
+  "ver": "2.38.0",
+  "file": "lab-2.38.0.cwx",
+  "notes": "Upload report from gallery",
+  "at": "2026-11-25T05:02:03.137Z"
  }
 }

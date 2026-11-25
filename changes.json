@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.38.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "After the receipt is final, when creating a report you can choose: make it in the software, or upload the report from the gallery (photos or PDF). Uploaded reports get the Report No. from the bill, are finalized and issued with the Authenticator code, and verify online like any report."
+  ]
+ },
+ {
+  "ver": "2.38.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "After the receipt is final, when creating a report you can choose: make it in the software, or upload the report from the gallery (photos or PDF). Uploaded reports get the Report No. from the bill, are finalized and issued with the Authenticator code, and verify online like any report."
+  ]
+ },
+ {
   "ver": "2.37.0",
   "target": "admin",
   "date": "25-Nov-2026",
