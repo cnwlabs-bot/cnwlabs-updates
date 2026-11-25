@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.62.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin: new Report header & theme page (text, colours, sizes, font, Report No. bar, report colours) for each lab or all labs. Upload: header items no longer asked, preview of the finished report before it is created (Admin can let a lab skip it)."
+  ]
+ },
+ {
+  "ver": "2.62.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Admin: new Report header & theme page (text, colours, sizes, font, Report No. bar, report colours) for each lab or all labs. Upload: header items no longer asked, preview of the finished report before it is created (Admin can let a lab skip it)."
+  ]
+ },
+ {
   "ver": "2.61.0",
   "target": "admin",
   "date": "25-Nov-2026",

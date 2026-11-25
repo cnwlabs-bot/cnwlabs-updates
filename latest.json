@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.61.0",
-  "file": "admin-2.61.0.cwx",
-  "notes": "Upload fixed; lab header on uploaded reports",
-  "at": "2026-11-25T17:08:55.297Z"
+  "ver": "2.62.0",
+  "file": "admin-2.62.0.cwx",
+  "notes": "Header & theme from Admin; upload preview",
+  "at": "2026-11-25T17:23:16.448Z"
  },
  "lab": {
-  "ver": "2.61.0",
-  "file": "lab-2.61.0.cwx",
-  "notes": "Upload fixed; lab header on uploaded reports",
-  "at": "2026-11-25T17:08:54.742Z"
+  "ver": "2.62.0",
+  "file": "lab-2.62.0.cwx",
+  "notes": "Header & theme from Admin; upload preview",
+  "at": "2026-11-25T17:23:16.008Z"
  }
 }
