@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.41.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New C&W Department logo on the website, phone number shows clearly, full department name. Scan also finds the Diary No. on the client letter."
+  ]
+ },
+ {
+  "ver": "2.41.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "New C&W Department logo on the website, phone number shows clearly, full department name. Scan also finds the Diary No. on the client letter."
+  ]
+ },
+ {
   "ver": "2.40.0",
   "target": "admin",
   "date": "25-Nov-2026",

@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.40.0",
-  "file": "admin-2.40.0.cwx",
-  "notes": "Scan the full file, PayMIR challan and Diary No.",
-  "at": "2026-11-25T07:11:26.873Z"
+  "ver": "2.41.0",
+  "file": "admin-2.41.0.cwx",
+  "notes": "Website logo and scan",
+  "at": "2026-11-25T07:22:31.028Z"
  },
  "lab": {
-  "ver": "2.40.0",
-  "file": "lab-2.40.0.cwx",
-  "notes": "Scan the full file, PayMIR challan and Diary No.",
-  "at": "2026-11-25T07:11:26.637Z"
+  "ver": "2.41.0",
+  "file": "lab-2.41.0.cwx",
+  "notes": "Website logo and scan",
+  "at": "2026-11-25T07:22:30.793Z"
  }
 }
