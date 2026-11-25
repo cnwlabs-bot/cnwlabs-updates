@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.57.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Report Nos. are now made from the Diary No.: SWAT-A-0003 (01), (02)\u2026; with several sub heads, a test of one sub head gets its letter, e.g. (01A). Paid bills whose reports are not issued get the new numbers automatically. Website verify accepts SWAT-A-0003 (01) or SWAT-A-0003-01."
+  ]
+ },
+ {
+  "ver": "2.57.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Report Nos. are now made from the Diary No.: SWAT-A-0003 (01), (02)\u2026; with several sub heads, a test of one sub head gets its letter, e.g. (01A). Paid bills whose reports are not issued get the new numbers automatically. Website verify accepts SWAT-A-0003 (01) or SWAT-A-0003-01."
+  ]
+ },
+ {
   "ver": "2.56.0",
   "target": "admin",
   "date": "25-Nov-2026",
