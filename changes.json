@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.66.0",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Uploaded pages: white borders trimmed automatically so the page fills A4 under the header; stamp sits at the bottom of the page. Live sync no longer stops on deleted records, so issued reports are sent for online verification. Website: a report that is not issued yet, or has a different date, now says so."
+  ]
+ },
+ {
+  "ver": "2.66.0",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Uploaded pages: white borders trimmed automatically so the page fills A4 under the header; stamp sits at the bottom of the page. Live sync no longer stops on deleted records, so issued reports are sent for online verification. Website: a report that is not issued yet, or has a different date, now says so."
+  ]
+ },
+ {
   "ver": "2.65.3",
   "target": "admin",
   "date": "26-Nov-2026",

@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.65.3",
-  "file": "admin-2.65.3.cwx",
-  "notes": "Type your own size in Page layout",
-  "at": "2026-11-25T22:19:42.069Z"
+  "ver": "2.66.0",
+  "file": "admin-2.66.0.cwx",
+  "notes": "Best fit on A4; online verification fix",
+  "at": "2026-11-25T22:28:23.962Z"
  },
  "lab": {
-  "ver": "2.65.3",
-  "file": "lab-2.65.3.cwx",
-  "notes": "Type your own size in Page layout",
-  "at": "2026-11-25T22:19:41.824Z"
+  "ver": "2.66.0",
+  "file": "lab-2.66.0.cwx",
+  "notes": "Best fit on A4; online verification fix",
+  "at": "2026-11-25T22:28:23.746Z"
  }
 }
