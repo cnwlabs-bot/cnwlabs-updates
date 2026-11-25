@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.55.0",
-  "file": "admin-2.55.0.cwx",
-  "notes": "Reports uploaded by default",
-  "at": "2026-11-25T10:38:19.605Z"
+  "ver": "2.56.0",
+  "file": "admin-2.56.0.cwx",
+  "notes": "Diary No. can be changed when Admin allows",
+  "at": "2026-11-25T14:54:44.411Z"
  },
  "lab": {
-  "ver": "2.55.0",
-  "file": "lab-2.55.0.cwx",
-  "notes": "Reports uploaded by default",
-  "at": "2026-11-25T10:38:19.408Z"
+  "ver": "2.56.0",
+  "file": "lab-2.56.0.cwx",
+  "notes": "Diary No. can be changed when Admin allows",
+  "at": "2026-11-25T14:54:43.687Z"
  }
 }
