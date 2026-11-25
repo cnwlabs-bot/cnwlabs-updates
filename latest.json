@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.44.0",
-  "file": "admin-2.44.0.cwx",
-  "notes": "Each circle shows C&W + Other total",
-  "at": "2026-11-25T07:48:17.913Z"
+  "ver": "2.45.0",
+  "file": "admin-2.45.0.cwx",
+  "notes": "Professional progress report",
+  "at": "2026-11-25T08:05:09.967Z"
  },
  "lab": {
-  "ver": "2.44.0",
-  "file": "lab-2.44.0.cwx",
-  "notes": "Each circle shows C&W + Other total",
-  "at": "2026-11-25T07:48:17.698Z"
+  "ver": "2.45.0",
+  "file": "lab-2.45.0.cwx",
+  "notes": "Professional progress report",
+  "at": "2026-11-25T08:05:09.774Z"
  }
 }

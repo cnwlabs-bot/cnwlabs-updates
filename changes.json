@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.45.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Complete progress report rebuilt: correct period, Tests received / reported / pending (no more counting tests in progress as done), unpaid bills separate, test-wise summary, receipt-wise PayMIR detail grouped by division and project, no repeated pages, signature block."
+  ]
+ },
+ {
+  "ver": "2.45.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Complete progress report rebuilt: correct period, Tests received / reported / pending (no more counting tests in progress as done), unpaid bills separate, test-wise summary, receipt-wise PayMIR detail grouped by division and project, no repeated pages, signature block."
+  ]
+ },
+ {
   "ver": "2.44.0",
   "target": "admin",
   "date": "25-Nov-2026",
