@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.55.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Labs now upload their reports from the gallery by default; making reports in the software is hidden unless C&W Labs Admin allows it for that lab (Locks & permissions \u2192 Make reports in the software). Uploaded report page asks only Report dated and Testing date."
+  ]
+ },
+ {
+  "ver": "2.55.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Labs now upload their reports from the gallery by default; making reports in the software is hidden unless C&W Labs Admin allows it for that lab (Locks & permissions \u2192 Make reports in the software). Uploaded report page asks only Report dated and Testing date."
+  ]
+ },
+ {
   "ver": "2.54.0",
   "target": "admin",
   "date": "25-Nov-2026",
