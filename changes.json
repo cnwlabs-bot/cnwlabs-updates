@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.40.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Website scan now reads every page of a PDF (complete file). If no report is found, it checks the PayMIR challan (receipt No. + issue date, or PSID) or Diary No.: shows Not paid, Test pending, or Issued with a Verify button."
+  ]
+ },
+ {
+  "ver": "2.40.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Website scan now reads every page of a PDF (complete file). If no report is found, it checks the PayMIR challan (receipt No. + issue date, or PSID) or Diary No.: shows Not paid, Test pending, or Issued with a Verify button."
+  ]
+ },
+ {
   "ver": "2.39.0",
   "target": "admin",
   "date": "25-Nov-2026",

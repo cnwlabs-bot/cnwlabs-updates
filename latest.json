@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.39.0",
-  "file": "admin-2.39.0.cwx",
-  "notes": "Reports fit the page again",
-  "at": "2026-11-25T06:24:05.764Z"
+  "ver": "2.40.0",
+  "file": "admin-2.40.0.cwx",
+  "notes": "Scan the full file, PayMIR challan and Diary No.",
+  "at": "2026-11-25T07:11:26.873Z"
  },
  "lab": {
-  "ver": "2.39.0",
-  "file": "lab-2.39.0.cwx",
-  "notes": "Reports fit the page again",
-  "at": "2026-11-25T06:24:05.551Z"
+  "ver": "2.40.0",
+  "file": "lab-2.40.0.cwx",
+  "notes": "Scan the full file, PayMIR challan and Diary No.",
+  "at": "2026-11-25T07:11:26.637Z"
  }
 }
