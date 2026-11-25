@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.64.0",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Upload preview now has size & move for the uploaded page and size, move, tilt, see-through for the VERIFIED stamp (no limit). Saved with the report; also on the report screen (Adjust size & stamp)."
+  ]
+ },
+ {
+  "ver": "2.64.0",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Upload preview now has size & move for the uploaded page and size, move, tilt, see-through for the VERIFIED stamp (no limit). Saved with the report; also on the report screen (Adjust size & stamp)."
+  ]
+ },
+ {
   "ver": "2.63.0",
   "target": "admin",
   "date": "25-Nov-2026",

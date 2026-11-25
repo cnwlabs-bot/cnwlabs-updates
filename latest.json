@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.63.0",
-  "file": "admin-2.63.0.cwx",
-  "notes": "Uploaded pages & stamps",
-  "at": "2026-11-25T18:17:34.233Z"
+  "ver": "2.64.0",
+  "file": "admin-2.64.0.cwx",
+  "notes": "Adjust size & stamp in the upload preview",
+  "at": "2026-11-25T21:48:22.187Z"
  },
  "lab": {
-  "ver": "2.63.0",
-  "file": "lab-2.63.0.cwx",
-  "notes": "Uploaded pages & stamps",
-  "at": "2026-11-25T18:17:33.971Z"
+  "ver": "2.64.0",
+  "file": "lab-2.64.0.cwx",
+  "notes": "Adjust size & stamp in the upload preview",
+  "at": "2026-11-25T21:48:21.567Z"
  }
 }
