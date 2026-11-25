@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.34.0",
-  "file": "admin-2.34.0.cwx",
-  "notes": "Coarse aggregate report format",
-  "at": "2026-11-25T03:30:34.003Z"
+  "ver": "2.35.0",
+  "file": "admin-2.35.0.cwx",
+  "notes": "Receipt check improved",
+  "at": "2026-11-25T03:46:23.802Z"
  },
  "lab": {
-  "ver": "2.34.0",
-  "file": "lab-2.34.0.cwx",
-  "notes": "Coarse aggregate report format",
-  "at": "2026-11-25T03:30:33.829Z"
+  "ver": "2.35.0",
+  "file": "lab-2.35.0.cwx",
+  "notes": "Receipt check improved",
+  "at": "2026-11-25T03:46:23.606Z"
  }
 }

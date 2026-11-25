@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.35.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Receipt scan reads the photo 3 ways and trusts your entry when any reading matches it. If the scan still misreads, tick \u201cMy entry is correct \u2014 scan misread\u201d (or the button for all) and continue; this is saved with the bill."
+  ]
+ },
+ {
+  "ver": "2.35.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Receipt scan reads the photo 3 ways and trusts your entry when any reading matches it. If the scan still misreads, tick \u201cMy entry is correct \u2014 scan misread\u201d (or the button for all) and continue; this is saved with the bill."
+  ]
+ },
+ {
   "ver": "2.34.0",
   "target": "admin",
   "date": "25-Nov-2026",
