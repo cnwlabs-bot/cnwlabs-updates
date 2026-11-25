@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.54.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Uploaded reports are now read and checked before they are accepted: Report No., contractor, name of work and Diary No. against the bill; test procedure against the standards for that test; spelling of technical words; dates; sieve table and compressive strength calculations. Errors must be corrected or confirmed with a reason (saved for Admin)."
+  ]
+ },
+ {
+  "ver": "2.54.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Uploaded reports are now read and checked before they are accepted: Report No., contractor, name of work and Diary No. against the bill; test procedure against the standards for that test; spelling of technical words; dates; sieve table and compressive strength calculations. Errors must be corrected or confirmed with a reason (saved for Admin)."
+  ]
+ },
+ {
   "ver": "2.53.0",
   "target": "admin",
   "date": "25-Nov-2026",

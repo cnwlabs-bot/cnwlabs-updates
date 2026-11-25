@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.53.0",
-  "file": "admin-2.53.0.cwx",
-  "notes": "Bill details locked in reports",
-  "at": "2026-11-25T09:59:35.036Z"
+  "ver": "2.54.0",
+  "file": "admin-2.54.0.cwx",
+  "notes": "Upload checker",
+  "at": "2026-11-25T10:27:24.064Z"
  },
  "lab": {
-  "ver": "2.53.0",
-  "file": "lab-2.53.0.cwx",
-  "notes": "Bill details locked in reports",
-  "at": "2026-11-25T09:59:34.807Z"
+  "ver": "2.54.0",
+  "file": "lab-2.54.0.cwx",
+  "notes": "Upload checker",
+  "at": "2026-11-25T10:27:23.845Z"
  }
 }
