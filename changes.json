@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.61.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Create report now always goes to Upload (making in the software stays off unless Admin allows). Uploaded reports get the lab's own header with Report No. and Dated (testing date) automatically."
+  ]
+ },
+ {
+  "ver": "2.61.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Create report now always goes to Upload (making in the software stays off unless Admin allows). Uploaded reports get the lab's own header with Report No. and Dated (testing date) automatically."
+  ]
+ },
+ {
   "ver": "2.60.0",
   "target": "admin",
   "date": "25-Nov-2026",
