@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.44.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Main page: each circle/laboratory row now shows its total of C&W and Other than C&W together; the separate Other row is removed. Inside the circle both are listed with sub-totals."
+  ]
+ },
+ {
+  "ver": "2.44.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Main page: each circle/laboratory row now shows its total of C&W and Other than C&W together; the separate Other row is removed. Inside the circle both are listed with sub-totals."
+  ]
+ },
+ {
   "ver": "2.43.0",
   "target": "admin",
   "date": "25-Nov-2026",
