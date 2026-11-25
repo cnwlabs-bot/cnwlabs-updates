@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.36.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Payment confirm and report issue now accept the same Google Authenticator code you sign in with (each Gmail's own code; Admin's code also works when Admin opens a lab)."
+  ]
+ },
+ {
+  "ver": "2.36.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Payment confirm and report issue now accept the same Google Authenticator code you sign in with (each Gmail's own code; Admin's code also works when Admin opens a lab)."
+  ]
+ },
+ {
   "ver": "2.35.0",
   "target": "admin",
   "date": "25-Nov-2026",
