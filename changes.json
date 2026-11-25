@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.67.1",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Client letter and PAMIR receipt pages are back to the old size. Report and receipt pages: top line at 0.30in (header), body from 0.75in top, 0.75in right, 0.45in left and bottom. Uploads are kept sharper: PDF pages at A4 300 dpi, photos up to 3000 px, letter / PAMIR photos up to 2600 px."
+  ]
+ },
+ {
+  "ver": "2.67.1",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Client letter and PAMIR receipt pages are back to the old size. Report and receipt pages: top line at 0.30in (header), body from 0.75in top, 0.75in right, 0.45in left and bottom. Uploads are kept sharper: PDF pages at A4 300 dpi, photos up to 3000 px, letter / PAMIR photos up to 2600 px."
+  ]
+ },
+ {
   "ver": "2.67.0",
   "target": "admin",
   "date": "26-Nov-2026",

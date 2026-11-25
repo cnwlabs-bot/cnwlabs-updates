@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.67.0",
-  "file": "admin-2.67.0.cwx",
-  "notes": "Page margins, aligned lines, verify by Diary No.",
-  "at": "2026-11-25T23:03:56.956Z"
+  "ver": "2.67.1",
+  "file": "admin-2.67.1.cwx",
+  "notes": "Margins corrected, letter & PAMIR restored, sharper uploads",
+  "at": "2026-11-25T23:14:33.685Z"
  },
  "lab": {
-  "ver": "2.67.0",
-  "file": "lab-2.67.0.cwx",
-  "notes": "Page margins, aligned lines, verify by Diary No.",
-  "at": "2026-11-25T23:03:56.717Z"
+  "ver": "2.67.1",
+  "file": "lab-2.67.1.cwx",
+  "notes": "Margins corrected, letter & PAMIR restored, sharper uploads",
+  "at": "2026-11-25T23:14:33.462Z"
  }
 }
