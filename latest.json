@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.50.0",
-  "file": "admin-2.50.0.cwx",
-  "notes": "Sample Register shows all samples",
-  "at": "2026-11-25T09:13:10.253Z"
+  "ver": "2.52.0",
+  "file": "admin-2.52.0.cwx",
+  "notes": "Progress report layout, signature sizes, units",
+  "at": "2026-11-25T09:29:03.482Z"
  },
  "lab": {
-  "ver": "2.50.0",
-  "file": "lab-2.50.0.cwx",
-  "notes": "Sample Register shows all samples",
-  "at": "2026-11-25T09:13:10.039Z"
+  "ver": "2.52.0",
+  "file": "lab-2.52.0.cwx",
+  "notes": "Progress report layout, signature sizes, units",
+  "at": "2026-11-25T09:29:03.254Z"
  }
 }

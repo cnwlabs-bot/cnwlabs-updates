@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.52.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress reports: CFY-wise page first, then summary; signatures always on the same page as the data (table rows fill the page; if a table continues, some rows come with the signatures); signature and stamp size can be set. Fine and coarse aggregate formats: units on every value (Admin can switch to headings)."
+  ]
+ },
+ {
+  "ver": "2.52.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Progress reports: CFY-wise page first, then summary; signatures always on the same page as the data (table rows fill the page; if a table continues, some rows come with the signatures); signature and stamp size can be set. Fine and coarse aggregate formats: units on every value (Admin can switch to headings)."
+  ]
+ },
+ {
   "ver": "2.50.0",
   "target": "admin",
   "date": "25-Nov-2026",
