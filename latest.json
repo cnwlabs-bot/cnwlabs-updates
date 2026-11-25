@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.52.0",
-  "file": "admin-2.52.0.cwx",
-  "notes": "Progress report layout, signature sizes, units",
-  "at": "2026-11-25T09:29:03.482Z"
+  "ver": "2.53.0",
+  "file": "admin-2.53.0.cwx",
+  "notes": "Bill details locked in reports",
+  "at": "2026-11-25T09:59:35.036Z"
  },
  "lab": {
-  "ver": "2.52.0",
-  "file": "lab-2.52.0.cwx",
-  "notes": "Progress report layout, signature sizes, units",
-  "at": "2026-11-25T09:29:03.254Z"
+  "ver": "2.53.0",
+  "file": "lab-2.53.0.cwx",
+  "notes": "Bill details locked in reports",
+  "at": "2026-11-25T09:59:34.807Z"
  }
 }

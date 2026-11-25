@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.53.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "In the report form, Report No., client, work, letter, received date and sample type that came from the bill and sample entry are no longer shown or editable."
+  ]
+ },
+ {
+  "ver": "2.53.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "In the report form, Report No., client, work, letter, received date and sample type that came from the bill and sample entry are no longer shown or editable."
+  ]
+ },
+ {
   "ver": "2.52.0",
   "target": "admin",
   "date": "25-Nov-2026",
