@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.66.1",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The complete file on www.cnwlabs.com names the lab receipt by its Diary No."
+  ]
+ },
+ {
+  "ver": "2.66.1",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The complete file on www.cnwlabs.com names the lab receipt by its Diary No."
+  ]
+ },
+ {
   "ver": "2.66.0",
   "target": "admin",
   "date": "26-Nov-2026",
