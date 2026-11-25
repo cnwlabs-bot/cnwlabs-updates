@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.65.1",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The uploaded report page now goes behind the lab header and Report No. bar when moved up or enlarged."
+  ]
+ },
+ {
+  "ver": "2.65.1",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The uploaded report page now goes behind the lab header and Report No. bar when moved up or enlarged."
+  ]
+ },
+ {
   "ver": "2.65.0",
   "target": "admin",
   "date": "26-Nov-2026",

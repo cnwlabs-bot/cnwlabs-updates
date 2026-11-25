@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.65.0",
-  "file": "admin-2.65.0.cwx",
-  "notes": "Finalize: complete file preview",
-  "at": "2026-11-25T21:56:15.022Z"
+  "ver": "2.65.1",
+  "file": "admin-2.65.1.cwx",
+  "notes": "Uploaded page goes behind the header",
+  "at": "2026-11-25T21:58:53.314Z"
  },
  "lab": {
-  "ver": "2.65.0",
-  "file": "lab-2.65.0.cwx",
-  "notes": "Finalize: complete file preview",
-  "at": "2026-11-25T21:56:14.784Z"
+  "ver": "2.65.1",
+  "file": "lab-2.65.1.cwx",
+  "notes": "Uploaded page goes behind the header",
+  "at": "2026-11-25T21:58:53.108Z"
  }
 }
