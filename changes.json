@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.59.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Testing date is entered with the sample and before upload. Uploaded reports must carry the same Report No. and testing date, or they cannot be uploaded."
+  ]
+ },
+ {
+  "ver": "2.59.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Testing date is entered with the sample and before upload. Uploaded reports must carry the same Report No. and testing date, or they cannot be uploaded."
+  ]
+ },
+ {
   "ver": "2.58.0",
   "target": "admin",
   "date": "25-Nov-2026",

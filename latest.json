@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.58.0",
-  "file": "admin-2.58.0.cwx",
-  "notes": "Bill No. is now the Diary No.",
-  "at": "2026-11-25T15:38:13.084Z"
+  "ver": "2.59.0",
+  "file": "admin-2.59.0.cwx",
+  "notes": "Testing date + strict upload check",
+  "at": "2026-11-25T16:15:01.413Z"
  },
  "lab": {
-  "ver": "2.58.0",
-  "file": "lab-2.58.0.cwx",
-  "notes": "Bill No. is now the Diary No.",
-  "at": "2026-11-25T15:38:12.827Z"
+  "ver": "2.59.0",
+  "file": "lab-2.59.0.cwx",
+  "notes": "Testing date + strict upload check",
+  "at": "2026-11-25T16:15:01.182Z"
  }
 }
