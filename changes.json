@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.65.3",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Page layout on A4 and the print position window: the size can now be typed (any %), no 60\u2013130% limit, and moving has no limit."
+  ]
+ },
+ {
+  "ver": "2.65.3",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Page layout on A4 and the print position window: the size can now be typed (any %), no 60\u2013130% limit, and moving has no limit."
+  ]
+ },
+ {
   "ver": "2.65.2",
   "target": "admin",
   "date": "26-Nov-2026",

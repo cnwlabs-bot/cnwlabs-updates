@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.65.2",
-  "file": "admin-2.65.2.cwx",
-  "notes": "Move pad with centre button",
-  "at": "2026-11-25T22:11:19.861Z"
+  "ver": "2.65.3",
+  "file": "admin-2.65.3.cwx",
+  "notes": "Type your own size in Page layout",
+  "at": "2026-11-25T22:19:42.069Z"
  },
  "lab": {
-  "ver": "2.65.2",
-  "file": "lab-2.65.2.cwx",
-  "notes": "Move pad with centre button",
-  "at": "2026-11-25T22:11:19.608Z"
+  "ver": "2.65.3",
+  "file": "lab-2.65.3.cwx",
+  "notes": "Type your own size in Page layout",
+  "at": "2026-11-25T22:19:41.824Z"
  }
 }
