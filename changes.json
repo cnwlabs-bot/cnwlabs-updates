@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.43.0",
+  "target": "admin",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Each circle page now also lists its laboratory's Other than C&W departments, with sub-totals and a grand total."
+  ]
+ },
+ {
+  "ver": "2.43.0",
+  "target": "lab",
+  "date": "25-Nov-2026",
+  "notes": [
+   "Each circle page now also lists its laboratory's Other than C&W departments, with sub-totals and a grand total."
+  ]
+ },
+ {
   "ver": "2.42.0",
   "target": "admin",
   "date": "25-Nov-2026",

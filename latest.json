@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.42.0",
-  "file": "admin-2.42.0.cwx",
-  "notes": "Office portal: Other than C&W",
-  "at": "2026-11-25T07:34:14.729Z"
+  "ver": "2.43.0",
+  "file": "admin-2.43.0.cwx",
+  "notes": "Other than C&W inside each circle",
+  "at": "2026-11-25T07:41:11.083Z"
  },
  "lab": {
-  "ver": "2.42.0",
-  "file": "lab-2.42.0.cwx",
-  "notes": "Office portal: Other than C&W",
-  "at": "2026-11-25T07:34:14.524Z"
+  "ver": "2.43.0",
+  "file": "lab-2.43.0.cwx",
+  "notes": "Other than C&W inside each circle",
+  "at": "2026-11-25T07:41:10.883Z"
  }
 }
