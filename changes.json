@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.65.2",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Move controls are now a pad \u25b2 \u25c0 \u25ce \u25b6 \u25bc with a centre button, in the upload preview, Finalize preview and Admin."
+  ]
+ },
+ {
+  "ver": "2.65.2",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Move controls are now a pad \u25b2 \u25c0 \u25ce \u25b6 \u25bc with a centre button, in the upload preview, Finalize preview and Admin."
+  ]
+ },
+ {
   "ver": "2.65.1",
   "target": "admin",
   "date": "26-Nov-2026",
