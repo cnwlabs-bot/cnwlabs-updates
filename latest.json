@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.67.3",
-  "file": "admin-2.67.3.cwx",
-  "notes": "Website download: header line and margins on every page",
-  "at": "2026-11-25T23:45:40.591Z"
+  "ver": "2.67.4",
+  "file": "admin-2.67.4.cwx",
+  "notes": "Left 0.75in, right 0.45in",
+  "at": "2026-11-26T06:19:55.319Z"
  },
  "lab": {
-  "ver": "2.67.3",
-  "file": "lab-2.67.3.cwx",
-  "notes": "Website download: header line and margins on every page",
-  "at": "2026-11-25T23:45:40.348Z"
+  "ver": "2.67.4",
+  "file": "lab-2.67.4.cwx",
+  "notes": "Left 0.75in, right 0.45in",
+  "at": "2026-11-26T06:19:54.445Z"
  }
 }

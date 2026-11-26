@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.67.4",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Lab receipt and test reports: left margin 0.75in, right margin 0.45in."
+  ]
+ },
+ {
+  "ver": "2.67.4",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Lab receipt and test reports: left margin 0.75in, right margin 0.45in."
+  ]
+ },
+ {
   "ver": "2.67.3",
   "target": "admin",
   "date": "26-Nov-2026",
