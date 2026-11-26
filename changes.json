@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.68.1",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The DIARY and PAID stamps show again on the client letter and PAMIR receipt."
+  ]
+ },
+ {
+  "ver": "2.68.1",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "The DIARY and PAID stamps show again on the client letter and PAMIR receipt."
+  ]
+ },
+ {
   "ver": "2.68.0",
   "target": "admin",
   "date": "26-Nov-2026",
