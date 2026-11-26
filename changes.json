@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.68.0",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Client letter and PAMIR receipt: white borders cut and the page fitted on A4 inside the margins (top 0.75in, left 0.75in, right 0.45in, bottom 0.45in). Lab receipt: a little larger, and its top line shows PSID No. and PSID Date."
+  ]
+ },
+ {
+  "ver": "2.68.0",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Client letter and PAMIR receipt: white borders cut and the page fitted on A4 inside the margins (top 0.75in, left 0.75in, right 0.45in, bottom 0.45in). Lab receipt: a little larger, and its top line shows PSID No. and PSID Date."
+  ]
+ },
+ {
   "ver": "2.67.4",
   "target": "admin",
   "date": "26-Nov-2026",

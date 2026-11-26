@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.67.4",
-  "file": "admin-2.67.4.cwx",
-  "notes": "Left 0.75in, right 0.45in",
-  "at": "2026-11-26T06:19:55.319Z"
+  "ver": "2.68.0",
+  "file": "admin-2.68.0.cwx",
+  "notes": "Letter & PAMIR in margins; receipt larger with PSID",
+  "at": "2026-11-26T06:38:47.541Z"
  },
  "lab": {
-  "ver": "2.67.4",
-  "file": "lab-2.67.4.cwx",
-  "notes": "Left 0.75in, right 0.45in",
-  "at": "2026-11-26T06:19:54.445Z"
+  "ver": "2.68.0",
+  "file": "lab-2.68.0.cwx",
+  "notes": "Letter & PAMIR in margins; receipt larger with PSID",
+  "at": "2026-11-26T06:38:47.330Z"
  }
 }
