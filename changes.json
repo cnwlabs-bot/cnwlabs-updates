@@ -1,5 +1,21 @@
 [
  {
+  "ver": "2.68.2",
+  "target": "admin",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Files downloaded from www.cnwlabs.com are named by the Report No. and date, e.g. SWAT-A-0024 (01) 11-Nov-2026.pdf."
+  ]
+ },
+ {
+  "ver": "2.68.2",
+  "target": "lab",
+  "date": "26-Nov-2026",
+  "notes": [
+   "Files downloaded from www.cnwlabs.com are named by the Report No. and date, e.g. SWAT-A-0024 (01) 11-Nov-2026.pdf."
+  ]
+ },
+ {
   "ver": "2.68.1",
   "target": "admin",
   "date": "26-Nov-2026",
