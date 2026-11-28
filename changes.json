@@ -1,5 +1,13 @@
 [
  {
+  "ver": "2.68.4",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Bill / Invoice: Name of Work now comes before Name of Contractor. After the name of work, the ADP No. and year are shown in brackets, then the selected sub head and sub work. Name of Contractor shows only the contractor of the selected sub work (or its sub head, or the main contractor when one contractor does the whole work). Old bills show this too."
+  ]
+ },
+ {
   "ver": "2.68.3",
   "target": "admin",
   "date": "28-Nov-2026",
