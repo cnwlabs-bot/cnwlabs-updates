@@ -1,14 +1,14 @@
 {
  "admin": {
-  "ver": "2.68.2",
-  "file": "admin-2.68.2.cwx",
-  "notes": "Download named by Report No. and date",
-  "at": "2026-11-26T07:13:35.129Z"
+  "ver": "2.68.3",
+  "file": "admin-2.68.3.cwx",
+  "notes": "Separate contractors: main contractor box removed",
+  "at": "2026-11-28T10:30:41.414Z"
  },
  "lab": {
-  "ver": "2.68.2",
-  "file": "lab-2.68.2.cwx",
-  "notes": "Download named by Report No. and date",
-  "at": "2026-11-26T07:13:34.877Z"
+  "ver": "2.68.3",
+  "file": "lab-2.68.3.cwx",
+  "notes": "Separate contractors: main contractor box removed",
+  "at": "2026-11-28T10:30:40.197Z"
  }
 }
