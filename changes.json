@@ -1,5 +1,85 @@
 [
  {
+  "ver": "2.69.5",
+  "target": "admin",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Admin online: new 'Changes from Claude' page (every update, and ask for a change). Auto-lock: Admin signs out after 30 minutes without use."
+  ]
+ },
+ {
+  "ver": "2.69.4",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Projects: District filter after Circle (districts from Admin), then Division and Sub Division."
+  ]
+ },
+ {
+  "ver": "2.69.3",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Project page: Pending tab \u2014 every test without an issued report, with Create report on each, Download pending list (PDF) and Excel."
+  ]
+ },
+ {
+  "ver": "2.69.2",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Projects: Active / Completed / Closed scheme tabs. Status switch has Closed. Same ADP No. as a completed or closed scheme is saved with a number, e.g. ADP NO. 245455/4545 (2016-17) (2)."
+  ]
+ },
+ {
+  "ver": "2.69.1",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Tests are counted from bill lines: each billed test is pending until its report is issued. Download window: Pending reports, Issued reports, Unpaid bills, Paid bills lists."
+  ]
+ },
+ {
+  "ver": "2.69.0",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Diary: Download progress report \u2014 all time, current FY, any FY, month, one date, from\u2013to; project, sub head, sub work, department, contractor, status, payment filters; PDF (landscape) and Excel."
+  ]
+ },
+ {
+  "ver": "2.68.9",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Progress report: landscape, one row per test with sub head, sub work, contractor, report, test, qty, rate, amount, bill and payment."
+  ]
+ },
+ {
+  "ver": "2.68.8",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Project page: project code, ADP No., department, circle, division, sub division; Active/Completed switch; tests done / pending per sub head and sub work; Open and PDF for each; full ADP progress report; duplicate project warning."
+  ]
+ },
+ {
+  "ver": "2.68.7",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Bill: sub head / sub work in the header only when there is one; several are listed below. 'Letter Sent by' joined with a comma."
+  ]
+ },
+ {
+  "ver": "2.68.6",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Bill header: Letter Sent by, Your letter Ref. No., Your letter dated; Name of Work, Sub Head, Sub Work in their own centred rows; Department and Letter received next to the contractor; Diary No. and Sub works removed; balanced two-line text."
+  ]
+ },
+ {
   "ver": "2.68.4",
   "target": "lab",
   "date": "28-Nov-2026",
