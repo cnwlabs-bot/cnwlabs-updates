@@ -1,5 +1,13 @@
 [
  {
+  "ver": "2.69.6",
+  "target": "admin",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Admin online: Backup & restore (download and bring back a backup file), Auto-lock setting (minutes or off), and a new 'Website & system' group: Verification website status, Online connection status, Admin Google Drive, Program updates."
+  ]
+ },
+ {
   "ver": "2.69.5",
   "target": "admin",
   "date": "28-Nov-2026",
