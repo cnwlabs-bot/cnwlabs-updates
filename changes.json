@@ -1,5 +1,13 @@
 [
  {
+  "ver": "2.69.5",
+  "target": "lab",
+  "date": "28-Nov-2026",
+  "notes": [
+   "Every list (Diary, Projects, Reports, Samples, Bills, Pending, Staff, Equipment\u2026): automatic Sr. numbers, Ascending / Descending buttons (remembered per page), and click any column heading to sort by it."
+  ]
+ },
+ {
   "ver": "2.69.6",
   "target": "admin",
   "date": "28-Nov-2026",
